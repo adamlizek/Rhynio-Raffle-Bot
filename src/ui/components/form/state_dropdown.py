@@ -1,0 +1,70 @@
+from PyQt5.QtGui import *
+from PyQt5.QtWidgets import *
+from PyQt5.QtCore import *
+
+
+class StateDropdown(QWidget):
+    def __init__(self):
+        super(QWidget, self).__init__()
+
+        layout = QHBoxLayout()
+        self.setLayout(layout)
+
+        layout.addWidget(QLabel("State"), 1)
+
+        self.state_combobox = QComboBox()
+        layout.addWidget(self.state_combobox, 2)
+
+        self.state_combobox.addItem("Alabama")
+        self.state_combobox.addItem("Alaska")
+        self.state_combobox.addItem("Arizona")
+        self.state_combobox.addItem("Arkansas")
+        self.state_combobox.addItem("California")
+        self.state_combobox.addItem("Colorado")
+        self.state_combobox.addItem("Connecticut")
+        self.state_combobox.addItem("Delaware")
+        self.state_combobox.addItem("District of Columbia")
+        self.state_combobox.addItem("Florida")
+        self.state_combobox.addItem("Georgia")
+        self.state_combobox.addItem("Hawaii")
+        self.state_combobox.addItem("Idaho")
+        self.state_combobox.addItem("Illinois")
+        self.state_combobox.addItem("Indiana")
+        self.state_combobox.addItem("Iowa")
+        self.state_combobox.addItem("Kansas")
+        self.state_combobox.addItem("Kentucky")
+        self.state_combobox.addItem("Louisiana")
+        self.state_combobox.addItem("Maine")
+        self.state_combobox.addItem("Maryland")
+        self.state_combobox.addItem("Massachusetts")
+        self.state_combobox.addItem("Michigan")
+        self.state_combobox.addItem("Missouri")
+        self.state_combobox.addItem("Montana")
+        self.state_combobox.addItem("Nebraska")
+        self.state_combobox.addItem("Nevada")
+        self.state_combobox.addItem("New Hampshire")
+        self.state_combobox.addItem("New Jersey")
+        self.state_combobox.addItem("New Mexico")
+        self.state_combobox.addItem("New York")
+        self.state_combobox.addItem("North Carolina")
+        self.state_combobox.addItem("Ohio")
+        self.state_combobox.addItem("Oklahoma")
+        self.state_combobox.addItem("Oregon")
+        self.state_combobox.addItem("Pennsylvania")
+        self.state_combobox.addItem("Rhode Island")
+        self.state_combobox.addItem("South Carolina")
+        self.state_combobox.addItem("South Dakota")
+        self.state_combobox.addItem("Tennessee")
+        self.state_combobox.addItem("Louisiana")
+        self.state_combobox.addItem("Texas")
+        self.state_combobox.addItem("Utah")
+        self.state_combobox.addItem("Vermont")
+        self.state_combobox.addItem("Virginia")
+        self.state_combobox.addItem("Washington")
+        self.state_combobox.addItem("West Virgina")
+        self.state_combobox.addItem("Wisconsin")
+        self.state_combobox.addItem("Wyoming")
+        self.state_combobox.addItem("Random")
+
+    def value(self):
+        return self.state_combobox.currentText()

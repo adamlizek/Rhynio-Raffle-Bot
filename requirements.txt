@@ -1,0 +1,14 @@
+PyQt5
+portalocker
+requests
+discord_webhook
+cfscrape
+js2py
+pymongo
+selenium
+polling
+cloudscraper
+faker
+dumper
+python-anticaptcha
+bs4

@@ -1,0 +1,215 @@
+2000:Frederiksberg:Zealand
+2100:København Ø:Zealand
+2150:Nordhavn:Zealand
+2200:København N:Zealand
+2300:København S:Zealand
+2400:København NV:Zealand
+2450:København SV:Zealand
+2500:Valby:Zealand
+2600:Glostrup:Zealand
+2605:Brøndby:Zealand
+2610:Rødovre:Zealand
+2620:Albertslund:Zealand
+2625:Vallensbæk:Zealand
+2630:Taastrup:Zealand
+2635:Ishøj:Zealand
+2640:Hedehusene:Zealand
+2650:Hvidovre:Zealand
+2660:Brøndby Strand:Zealand
+2665:Vallensbæk Strand:Zealand
+2670:Greve:Zealand
+2680:Solrød Strand:Zealand
+2690:Karlslunde:Zealand
+2700:Brønshøj:Zealand
+2720:Vanløse:Zealand
+2730:Herlev:Zealand
+2740:Skovlunde:Zealand
+2750:Ballerup:Zealand
+2760:Måløv:Zealand
+2765:Smørum:Zealand
+2770:Kastrup:Zealand
+2791:Dragør:Zealand
+2800:Kongens Lyngby:Zealand
+2820:Gentofte:Zealand
+2830:Virum:Zealand
+2840:Holte:Zealand
+2850:Nærum:Zealand
+2860:Søborg:Zealand
+2870:Dyssegård:Zealand
+2880:Bagsværd:Zealand
+2900:Hellerup:Zealand
+2920:Charlottenlund:Zealand
+2930:Klampenborg:Zealand
+2942:Skodsborg:Zealand
+2950:Vedbæk:Zealand
+2960:Rungsted Kyst:Zealand
+2970:Hørsholm:Zealand
+2980:Kokkedal:Zealand
+2990:Nivå:Zealand
+3000:Helsingør:Zealand
+3050:Humlebæk:Zealand
+3060:Espergærde:Zealand
+3070:Snekkersten:Zealand
+3080:Tikøb:Zealand
+3100:Hornbæk:Zealand
+3120:Dronningmølle:Zealand
+3140:Ålsgårde:Zealand
+3150:Hellebæk:Zealand
+3200:Helsinge:Zealand
+3210:Vejby:Zealand
+3220:Tisvildeleje:Zealand
+3230:Græsted:Zealand
+3250:Gilleleje:Zealand
+3300:Frederiksværk:Zealand
+3310:Ølsted:Zealand
+3320:Skævinge:Zealand
+3330:Gørløse:Zealand
+3360:Liseleje:Zealand
+3370:Melby:Zealand
+3390:Hundested:Zealand
+3400:Hillerød:Zealand
+3450:Allerød:Zealand
+3460:Birkerød:Zealand
+3480:Fredensborg:Zealand
+3490:Kvistgård:Zealand
+3500:Værløse:Zealand
+3520:Farum:Zealand
+3540:Lynge:Zealand
+3550:Slangerup:Zealand
+3600:Frederikssund:Zealand
+3630:Jægerspris:Zealand
+3650:Ølstykke:Zealand
+3660:Stenløse:Zealand
+3670:Veksø Sjælland:Zealand
+3700:Rønne:Zealand
+3720:Aakirkeby:Zealand
+3730:Nexø:Zealand
+3740:Svaneke:Zealand
+3751:Østermarie:Zealand
+3760:Gudhjem:Zealand
+3770:Allinge:Zealand
+3782:Klemensker:Zealand
+3790:Hasle:Zealand
+4000:Roskilde:Zealand
+4030:Tune:Zealand
+4040:Jyllinge:Zealand
+4050:Skibby:Zealand
+4060:Kirke Såby:Zealand
+4070:Kirke Hyllinge:Zealand
+4100:Ringsted:Zealand
+4129:Ringsted:Zealand
+4130:Viby Sjælland:Zealand
+4140:Borup:Zealand
+4160:Herlufmagle:Zealand
+4171:Glumsø:Zealand
+4173:Fjenneslev:Zealand
+4174:Jystrup Midtsj:Zealand
+4180:Sorø:Zealand
+4190:Munke Bjergb:Zealandy
+4200:Slagelse:Zealand
+4220:Korsør:Zealand
+4230:Skælskør:Zealand
+4241:Vemmelev:Zealand
+4242:Boeslunde:Zealand
+4243:Rude:Zealand
+4250:Fuglebjerg:Zealand
+4261:Dalmose:Zealand
+4262:Sandved:Zealand
+4270:Høng:Zealand
+4281:Gørlev:Zealand
+4291:Ruds Vedby:Zealand
+4293:Dianalund:Zealand
+4295:Stenlille:Zealand
+4296:Nyrup:Zealand
+4300:Holbæk:Zealand
+4320:Lejre:Zealand
+4330:Hvalsø:Zealand
+4340:Tølløse:Zealand
+4350:Ugerløse:Zealand
+4360:Kirke Eskilstrup:Zealand
+4370:Store Merløse:Zealand
+4390:Vipperød:Zealand
+4400:Kalundborg:Zealand
+4420:Regstrup:Zealand
+4440:Mørkøv:Zealand
+4450:Jyderup:Zealand
+4460:Snertinge:Zealand
+4470:Svebølle:Zealand
+4480:Store Fuglede:Zealand
+4490:Jerslev Sjælland:Zealand
+4500:Nykøbing Sj:Zealand
+4520:Svinninge:Zealand
+4534:Hørve:Zealand
+4540:Fårevejle:Zealand
+4550:Asnæs:Zealand
+4560:Vig:Zealand
+4571:Grevinge:Zealand
+4572:Nørre Asmindrup:Zealand
+4573:Højby:Zealand
+4581:Rørvig:Zealand
+4583:Sjællands Odde:Zealand
+4591:Føllenslev:Zealand
+4592:Sejerø:Zealand
+4593:Eskebjerg:Zealand
+4600:Køge:Zealand
+4621:Gadstrup:Zealand
+4622:Havdrup:Zealand
+4623:Lille Skensved:Zealand
+4632:Bjæverskov:Zealand
+4640:Faxe:Zealand
+4652:Hårlev:Zealand
+4653:Karise:Zealand
+4654:Faxe Ladeplads:Zealand
+4660:Store Heddinge:Zealand
+4671:Strøby:Zealand
+4672:Klippinge:Zealand
+4673:Rødvig Stevns:Zealand
+4681:Herfølge:Zealand
+4682:Tureby:Zealand
+4683:Rønnede:Zealand
+4684:Holmegaard:Zealand
+4690:Haslev:Zealand
+4700:Næstved:Zealand
+4720:Præstø:Zealand
+4733:Tappernøje:Zealand
+4735:Mern:Zealand
+4736:Karrebæksminde:Zealand
+4750:Lundby:Zealand
+4760:Vordingborg:Zealand
+4771:Kalvehave:Zealand
+4772:Langebæk:Zealand
+4773:Stensved:Zealand
+4780:Stege:Zealand
+4791:Borre:Zealand
+4792:Askeby:Zealand
+4793:Bogø By:Zealand
+4800:Nykøbing F:Zealand
+4840:Nørre Alslev:Zealand
+4850:Stubbekøbing:Zealand
+4862:Guldborg:Zealand
+4863:Eskilstrup:Zealand
+4871:Horbelev:Zealand
+4872:Idestrup:Zealand
+4873:Væggerløse:Zealand
+4874:Gedser:Zealand
+4880:Nysted:Zealand
+4891:Toreby L:Zealand
+4892:Kettinge:Zealand
+4894:Øster Ulslev:Zealand
+4895:Errindlev:Zealand
+4900:Nakskov:Zealand
+4912:Harpelunde:Zealand
+4913:Horslunde:Zealand
+4920:Søllested:Zealand
+4930:Maribo:Zealand
+4941:Bandholm:Zealand
+4943:Torrig L:Zealand
+4944:Fejø:Zealand
+4951:Nørreballe:Zealand
+4952:Stokkemarke:Zealand
+4953:Vesterborg:Zealand
+4960:Holeby:Zealand
+4970:Rødby:Zealand
+4983:Dannemare:Zealand
+4990:Sakskøbing:Zealand
+4992:Midtsjælland USF P:Zealand

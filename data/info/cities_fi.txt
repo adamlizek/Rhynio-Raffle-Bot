@@ -1,0 +1,4637 @@
+00002:Helsinki:Uusimaa
+00003:Helsinki:Uusimaa
+00004:Helsinki:Uusimaa
+00006:Helsinki:Uusimaa
+00007:Helsinki:Uusimaa
+00010:Helsinki:Uusimaa
+00100:Helsinki:Uusimaa
+00101:Helsinki:Uusimaa
+00120:Helsinki:Uusimaa
+00121:Helsinki:Uusimaa
+00130:Helsinki:Uusimaa
+00131:Helsinki:Uusimaa
+00140:Helsinki:Uusimaa
+00141:Helsinki:Uusimaa
+00150:Helsinki:Uusimaa
+00151:Helsinki:Uusimaa
+00160:Helsinki:Uusimaa
+00161:Helsinki:Uusimaa
+00170:Helsinki:Uusimaa
+00171:Helsinki:Uusimaa
+00180:Helsinki:Uusimaa
+00181:Helsinki:Uusimaa
+00190:Helsinki:Uusimaa
+00191:Helsinki:Uusimaa
+00200:Helsinki:Uusimaa
+00201:Helsinki:Uusimaa
+00210:Helsinki:Uusimaa
+00211:Helsinki:Uusimaa
+00230:Helsinki:Uusimaa
+00231:Helsinki:Uusimaa
+00240:Helsinki:Uusimaa
+00241:Helsinki:Uusimaa
+00250:Helsinki:Uusimaa
+00251:Helsinki:Uusimaa
+00260:Helsinki:Uusimaa
+00270:Helsinki:Uusimaa
+00271:Helsinki:Uusimaa
+00280:Helsinki:Uusimaa
+00281:Helsinki:Uusimaa
+00290:Helsinki:Uusimaa
+00300:Helsinki:Uusimaa
+00301:Helsinki:Uusimaa
+00310:Helsinki:Uusimaa
+00320:Helsinki:Uusimaa
+00321:Helsinki:Uusimaa
+00330:Helsinki:Uusimaa
+00331:Helsinki:Uusimaa
+00340:Helsinki:Uusimaa
+00341:Helsinki:Uusimaa
+00350:Helsinki:Uusimaa
+00351:Helsinki:Uusimaa
+00360:Helsinki:Uusimaa
+00370:Helsinki:Uusimaa
+00371:Helsinki:Uusimaa
+00380:Helsinki:Uusimaa
+00381:Helsinki:Uusimaa
+00390:Helsinki:Uusimaa
+00391:Helsinki:Uusimaa
+00400:Helsinki:Uusimaa
+00401:Helsinki:Uusimaa
+00410:Helsinki:Uusimaa
+00411:Helsinki:Uusimaa
+00420:Helsinki:Uusimaa
+00421:Helsinki:Uusimaa
+00430:Helsinki:Uusimaa
+00431:Helsinki:Uusimaa
+00440:Helsinki:Uusimaa
+00441:Helsinki:Uusimaa
+00500:Helsinki:Uusimaa
+00501:Helsinki:Uusimaa
+00510:Helsinki:Uusimaa
+00511:Helsinki:Uusimaa
+00520:Helsinki:Uusimaa
+00521:Helsinki:Uusimaa
+00530:Helsinki:Uusimaa
+00531:Helsinki:Uusimaa
+00550:Helsinki:Uusimaa
+00551:Helsinki:Uusimaa
+00560:Helsinki:Uusimaa
+00561:Helsinki:Uusimaa
+00570:Helsinki:Uusimaa
+00571:Helsinki:Uusimaa
+00580:Helsinki:Uusimaa
+00581:Helsinki:Uusimaa
+00600:Helsinki:Uusimaa
+00601:Helsinki:Uusimaa
+00610:Helsinki:Uusimaa
+00611:Helsinki:Uusimaa
+00620:Helsinki:Uusimaa
+00621:Helsinki:Uusimaa
+00630:Helsinki:Uusimaa
+00640:Helsinki:Uusimaa
+00641:Helsinki:Uusimaa
+00650:Helsinki:Uusimaa
+00660:Helsinki:Uusimaa
+00661:Helsinki:Uusimaa
+00670:Helsinki:Uusimaa
+00671:Helsinki:Uusimaa
+00680:Helsinki:Uusimaa
+00681:Helsinki:Uusimaa
+00690:Helsinki:Uusimaa
+00691:Helsinki:Uusimaa
+00700:Helsinki:Uusimaa
+00701:Helsinki:Uusimaa
+00710:Helsinki:Uusimaa
+00711:Helsinki:Uusimaa
+00720:Helsinki:Uusimaa
+00721:Helsinki:Uusimaa
+00730:Helsinki:Uusimaa
+00731:Helsinki:Uusimaa
+00740:Helsinki:Uusimaa
+00741:Helsinki:Uusimaa
+00750:Helsinki:Uusimaa
+00751:Helsinki:Uusimaa
+00760:Helsinki:Uusimaa
+00761:Helsinki:Uusimaa
+00770:Helsinki:Uusimaa
+00771:Helsinki:Uusimaa
+00780:Helsinki:Uusimaa
+00781:Helsinki:Uusimaa
+00800:Helsinki:Uusimaa
+00801:Helsinki:Uusimaa
+00810:Helsinki:Uusimaa
+00811:Helsinki:Uusimaa
+00819:Helsinki:Uusimaa
+00820:Helsinki:Uusimaa
+00821:Helsinki:Uusimaa
+00830:Helsinki:Uusimaa
+00831:Helsinki:Uusimaa
+00840:Helsinki:Uusimaa
+00841:Helsinki:Uusimaa
+00850:Helsinki:Uusimaa
+00851:Helsinki:Uusimaa
+00860:Helsinki:Uusimaa
+00861:Helsinki:Uusimaa
+00870:Helsinki:Uusimaa
+00880:Helsinki:Uusimaa
+00881:Helsinki:Uusimaa
+00900:Helsinki:Uusimaa
+00901:Helsinki:Uusimaa
+00910:Helsinki:Uusimaa
+00911:Helsinki:Uusimaa
+00920:Helsinki:Uusimaa
+00921:Helsinki:Uusimaa
+00930:Helsinki:Uusimaa
+00931:Helsinki:Uusimaa
+00940:Helsinki:Uusimaa
+00941:Helsinki:Uusimaa
+00950:Helsinki:Uusimaa
+00951:Helsinki:Uusimaa
+00960:Helsinki:Uusimaa
+00970:Helsinki:Uusimaa
+00971:Helsinki:Uusimaa
+00980:Helsinki:Uusimaa
+00981:Helsinki:Uusimaa
+00990:Helsinki:Uusimaa
+01002:Vantaa:Uusimaa
+01003:Vantaa:Uusimaa
+01009:Veikkaus:Uusimaa
+01019:Ivo:Uusimaa
+01100:Itäsalmi:Uusimaa
+01101:Itäsalmi:Uusimaa
+01120:Västerskog:Uusimaa
+01121:Västerskog:Uusimaa
+01130:Gumbostrand:Uusimaa
+01150:Söderkulla:Uusimaa
+01151:Söderkulla:Uusimaa
+01180:Kalkkiranta:Uusimaa
+01190:Sipoo-Box:Uusimaa
+01200:Vantaa:Uusimaa
+01201:Vantaa:Uusimaa
+01230:Vantaa:Uusimaa
+01231:Vantaa:Uusimaa
+01260:Vantaa:Uusimaa
+01261:Vantaa:Uusimaa
+01280:Vantaa:Uusimaa
+01300:Vantaa:Uusimaa
+01301:Vantaa:Uusimaa
+01305:Vantaa 30/Yritysposti:Uusimaa
+01350:Vantaa:Uusimaa
+01351:Vantaa:Uusimaa
+01360:Vantaa:Uusimaa
+01361:Vantaa:Uusimaa
+01370:Vantaa:Uusimaa
+01380:Vantaa:Uusimaa
+01390:Vantaa:Uusimaa
+01391:Vantaa:Uusimaa
+01400:Vantaa:Uusimaa
+01401:Vantaa:Uusimaa
+01420:Vantaa:Uusimaa
+01450:Vantaa:Uusimaa
+01451:Vantaa:Uusimaa
+01480:Vantaa:Uusimaa
+01490:Vantaa:Uusimaa
+01510:Vantaa:Uusimaa
+01511:Vantaa:Uusimaa
+01520:Vantaa:Uusimaa
+01530:Vantaa:Uusimaa
+01531:Vantaa:Uusimaa
+01560:Maantiekylä:Uusimaa
+01590:Maisala:Uusimaa
+01600:Vantaa:Uusimaa
+01601:Vantaa:Uusimaa
+01610:Vantaa:Uusimaa
+01611:Vantaa:Uusimaa
+01620:Vantaa:Uusimaa
+01621:Vantaa:Uusimaa
+01630:Vantaa:Uusimaa
+01640:Vantaa:Uusimaa
+01641:Vantaa:Uusimaa
+01650:Vantaa:Uusimaa
+01651:Vantaa:Uusimaa
+01660:Vantaa:Uusimaa
+01661:Vantaa:Uusimaa
+01670:Vantaa:Uusimaa
+01671:Vantaa:Uusimaa
+01680:Vantaa:Uusimaa
+01690:Vantaa:Uusimaa
+01700:Vantaa:Uusimaa
+01710:Vantaa:Uusimaa
+01711:Vantaa:Uusimaa
+01720:Vantaa:Uusimaa
+01721:Vantaa:Uusimaa
+01730:Vantaa:Uusimaa
+01731:Vantaa:Uusimaa
+01740:Vantaa:Uusimaa
+01741:Vantaa:Uusimaa
+01750:Vantaa:Uusimaa
+01760:Vantaa:Uusimaa
+01770:Vantaa:Uusimaa
+01800:Klaukkala:Uusimaa
+01801:Klaukkala:Uusimaa
+01810:Luhtajoki:Uusimaa
+01820:Klaukkala:Uusimaa
+01830:Lepsämä:Uusimaa
+01850:Haikala:Uusimaa
+01860:Perttula:Uusimaa
+01900:Nurmijärvi:Uusimaa
+01901:Nurmijärvi:Uusimaa
+01940:Palojoki:Uusimaa
+02002:Espoo:Uusimaa
+02003:Espoo:Uusimaa
+02007:Espoo:Uusimaa
+02010:Tapiola:Uusimaa
+02015:Tkk:Uusimaa
+02020:Metsä:Uusimaa
+02044:Vtt:Uusimaa
+02050:Radiolinja:Uusimaa
+02100:Espoo:Uusimaa
+02101:Espoo:Uusimaa
+02110:Espoo:Uusimaa
+02111:Espoo:Uusimaa
+02120:Espoo:Uusimaa
+02130:Espoo:Uusimaa
+02131:Espoo:Uusimaa
+02140:Espoo:Uusimaa
+02141:Espoo:Uusimaa
+02150:Espoo:Uusimaa
+02151:Espoo:Uusimaa
+02160:Espoo:Uusimaa
+02170:Espoo:Uusimaa
+02171:Espoo:Uusimaa
+02180:Espoo:Uusimaa
+02181:Espoo:Uusimaa
+02200:Espoo:Uusimaa
+02201:Espoo:Uusimaa
+02210:Espoo:Uusimaa
+02211:Espoo:Uusimaa
+02230:Espoo:Uusimaa
+02231:Espoo:Uusimaa
+02240:Espoo:Uusimaa
+02241:Espoo:Uusimaa
+02260:Espoo:Uusimaa
+02261:Espoo:Uusimaa
+02270:Espoo:Uusimaa
+02271:Espoo:Uusimaa
+02280:Espoo:Uusimaa
+02281:Espoo:Uusimaa
+02290:Espoo:Uusimaa
+02300:Espoo:Uusimaa
+02320:Espoo:Uusimaa
+02321:Espoo:Uusimaa
+02330:Espoo:Uusimaa
+02340:Espoo:Uusimaa
+02341:Espoo:Uusimaa
+02360:Espoo:Uusimaa
+02361:Espoo:Uusimaa
+02380:Espoo:Uusimaa
+02400:Kirkkonummi:Uusimaa
+02401:Kirkkonummi:Uusimaa
+02410:Kirkkonummi:Uusimaa
+02411:Kirkkonummi:Uusimaa
+02420:Jorvas:Uusimaa
+02421:Jorvas:Uusimaa
+02430:Masala:Uusimaa
+02431:Masala:Uusimaa
+02440:Luoma:Uusimaa
+02460:Kantvik:Uusimaa
+02470:Upinniemi:Uusimaa
+02471:Upinniemi:Uusimaa
+02490:Pikkala:Uusimaa
+02510:Oitmäki:Uusimaa
+02520:Lapinkylä:Uusimaa
+02540:Kylmälä:Uusimaa
+02550:Evitskog:Uusimaa
+02570:Siuntio kk:Uusimaa
+02580:Siuntio as:Uusimaa
+02581:Siuntio:Uusimaa
+02590:Lappers:Uusimaa
+02600:Espoo:Uusimaa
+02601:Espoo:Uusimaa
+02610:Espoo:Uusimaa
+02611:Espoo:Uusimaa
+02620:Espoo:Uusimaa
+02621:Espoo:Uusimaa
+02630:Espoo:Uusimaa
+02631:Espoo:Uusimaa
+02660:Espoo:Uusimaa
+02661:Espoo:Uusimaa
+02680:Espoo:Uusimaa
+02700:Kauniainen:Uusimaa
+02701:Kauniainen:Uusimaa
+02710:Espoo:Uusimaa
+02711:Espoo:Uusimaa
+02720:Espoo:Uusimaa
+02721:Espoo:Uusimaa
+02730:Espoo:Uusimaa
+02731:Espoo:Uusimaa
+02740:Espoo:Uusimaa
+02741:Espoo:Uusimaa
+02750:Espoo:Uusimaa
+02760:Espoo:Uusimaa
+02761:Espoo:Uusimaa
+02770:Espoo:Uusimaa
+02771:Espoo:Uusimaa
+02780:Espoo:Uusimaa
+02781:Espoo:Uusimaa
+02810:Espoo:Uusimaa
+02811:Espoo:Uusimaa
+02820:Espoo:Uusimaa
+02821:Espoo:Uusimaa
+02860:Espoo:Uusimaa
+02861:Espoo:Uusimaa
+02880:Veikkola:Uusimaa
+02881:Veikkola:Uusimaa
+02920:Espoo:Uusimaa
+02921:Espoo:Uusimaa
+02940:Espoo:Uusimaa
+02941:Espoo:Uusimaa
+02970:Espoo:Uusimaa
+02971:Espoo:Uusimaa
+02980:Espoo:Uusimaa
+02981:Espoo:Uusimaa
+03007:Nummela:Uusimaa
+03100:Nummela:Uusimaa
+03101:Nummela:Uusimaa
+03150:Huhmari:Uusimaa
+03220:Tervalampi:Uusimaa
+03250:Ojakkala:Uusimaa
+03300:Otalampi:Uusimaa
+03320:Selki:Uusimaa
+03400:Vihti:Uusimaa
+03401:Vihti:Uusimaa
+03430:Jokikunta:Uusimaa
+03600:Karkkila:Uusimaa
+03601:Karkkila:Uusimaa
+03607:Karkkila:Uusimaa
+03620:Karkkila:Uusimaa
+03621:Karkkila:Uusimaa
+03710:Uusitalo:Uusimaa
+03790:Vihtijärvi:Uusimaa
+03810:Ikkala:Uusimaa
+03850:Pusula:Uusimaa
+03870:Hyönölä:Uusimaa
+03999:Helsinki:Uusimaa
+04110:Nikkilän Sairaala:Uusimaa
+04130:Sipoo:Uusimaa
+04131:Sipoo:Uusimaa
+04150:Martinkylä:Uusimaa
+04170:Paippinen:Uusimaa
+04200:Kerava:Uusimaa
+04201:Kerava:Uusimaa
+04207:Kerava:Uusimaa
+04220:Kerava:Uusimaa
+04221:Kerava:Uusimaa
+04230:Kerava:Uusimaa
+04231:Kerava:Uusimaa
+04240:Talma:Uusimaa
+04250:Kerava:Uusimaa
+04251:Kerava:Uusimaa
+04260:Kerava:Uusimaa
+04261:Kerava:Uusimaa
+04300:Tuusula:Uusimaa
+04301:Tuusula:Uusimaa
+04310:Tuusula:Uusimaa
+04311:Tuusula:Uusimaa
+04320:Tuusula:Uusimaa
+04321:Riihikallio:Uusimaa
+04330:Lahela:Uusimaa
+04340:Tuusula:Uusimaa
+04350:Nahkela:Uusimaa
+04360:Tuusula:Uusimaa
+04370:Rusutjärvi:Uusimaa
+04380:Tuusula:Uusimaa
+04390:Jäniksenlinna:Uusimaa
+04400:Järvenpää:Uusimaa
+04401:Järvenpää:Uusimaa
+04407:Järvenpää:Uusimaa
+04410:Järvenpää:Uusimaa
+04420:Järvenpää:Uusimaa
+04430:Järvenpää:Uusimaa
+04431:Järvenpää:Uusimaa
+04440:Järvenpää:Uusimaa
+04441:Järvenpää:Uusimaa
+04460:Nummenkylä:Uusimaa
+04480:Haarajoki:Uusimaa
+04500:Kellokoski:Uusimaa
+04501:Kellokoski:Uusimaa
+04530:Ohkola:Uusimaa
+04600:Mäntsälä:Uusimaa
+04601:Mäntsälä:Uusimaa
+04630:Sääkskylä:Uusimaa
+04660:Numminen:Uusimaa
+04680:Hirvihaara:Uusimaa
+04740:Sälinkää:Uusimaa
+04770:Sahakylä:Uusimaa
+04820:Kaukalampi:Uusimaa
+04840:Hautjärvi:Uusimaa
+04920:Saarentaus:Uusimaa
+04940:Levanto:Uusimaa
+05100:Röykkä:Uusimaa
+05130:Röykän Sairaala:Uusimaa
+05131:Röykän Sairaala:Uusimaa
+05200:Rajamäki:Uusimaa
+05201:Rajamäki:Uusimaa
+05250:Kiljava:Uusimaa
+05310:Raala:Uusimaa
+05400:Jokela:Uusimaa
+05401:Jokela:Uusimaa
+05430:Nuppulinna:Uusimaa
+05450:Nukari:Uusimaa
+05451:Nukari:Uusimaa
+05460:Hyvinkää:Uusimaa
+05470:Hyvinkää:Uusimaa
+05510:Hyvinkää:Uusimaa
+05620:Hyvinkää:Uusimaa
+05720:Hyvinkää:Uusimaa
+05800:Hyvinkää:Uusimaa
+05801:Hyvinkää:Uusimaa
+05807:Hyvinkää 7:Uusimaa
+05820:Hyvinkää:Uusimaa
+05821:Hyvinkää:Uusimaa
+05830:Hyvinkää:Uusimaa
+05831:Hyvinkää:Uusimaa
+05840:Hyvinkää:Uusimaa
+05841:Hyvinkää:Uusimaa
+05850:Hyvinkää:Uusimaa
+05860:Hyvinkää:Uusimaa
+05870:Salpakangas:Uusimaa
+05880:Hyvinkää:Uusimaa
+05881:Hyvinkää:Uusimaa
+05900:Hyvinkää:Uusimaa
+05901:Hyvinkää:Uusimaa
+05950:Hyvinkää:Uusimaa
+05999:Hyvinkää:Uusimaa
+06100:Porvoo:Uusimaa
+06101:Porvoo:Uusimaa
+06121:Vantaa:Uusimaa
+06150:Porvoo:Uusimaa
+06151:Porvoo:Uusimaa
+06200:Porvoo:Uusimaa
+06400:Porvoo:Uusimaa
+06401:Porvoo:Uusimaa
+06450:Porvoo:Uusimaa
+06451:Porvoo:Uusimaa
+06500:Porvoo:Uusimaa
+06530:Kerkkoo:Uusimaa
+06550:Hamari:Uusimaa
+06650:Hamari:Uusimaa
+06750:Tolkkinen:Uusimaa
+06820:Kulloo:Uusimaa
+06830:Kulloonkylä:Uusimaa
+06831:Kulloby:Uusimaa
+06850:Kulloo:Uusimaa
+06880:Kärrby:Uusimaa
+06881:Kärrby:Uusimaa
+06950:Emäsalo:Uusimaa
+06951:Emsalö:Uusimaa
+07110:Hinthaara:Uusimaa
+07130:Anttila:Uusimaa
+07150:Laukkoski:Uusimaa
+07170:Pornainen:Uusimaa
+07171:Pornainen:Uusimaa
+07190:Halkia:Uusimaa
+07220:Kaarenkylä:Uusimaa
+07230:Monninkylä:Uusimaa
+07231:Monninkylä:Uusimaa
+07280:Ilola:Uusimaa
+07281:Ilola:Uusimaa
+07310:Sannäs:Uusimaa
+07320:Jakari:Uusimaa
+07340:Epoo:Uusimaa
+07350:Gäddrag:Uusimaa
+07360:Tirmo:Uusimaa
+07370:Pellinki:Uusimaa
+07380:Österby:Uusimaa
+07390:Suurpellinki:Uusimaa
+07410:Kråkö:Uusimaa
+07450:Voolahti:Uusimaa
+07451:Voolahti:Uusimaa
+07500:Askola:Uusimaa
+07510:Vakkola:Uusimaa
+07530:Onkimaa:Uusimaa
+07540:Korttia:Uusimaa
+07550:Torpinkylä:Uusimaa
+07560:Pukkila:Uusimaa
+07565:Kantele:Uusimaa
+07580:Tiilää:Uusimaa
+07590:Huuvari:Uusimaa
+07600:Myrskylä:Uusimaa
+07601:Myrskylä:Uusimaa
+07680:Juornaankylä:Uusimaa
+07690:Kankkila:Uusimaa
+07700:Koskenkylän Saha:Uusimaa
+07701:Koskenkylän Saha:Uusimaa
+07720:Malmgård:Uusimaa
+07740:Gammelby:Uusimaa
+07750:Isnäs:Uusimaa
+07780:Härkäpää:Uusimaa
+07800:Lapinjärvi:Uusimaa
+07810:Ingermaninkylä:Uusimaa
+07820:Porlammi:Uusimaa
+07830:Pukaro:Uusimaa
+07840:Lindkoski:Uusimaa
+07850:Heikinkylä:Uusimaa
+07870:Skinnarby:Uusimaa
+07880:Liljendal:Uusimaa
+07881:Liljendal:Uusimaa
+07890:Mickelspiltom:Uusimaa
+07899:Loviisa:Uusimaa
+07900:Loviisa:Uusimaa
+07901:Loviisa:Uusimaa
+07910:Valko:Uusimaa
+07920:Loviisa:Uusimaa
+07930:Pernaja:Uusimaa
+07940:Loviisa:Uusimaa
+07945:Kuggom:Uusimaa
+07955:Tesjoki:Uusimaa
+07960:Ahvenkoski:Uusimaa
+07970:Ruotsinpyhtää:Uusimaa
+07980:Kuninkaankylä:Uusimaa
+07990:Ruotsinkylä:Uusimaa
+07999:Porvoo:Uusimaa
+08007:Lohja:Uusimaa
+08100:Lohja:Uusimaa
+08101:Lohja:Uusimaa
+08150:Lohja:Uusimaa
+08151:Lohja:Uusimaa
+08200:Lohja:Uusimaa
+08201:Lohja:Uusimaa
+08350:Routio:Uusimaa
+08360:Kisakallio:Uusimaa
+08450:Hormajärvi:Uusimaa
+08480:Karstu:Uusimaa
+08500:Lohja As:Uusimaa
+08501:Lohja As:Uusimaa
+08550:Lohja:Uusimaa
+08680:Muijala:Uusimaa
+08681:Muijala:Uusimaa
+08700:Virkkala:Uusimaa
+08701:Virkkala:Uusimaa
+08720:Virkkala:Uusimaa
+08800:Kirkniemi:Uusimaa
+09120:Karjalohja:Uusimaa
+09140:Risteys:Uusimaa
+09220:Sammatti:Uusimaa
+09430:Saukkola:Uusimaa
+09520:Millola:Uusimaa
+09630:Koisjärvi:Uusimaa
+09710:Hyrsynummi:Uusimaa
+09810:Nummi:Uusimaa
+09930:Leppäkorpi:Uusimaa
+09999:Lohja:Uusimaa
+10120:Tähtelä:Uusimaa
+10140:Päivölä:Uusimaa
+10160:Degerby Ul:Uusimaa
+10161:Degerby:Uusimaa
+10210:Inkoo:Uusimaa
+10211:Inkoo:Uusimaa
+10230:Inkoo As:Uusimaa
+10250:Fagervik:Uusimaa
+10270:Barösund:Uusimaa
+10300:Karjaa:Uusimaa
+10301:Karjaa:Uusimaa
+10320:Karjaa:Uusimaa
+10330:Pinjainen:Uusimaa
+10350:Meltolan Sairaala:Uusimaa
+10360:Mustio:Uusimaa
+10380:Kaunislahti:Uusimaa
+10410:Åminnefors:Uusimaa
+10411:Åminnefors:Uusimaa
+10420:Pohjankuru:Uusimaa
+10421:Pohjankuru:Uusimaa
+10440:Bollsta:Uusimaa
+10441:Bollsta:Uusimaa
+10470:Fiskari:Uusimaa
+10480:Antskog:Uusimaa
+10520:Tenhola:Uusimaa
+10570:Bromarv:Uusimaa
+10600:Tammisaari:Uusimaa
+10601:Tammisaari:Uusimaa
+10620:Högbacka:Uusimaa
+10640:Dragsvik:Uusimaa
+10641:Dragsvik:Uusimaa
+10650:f:Uusimaa
+10651:Tammisaari:Uusimaa
+10660:Tammisaari:Uusimaa
+10680:Skogby:Uusimaa
+10710:Snappertuna:Uusimaa
+10820:Lappohja:Uusimaa
+10850:Tvärminne:Uusimaa
+10900:Hanko:Uusimaa
+10901:Hanko:Uusimaa
+10940:Hangonkylä:Uusimaa
+10960:Hanko Pohjoinen:Uusimaa
+10961:Hanko Pohjoinen:Uusimaa
+11007:Riihimäki:Kanta-Häme
+11100:Riihimäki:Kanta-Häme
+11101:Riihimäki:Kanta-Häme
+11110:Riihimäki:Kanta-Häme
+11111:Riihimäki:Kanta-Häme
+11120:Riihimäki:Kanta-Häme
+11130:Riihimäki:Kanta-Häme
+11131:Riihimäki:Kanta-Häme
+11310:Riihimäki:Kanta-Häme
+11311:Riihimäki:Kanta-Häme
+11710:Riihimäki:Kanta-Häme
+11711:Riihimäki:Kanta-Häme
+11910:Riihimäki:Kanta-Häme
+12100:Oitti:Kanta-Häme
+12101:Oitti:Kanta-Häme
+12130:Mommila:Kanta-Häme
+12170:Hietoinen:Kanta-Häme
+12210:Hausjärvi:Kanta-Häme
+12240:Hikiä:Kanta-Häme
+12310:Ryttylä:Kanta-Häme
+12350:Turkhauta:Kanta-Häme
+12380:Leppäkoski:Kanta-Häme
+12400:Tervakoski:Kanta-Häme
+12401:Tervakoski:Kanta-Häme
+12450:Vähikkälä:Kanta-Häme
+12520:Kormu:Kanta-Häme
+12540:Launonen:Kanta-Häme
+12600:Läyliäinen:Kanta-Häme
+12630:Sajaniemi:Kanta-Häme
+12640:Jokiniemi:Kanta-Häme
+12700:Loppi:Kanta-Häme
+12701:Loppi:Kanta-Häme
+12706:Marskinmaja:Kanta-Häme
+12750:Pilpala:Kanta-Häme
+12820:Räyskälä:Kanta-Häme
+12920:Topeno:Kanta-Häme
+12950:Sokala:Kanta-Häme
+12999:Riihimäki:Kanta-Häme
+13007:Hämeenlinna:Kanta-Häme
+13100:Hämeenlinna:Kanta-Häme
+13101:Hämeenlinna:Kanta-Häme
+13103:Jean sibeliuksen syntymäkoti:Kanta-Häme
+13110:Hämeenlinna:Kanta-Häme
+13111:Hämeenlinna:Kanta-Häme
+13130:Hämeenlinna:Kanta-Häme
+13131:Hämeenlinna:Kanta-Häme
+13160:Hämeenlinna:Kanta-Häme
+13200:Hämeenlinna:Kanta-Häme
+13201:Hämeenlinna:Kanta-Häme
+13210:Hämeenlinna:Kanta-Häme
+13211:Hämeenlinna:Kanta-Häme
+13220:Hämeenlinna:Kanta-Häme
+13230:Aulanko:Kanta-Häme
+13250:Hämeenlinna:Kanta-Häme
+13270:Hämeenlinna:Kanta-Häme
+13300:Hämeenlinna:Kanta-Häme
+13330:Harviala:Kanta-Häme
+13400:Hämeenlinna:Kanta-Häme
+13430:Hämeenlinna:Kanta-Häme
+13500:Hämeenlinna:Kanta-Häme
+13501:Hämeenlinna:Kanta-Häme
+13530:Hämeenlinna:Kanta-Häme
+13600:Hämeenlinna:Kanta-Häme
+13700:Parolannummi:Kanta-Häme
+13701:Parolannummi:Kanta-Häme
+13706:Parolan panssarimuseo:Kanta-Häme
+13720:Parola:Kanta-Häme
+13721:Parola:Kanta-Häme
+13800:Katinala:Kanta-Häme
+13806:Hattulan vanha kirkko:Kanta-Häme
+13880:Hattula:Kanta-Häme
+13900:Pekola:Kanta-Häme
+13930:Papinsalmi:Kanta-Häme
+14140:Jokimaa:Kanta-Häme
+14200:Turenki:Kanta-Häme
+14201:Turenki:Kanta-Häme
+14240:Janakkala:Kanta-Häme
+14300:Renko:Kanta-Häme
+14301:Renko:Kanta-Häme
+14330:Kaloinen:Kanta-Häme
+14370:Lukana:Kanta-Häme
+14430:Vuohiniemi:Kanta-Häme
+14450:Rimmilä:Kanta-Häme
+14470:Eteläinen:Kanta-Häme
+14500:Iittala:Kanta-Häme
+14501:Iittala:Kanta-Häme
+14530:Leteensuo:Kanta-Häme
+14580:Kuurila:Kanta-Häme
+14610:Lepaa:Kanta-Häme
+14620:Tyrväntö:Kanta-Häme
+14680:Alvettula:Kanta-Häme
+14690:Torvoila:Kanta-Häme
+14700:Hauho:Kanta-Häme
+14701:Hauho:Kanta-Häme
+14760:Kokkila:Kanta-Häme
+14770:Eteläinen:Kanta-Häme
+14810:Pohjoinen:Kanta-Häme
+14820:Tuulos:Kanta-Häme
+14840:Sairiala:Kanta-Häme
+14870:Juttila:Kanta-Häme
+14930:Sappee:Kanta-Häme
+14960:Puutikkala:Kanta-Häme
+14980:Kuohijoki:Kanta-Häme
+14999:Hämeenlinna:Kanta-Häme
+15007:Lahti:Päijät-Häme
+15100:Lahti:Päijät-Häme
+15101:Lahti:Päijät-Häme
+15110:Lahti:Päijät-Häme
+15111:Lahti:Päijät-Häme
+15140:Lahti:Päijät-Häme
+15141:Lahti:Päijät-Häme
+15150:Lahti:Päijät-Häme
+15151:Lahti:Päijät-Häme
+15170:Lahti:Päijät-Häme
+15171:Lahti:Päijät-Häme
+15200:Lahti:Päijät-Häme
+15201:Lahti:Päijät-Häme
+15210:Lahti:Päijät-Häme
+15211:Lahti:Päijät-Häme
+15230:Lahti:Päijät-Häme
+15240:Lahti:Päijät-Häme
+15241:Lahti:Päijät-Häme
+15250:Lahti:Päijät-Häme
+15251:Lahti:Päijät-Häme
+15270:Kukkila:Päijät-Häme
+15300:Lahti:Päijät-Häme
+15320:Lahti:Päijät-Häme
+15321:Lahti:Päijät-Häme
+15340:Lahti:Päijät-Häme
+15440:Villähde:Päijät-Häme
+15460:Mäkelä:Päijät-Häme
+15500:Lahti:Päijät-Häme
+15501:Lahti:Päijät-Häme
+15520:Lahti:Päijät-Häme
+15540:Villähde:Päijät-Häme
+15541:Villähde:Päijät-Häme
+15550:Nastola 2:Päijät-Häme
+15551:Nastola 2:Päijät-Häme
+15560:Nastola:Päijät-Häme
+15561:Nastola:Päijät-Häme
+15570:Nastola Kk:Päijät-Häme
+15580:Ruuhijärvi:Päijät-Häme
+15610:Lahti:Päijät-Häme
+15611:Lahti:Päijät-Häme
+15650:Lahti:Päijät-Häme
+15680:Lahti:Päijät-Häme
+15700:Lahti:Päijät-Häme
+15701:Lahti:Päijät-Häme
+15780:Lahti:Päijät-Häme
+15781:Lahti:Päijät-Häme
+15800:Lahti:Päijät-Häme
+15801:Lahti:Päijät-Häme
+15810:Lahti:Päijät-Häme
+15820:Lahti:Päijät-Häme
+15830:Lahti:Päijät-Häme
+15840:Lahti:Päijät-Häme
+15850:Lahti:Päijät-Häme
+15851:Lahti:Päijät-Häme
+15860:Hollola 2:Päijät-Häme
+15861:Hollola:Päijät-Häme
+15870:Hollola:Päijät-Häme
+15871:Hollola:Päijät-Häme
+15880:Hollola 3:Päijät-Häme
+15881:Hollola 3:Päijät-Häme
+15900:Lahti:Päijät-Häme
+15901:Lahti:Päijät-Häme
+15950:Lahti:Päijät-Häme
+15951:Lahti:Päijät-Häme
+15980:Messilä:Päijät-Häme
+16100:Uusikylä:Päijät-Häme
+16101:Uusikylä:Päijät-Häme
+16160:Okkeri:Päijät-Häme
+16200:Artjärvi:Päijät-Häme
+16201:Artjärvi:Päijät-Häme
+16210:Hiitelä:Päijät-Häme
+16230:Artjärvi Kk:Päijät-Häme
+16260:Hietana:Päijät-Häme
+16270:Villikkala:Päijät-Häme
+16280:Kuivanto:Päijät-Häme
+16300:Orimattila:Päijät-Häme
+16301:Orimattila:Päijät-Häme
+16310:Virenoja:Päijät-Häme
+16320:Pennala:Päijät-Häme
+16330:Heinämaa:Päijät-Häme
+16350:Niinikoski:Päijät-Häme
+16380:Riihioja:Päijät-Häme
+16390:Pakaa:Päijät-Häme
+16450:Mallusjoki:Päijät-Häme
+16500:Herrala:Päijät-Häme
+16510:Luhtikylä:Päijät-Häme
+16540:Mertie:Päijät-Häme
+16560:Tienmutka:Päijät-Häme
+16600:Järvelä:Päijät-Häme
+16601:Järvelä:Päijät-Häme
+16610:Kärkölä:Päijät-Häme
+16630:Tennilä:Päijät-Häme
+16670:Lappila:Päijät-Häme
+16710:Hollola:Päijät-Häme
+16730:Kutajärvi:Päijät-Häme
+16740:Sairakkala:Päijät-Häme
+16790:Manskivi:Päijät-Häme
+16800:Hämeenkoski:Päijät-Häme
+16801:Hämeenkoski:Päijät-Häme
+16900:Lammi:Päijät-Häme
+16901:Lammi:Päijät-Häme
+16940:Lieso:Päijät-Häme
+16960:Iso-Evo:Päijät-Häme
+16970:Evo:Päijät-Häme
+16980:Ronni:Päijät-Häme
+16999:Lahti:Päijät-Häme
+17110:Kalliola:Päijät-Häme
+17120:Paimela:Päijät-Häme
+17130:Vesivehmaa:Päijät-Häme
+17150:Urajärvi:Päijät-Häme
+17200:Vääksy 2:Päijät-Häme
+17201:Vääksy:Päijät-Häme
+17210:Vuorenmylly:Päijät-Häme
+17220:Pietilä:Päijät-Häme
+17240:Kalkkinen:Päijät-Häme
+17300:Vääksy:Päijät-Häme
+17301:Vääksy:Päijät-Häme
+17320:Asikkala:Päijät-Häme
+17410:Viitaila:Päijät-Häme
+17430:Kurhila:Päijät-Häme
+17440:Vähimaa:Päijät-Häme
+17450:Iso-Äiniö:Päijät-Häme
+17470:Maakeski:Päijät-Häme
+17500:Padasjoki:Päijät-Häme
+17501:Padasjoki:Päijät-Häme
+17510:Nyystölä:Päijät-Häme
+17530:Arrakoski:Päijät-Häme
+17610:Auttoinen:Päijät-Häme
+17630:Vesijako:Päijät-Häme
+17710:Torittu:Päijät-Häme
+17740:Kasiniemi:Päijät-Häme
+17780:Harmoinen:Päijät-Häme
+17800:Kuhmoinen:Päijät-Häme
+17801:Kuhmoinen:Päijät-Häme
+17840:Harjunsalmi:Päijät-Häme
+17850:Pihlajakoski:Päijät-Häme
+17870:Ruolahti:Päijät-Häme
+17930:Päijälä:Päijät-Häme
+17950:Kylämä:Päijät-Häme
+17970:Puukkoinen:Päijät-Häme
+18100:Heinola:Päijät-Häme
+18101:Heinola:Päijät-Häme
+18108:Heinola leirintä:Päijät-Häme
+18111:Heinola:Päijät-Häme
+18120:Heinola:Päijät-Häme
+18130:Heinola:Päijät-Häme
+18150:Heinola:Päijät-Häme
+18200:Heinola:Päijät-Häme
+18300:Heinola Kk:Päijät-Häme
+18600:Myllyoja:Päijät-Häme
+19100:Vierumäki:Päijät-Häme
+19110:Vierumäki:Päijät-Häme
+19111:Vierumäki:Päijät-Häme
+19120:Vierumäki:Päijät-Häme
+19150:Vuolenkoski:Päijät-Häme
+19160:Huutotöyry:Päijät-Häme
+19210:Lusi:Päijät-Häme
+19220:Vahteristo:Päijät-Häme
+19230:Onkiniemi:Päijät-Häme
+19250:Syrjäkoski:Päijät-Häme
+19260:Paaso:Päijät-Häme
+19310:Karilanmaa:Päijät-Häme
+19320:Nikkaroinen:Päijät-Häme
+19340:Ravioskorpi:Päijät-Häme
+19350:Ojankorva:Päijät-Häme
+19370:Nuoramoinen:Päijät-Häme
+19380:Marjakylä:Päijät-Häme
+19410:Kuortti:Päijät-Häme
+19420:Mansikkamäki:Päijät-Häme
+19430:Pertunmaa:Päijät-Häme
+19460:Ruorasmäki:Päijät-Häme
+19470:Lihavanpää:Päijät-Häme
+19480:Hartosenpää:Päijät-Häme
+19510:Lepsala:Päijät-Häme
+19520:Salajärvi:Päijät-Häme
+19530:Kuivajärvi:Päijät-Häme
+19540:Koitti:Päijät-Häme
+19560:Nokka:Päijät-Häme
+19600:Hartola:Päijät-Häme
+19601:Hartola:Päijät-Häme
+19610:Murakka:Päijät-Häme
+19620:Pohela:Päijät-Häme
+19630:Kalhonkylä:Päijät-Häme
+19650:Joutsa:Päijät-Häme
+19651:Joutsa:Päijät-Häme
+19670:Mieskonmäki:Päijät-Häme
+19700:Sysmä:Päijät-Häme
+19701:Sysmä:Päijät-Häme
+19710:Suopelto:Päijät-Häme
+19730:Särkilampi:Päijät-Häme
+19740:Liikola:Päijät-Häme
+19770:Valittula:Päijät-Häme
+19810:Siltasuo:Päijät-Häme
+19850:Putkijärvi:Päijät-Häme
+19910:Tammijärvi:Päijät-Häme
+19920:Pappinen:Päijät-Häme
+19950:Luhanka:Päijät-Häme
+19970:Putkilahti:Päijät-Häme
+19980:Oittila:Päijät-Häme
+19999:Heinola:Päijät-Häme
+20002:Turku:Varsinais-Suomi
+20003:Turku:Varsinais-Suomi
+20007:Turku:Varsinais-Suomi
+20014:Turun Yliopisto:Varsinais-Suomi
+20075:Sampo:Varsinais-Suomi
+20100:Turku:Varsinais-Suomi
+20101:Turku:Varsinais-Suomi
+20110:Turku:Varsinais-Suomi
+20111:Turku:Varsinais-Suomi
+20120:Turku:Varsinais-Suomi
+20140:Turku:Varsinais-Suomi
+20141:Turku:Varsinais-Suomi
+20173:Turun linna:Varsinais-Suomi
+20200:Turku:Varsinais-Suomi
+20201:Turku:Varsinais-Suomi
+20210:Turku:Varsinais-Suomi
+20211:Turku:Varsinais-Suomi
+20240:Turku:Varsinais-Suomi
+20241:Turku:Varsinais-Suomi
+20250:Turku:Varsinais-Suomi
+20251:Turku:Varsinais-Suomi
+20260:Raisio:Varsinais-Suomi
+20270:Ihala:Varsinais-Suomi
+20300:Turku:Varsinais-Suomi
+20301:Turku:Varsinais-Suomi
+20310:Turku:Varsinais-Suomi
+20311:Turku:Varsinais-Suomi
+20320:Turku:Varsinais-Suomi
+20321:Turku:Varsinais-Suomi
+20340:Turku:Varsinais-Suomi
+20350:Turku:Varsinais-Suomi
+20351:Turku:Varsinais-Suomi
+20360:Turku:Varsinais-Suomi
+20361:Turku:Varsinais-Suomi
+20380:Turku:Varsinais-Suomi
+20381:Turku:Varsinais-Suomi
+20400:Turku:Varsinais-Suomi
+20460:Turku:Varsinais-Suomi
+20500:Turku:Varsinais-Suomi
+20501:Turku:Varsinais-Suomi
+20510:Turku:Varsinais-Suomi
+20520:Turku:Varsinais-Suomi
+20521:Turku:Varsinais-Suomi
+20540:Turku:Varsinais-Suomi
+20541:Turku:Varsinais-Suomi
+20600:Turku:Varsinais-Suomi
+20601:Turku:Varsinais-Suomi
+20610:Turku:Varsinais-Suomi
+20611:Turku:Varsinais-Suomi
+20640:Ravattula:Varsinais-Suomi
+20660:Littoinen:Varsinais-Suomi
+20661:Littoinen:Varsinais-Suomi
+20700:Turku:Varsinais-Suomi
+20701:Turku:Varsinais-Suomi
+20703:Turku-luostarinmäki:Varsinais-Suomi
+20720:Turku:Varsinais-Suomi
+20740:Turku:Varsinais-Suomi
+20741:Turku:Varsinais-Suomi
+20750:Turku:Varsinais-Suomi
+20751:Turku:Varsinais-Suomi
+20760:Piispanristi:Varsinais-Suomi
+20761:Piispanristi:Varsinais-Suomi
+20780:Kaarina:Varsinais-Suomi
+20781:Kaarina:Varsinais-Suomi
+20800:Turku:Varsinais-Suomi
+20801:Turku:Varsinais-Suomi
+20810:Turku:Varsinais-Suomi
+20811:Turku:Varsinais-Suomi
+20840:Turku:Varsinais-Suomi
+20880:Turku:Varsinais-Suomi
+20881:Turku:Varsinais-Suomi
+20900:Turku:Varsinais-Suomi
+20901:Turku:Varsinais-Suomi
+20960:Turku:Varsinais-Suomi
+20990:Turku:Varsinais-Suomi
+21003:Raisio:Varsinais-Suomi
+21100:Naantali:Varsinais-Suomi
+21101:Naantali:Varsinais-Suomi
+21110:Naantali:Varsinais-Suomi
+21111:Naantali:Varsinais-Suomi
+21120:Raisio:Varsinais-Suomi
+21130:Poikko:Varsinais-Suomi
+21140:Rymättylä:Varsinais-Suomi
+21150:Röölä:Varsinais-Suomi
+21160:Merimasku:Varsinais-Suomi
+21180:Livonsaari:Varsinais-Suomi
+21195:Velkua:Varsinais-Suomi
+21200:Raisio:Varsinais-Suomi
+21201:Raisio:Varsinais-Suomi
+21207:Raisio:Varsinais-Suomi
+21210:Raisio:Varsinais-Suomi
+21211:Raisio:Varsinais-Suomi
+21220:Raisio:Varsinais-Suomi
+21230:Lemu:Varsinais-Suomi
+21240:Askainen:Varsinais-Suomi
+21250:Masku:Varsinais-Suomi
+21251:Masku:Varsinais-Suomi
+21260:Raisio:Varsinais-Suomi
+21270:Nousiainen:Varsinais-Suomi
+21271:Nousiainen:Varsinais-Suomi
+21280:Raisio:Varsinais-Suomi
+21290:Rusko:Varsinais-Suomi
+21291:Rusko:Varsinais-Suomi
+21310:Vahto:Varsinais-Suomi
+21330:Paattinen:Varsinais-Suomi
+21340:Tortinmäki:Varsinais-Suomi
+21350:Ilmarinen:Varsinais-Suomi
+21360:Lieto As:Varsinais-Suomi
+21370:Aura Kk:Varsinais-Suomi
+21380:Aura:Varsinais-Suomi
+21381:Aura:Varsinais-Suomi
+21390:Uusikartano:Varsinais-Suomi
+21410:Vanhalinna:Varsinais-Suomi
+21420:Lieto:Varsinais-Suomi
+21421:Lieto:Varsinais-Suomi
+21430:Yliskulma:Varsinais-Suomi
+21450:Tarvasjoki:Varsinais-Suomi
+21470:Suurila:Varsinais-Suomi
+21480:Prunkila:Varsinais-Suomi
+21490:Marttila:Varsinais-Suomi
+21500:Piikkiö:Varsinais-Suomi
+21501:Piikkiö:Varsinais-Suomi
+21510:Hevonpää:Varsinais-Suomi
+21520:Naskarla:Varsinais-Suomi
+21530:Paimio:Varsinais-Suomi
+21531:Paimio:Varsinais-Suomi
+21540:Preitilä:Varsinais-Suomi
+21555:Taatila:Varsinais-Suomi
+21560:Ollila:Varsinais-Suomi
+21570:Sauvo:Varsinais-Suomi
+21571:Sauvo:Varsinais-Suomi
+21590:Karuna:Varsinais-Suomi
+21600:Parainen:Varsinais-Suomi
+21601:Parainen:Varsinais-Suomi
+21610:Kirjala:Varsinais-Suomi
+21620:Kuusisto:Varsinais-Suomi
+21630:Lielahti Tl:Varsinais-Suomi
+21650:Lillandet:Varsinais-Suomi
+21660:Nauvo:Varsinais-Suomi
+21661:Nauvo:Varsinais-Suomi
+21670:Mattnäs:Varsinais-Suomi
+21680:Nötö:Varsinais-Suomi
+21710:Korppoo:Varsinais-Suomi
+21711:Korppoo:Varsinais-Suomi
+21720:Korpoström:Varsinais-Suomi
+21740:Utö:Varsinais-Suomi
+21750:Norrskata:Varsinais-Suomi
+21760:Houtskär:Varsinais-Suomi
+21770:Mossala:Varsinais-Suomi
+21780:Nåtö:Varsinais-Suomi
+21800:Kyrö:Varsinais-Suomi
+21801:Kyrö:Varsinais-Suomi
+21820:Kumila:Varsinais-Suomi
+21830:Rahkio:Varsinais-Suomi
+21840:Karinainen:Varsinais-Suomi
+21860:Auvainen:Varsinais-Suomi
+21870:Riihikoski:Varsinais-Suomi
+21871:Riihikoski:Varsinais-Suomi
+21880:Pöytyä:Varsinais-Suomi
+21890:Haveri:Varsinais-Suomi
+21900:Yläne:Varsinais-Suomi
+21901:Yläne:Varsinais-Suomi
+21930:Uusikartano:Varsinais-Suomi
+21970:Kolvaa:Varsinais-Suomi
+21999:Turku:Varsinais-Suomi
+22100:Mariehamn:Åland
+22101:Mariehamn:Åland
+22120:Maarianhamina:Åland
+22130:Gottby:Åland
+22131:Gottby:Åland
+22140:Mariehamn:Åland
+22150:Jomala:Åland
+22151:Jomala:Åland
+22160:Mariehamn:Åland
+22220:Emkarby:Åland
+22240:Hammarland:Åland
+22260:Eckerö:Åland
+22270:Eckerö:Åland
+22271:Storby:Åland
+22310:Pålsböle:Åland
+22320:Ödkarby:Åland
+22330:Tjudö:Åland
+22340:Geta:Åland
+22410:Godby:Åland
+22411:Godby:Åland
+22430:Saltvik:Åland
+22520:Kastelholm:Åland
+22530:Sund:Åland
+22540:Bomarsund:Åland
+22550:Vårdö:Åland
+22610:Lemland:Åland
+22630:Lumparland:Åland
+22710:Föglö:Åland
+22720:Sottunga:Åland
+22730:Kökar:Åland
+22810:Seglinge:Åland
+22820:Kumlinge:Åland
+22830:Enklinge:Åland
+22840:Lappoby-Åland:Åland
+22910:Torsholma:Åland
+22920:Brändö-Åland:Åland
+22930:Fiskö:Åland
+22940:Åva:Åland
+22950:Jurmo-Åland:Åland
+22999:Mariehamn:Åland
+23003:Uusikaupunki:Varsinais-Suomi
+23100:Mynämäki:Varsinais-Suomi
+23101:Mynämäki:Varsinais-Suomi
+23110:Mynämäki As:Varsinais-Suomi
+23120:Mietoinen:Varsinais-Suomi
+23140:Hietamäki:Varsinais-Suomi
+23170:Kivikylä:Varsinais-Suomi
+23200:Vinkkilä:Varsinais-Suomi
+23201:Vinkkilä:Varsinais-Suomi
+23210:Vehmaa:Varsinais-Suomi
+23240:Ennyinen:Varsinais-Suomi
+23260:Rautila:Varsinais-Suomi
+23310:Taivassalo:Varsinais-Suomi
+23311:Taivassalo:Varsinais-Suomi
+23360:Kustavi:Varsinais-Suomi
+23390:Iniö:Varsinais-Suomi
+23450:Lokalahti:Varsinais-Suomi
+23451:Lokalahti:Varsinais-Suomi
+23500:Uusikaupunki:Varsinais-Suomi
+23501:Uusikaupunki:Varsinais-Suomi
+23520:Uusikaupunki:Varsinais-Suomi
+23530:Uusikaupunki:Varsinais-Suomi
+23600:Kalanti:Varsinais-Suomi
+23601:Kalanti:Varsinais-Suomi
+23660:Kalanti As:Varsinais-Suomi
+23800:Laitila:Varsinais-Suomi
+23801:Laitila:Varsinais-Suomi
+23840:Soukainen:Varsinais-Suomi
+23880:Suontaka:Varsinais-Suomi
+23910:Raulio:Varsinais-Suomi
+23930:Pyhämaa:Varsinais-Suomi
+23940:Eilu:Varsinais-Suomi
+23950:Pyhäranta:Varsinais-Suomi
+23960:Santtio:Varsinais-Suomi
+24003:Salo:Varsinais-Suomi
+24007:Salo:Varsinais-Suomi
+24100:Salo:Varsinais-Suomi
+24101:Salo:Varsinais-Suomi
+24105:Salo 10/Yritysposti:Varsinais-Suomi
+24130:Salo:Varsinais-Suomi
+24240:Salo:Varsinais-Suomi
+24241:Salo:Varsinais-Suomi
+24260:Salo:Varsinais-Suomi
+24261:Salo:Varsinais-Suomi
+24280:Salo:Varsinais-Suomi
+24520:Inkere:Varsinais-Suomi
+24540:Romsila:Varsinais-Suomi
+24800:Halikko:Varsinais-Suomi
+24801:Halikko:Varsinais-Suomi
+24910:Halikko As:Varsinais-Suomi
+25003:Salo:Varsinais-Suomi
+25110:Kruusila:Varsinais-Suomi
+25130:Muurla:Varsinais-Suomi
+25160:Tuohittu:Varsinais-Suomi
+25170:Kotalato:Varsinais-Suomi
+25180:Romsila:Varsinais-Suomi
+25190:Inkere:Varsinais-Suomi
+25191:Inkere:Varsinais-Suomi
+25210:Vartsala:Varsinais-Suomi
+25230:Angelniemi:Varsinais-Suomi
+25240:Hajala:Varsinais-Suomi
+25250:Märynummi:Varsinais-Suomi
+25260:Vaskio:Varsinais-Suomi
+25310:Impola:Varsinais-Suomi
+25320:Raatala:Varsinais-Suomi
+25330:Kuusjoki:Varsinais-Suomi
+25340:Kanunki:Varsinais-Suomi
+25350:Häntälä:Varsinais-Suomi
+25360:Pertteli:Varsinais-Suomi
+25370:Hiisi:Varsinais-Suomi
+25380:Rekijoki:Varsinais-Suomi
+25385:Hirvelä:Varsinais-Suomi
+25390:Kiikala:Varsinais-Suomi
+25391:Kiikala:Varsinais-Suomi
+25410:Suomusjärvi:Varsinais-Suomi
+25420:Lahnajärvi:Varsinais-Suomi
+25430:Kettula:Varsinais-Suomi
+25450:Kurkela:Varsinais-Suomi
+25460:Toija:Varsinais-Suomi
+25461:Toija:Varsinais-Suomi
+25470:Kisko:Varsinais-Suomi
+25500:Perniö:Varsinais-Suomi
+25501:Perniö:Varsinais-Suomi
+25520:Perniö As:Varsinais-Suomi
+25530:Ervelä:Varsinais-Suomi
+25540:Knaapila:Varsinais-Suomi
+25550:Aijala:Varsinais-Suomi
+25560:Koski As:Varsinais-Suomi
+25570:Teijo:Varsinais-Suomi
+25610:Ylönkylä:Varsinais-Suomi
+25630:Särkisalo:Varsinais-Suomi
+25640:Förby:Varsinais-Suomi
+25650:Strömma:Varsinais-Suomi
+25660:Mathildedal:Varsinais-Suomi
+25690:Gråböle:Varsinais-Suomi
+25700:Kemiö:Varsinais-Suomi
+25701:Kemiö:Varsinais-Suomi
+25710:Vreta:Varsinais-Suomi
+25730:Mjösund:Varsinais-Suomi
+25760:Kiila:Varsinais-Suomi
+25770:Reku:Varsinais-Suomi
+25780:Pederså:Varsinais-Suomi
+25810:Mark:Varsinais-Suomi
+25820:Vestlax:Varsinais-Suomi
+25830:Västanfjärd:Varsinais-Suomi
+25840:Nivelax:Varsinais-Suomi
+25860:Björkboda:Varsinais-Suomi
+25870:Dragsfjärd:Varsinais-Suomi
+25900:Taalintehdas:Varsinais-Suomi
+25901:Taalintehdas:Varsinais-Suomi
+25910:Vänoxa:Varsinais-Suomi
+25930:Kasnäs:Varsinais-Suomi
+25940:Hiittinen:Varsinais-Suomi
+25950:Rosala:Varsinais-Suomi
+25960:Högsåra:Varsinais-Suomi
+25999:Salo:Varsinais-Suomi
+26003:Rauma:Varsinais-Suomi
+26007:Rauma:Varsinais-Suomi
+26100:Rauma:Varsinais-Suomi
+26101:Rauma:Varsinais-Suomi
+26130:Rauma:Varsinais-Suomi
+26131:Rauma:Varsinais-Suomi
+26200:Rauma:Varsinais-Suomi
+26201:Rauma:Varsinais-Suomi
+26410:Kaaro:Varsinais-Suomi
+26411:Kaaro:Varsinais-Suomi
+26510:Rauma:Varsinais-Suomi
+26511:Rauma:Varsinais-Suomi
+26560:Kolla:Varsinais-Suomi
+26660:Rauma:Varsinais-Suomi
+26661:Rauma:Varsinais-Suomi
+26700:Hinnerjoki:Varsinais-Suomi
+26720:Monnanummi:Varsinais-Suomi
+26740:Vasarainen:Varsinais-Suomi
+26820:Rauma:Varsinais-Suomi
+26840:Kortela:Varsinais-Suomi
+26910:Unaja:Varsinais-Suomi
+26930:Vermuntila:Varsinais-Suomi
+26950:Voiluoto:Varsinais-Suomi
+27003:Rauma:Varsinais-Suomi
+27100:Eurajoki:Varsinais-Suomi
+27101:Eurajoki:Varsinais-Suomi
+27110:Irjanne:Varsinais-Suomi
+27130:Eurajoki As:Varsinais-Suomi
+27150:Lapijoki:Varsinais-Suomi
+27160:Olkiluoto:Varsinais-Suomi
+27170:Kuivalahti:Varsinais-Suomi
+27210:Kullanperä:Varsinais-Suomi
+27220:Ala-Kieri:Varsinais-Suomi
+27230:Lappi:Varsinais-Suomi
+27231:Lappi:Varsinais-Suomi
+27240:Karhunselkä:Varsinais-Suomi
+27250:Kodiksami:Varsinais-Suomi
+27260:Kuolimaa:Varsinais-Suomi
+27310:Kodisjoki:Varsinais-Suomi
+27320:Ihode:Varsinais-Suomi
+27340:Reila:Varsinais-Suomi
+27400:Kiukainen:Varsinais-Suomi
+27401:Kiukainen:Varsinais-Suomi
+27420:Panelia As:Varsinais-Suomi
+27430:Panelia:Varsinais-Suomi
+27440:Saarenmaa:Varsinais-Suomi
+27450:Harola:Varsinais-Suomi
+27500:Kauttua:Varsinais-Suomi
+27501:Kauttua:Varsinais-Suomi
+27510:Eura:Varsinais-Suomi
+27511:Eura:Varsinais-Suomi
+27600:Hinnerjoki:Varsinais-Suomi
+27640:Honkilahti Kk:Varsinais-Suomi
+27650:Honkilahti:Varsinais-Suomi
+27670:Mannila:Varsinais-Suomi
+27710:Köyliö:Varsinais-Suomi
+27711:Köyliö:Varsinais-Suomi
+27730:Tuiskula:Varsinais-Suomi
+27740:Voitoinen:Varsinais-Suomi
+27750:Yttilä:Varsinais-Suomi
+27751:Yttilä:Varsinais-Suomi
+27800:Säkylä:Varsinais-Suomi
+27801:Säkylä:Varsinais-Suomi
+27820:Iso-Vimma:Varsinais-Suomi
+27821:Iso-Vimma:Varsinais-Suomi
+27840:Kakkuri:Varsinais-Suomi
+27860:Vuori:Varsinais-Suomi
+27910:Huovinrinne:Varsinais-Suomi
+27911:Huovinrinne:Varsinais-Suomi
+27920:Otajoki:Varsinais-Suomi
+27999:Rauma:Varsinais-Suomi
+28003:Pori:Satakunta
+28007:Pori:Satakunta
+28100:Pori:Satakunta
+28101:Pori:Satakunta
+28120:Pori:Satakunta
+28130:Pori:Satakunta
+28131:Pori:Satakunta
+28190:Pori:Satakunta
+28191:Pori:Satakunta
+28200:Pori:Satakunta
+28201:Pori:Satakunta
+28220:Pori:Satakunta
+28221:Pori:Satakunta
+28230:Pori:Satakunta
+28240:Pori:Satakunta
+28260:Harjunpää:Satakunta
+28280:Pori:Satakunta
+28300:Pori:Satakunta
+28330:Pori:Satakunta
+28331:Pori:Satakunta
+28360:Pori:Satakunta
+28361:Pori:Satakunta
+28370:Pori:Satakunta
+28371:Pori:Satakunta
+28400:Ulvila:Satakunta
+28401:Ulvila:Satakunta
+28430:Pori:Satakunta
+28431:Pori:Satakunta
+28450:Vanha-Ulvila:Satakunta
+28451:Vanha-Ulvila:Satakunta
+28500:Pori:Satakunta
+28501:Pori:Satakunta
+28540:Pori:Satakunta
+28560:Pori:Satakunta
+28580:Pori:Satakunta
+28600:Pori:Satakunta
+28601:Pori:Satakunta
+28610:Pori:Satakunta
+28611:Pori:Satakunta
+28640:Pori:Satakunta
+28660:Pori:Satakunta
+28760:Pori:Satakunta
+28800:Pori:Satakunta
+28801:Pori:Satakunta
+28840:Pori:Satakunta
+28850:Yyteri:Satakunta
+28880:Pori:Satakunta
+28881:Pori:Satakunta
+28900:Pori:Satakunta
+29100:Luvia:Satakunta
+29101:Luvia:Satakunta
+29120:Verkkoranta:Satakunta
+29180:Peränkylä:Satakunta
+29200:Harjavalta:Satakunta
+29201:Harjavalta:Satakunta
+29210:Merstola:Satakunta
+29220:Killanmaa:Satakunta
+29230:Satalinna:Satakunta
+29250:Nakkila:Satakunta
+29251:Nakkila:Satakunta
+29270:Hormisto:Satakunta
+29280:Järvimaa:Satakunta
+29310:Kaasmarkku:Satakunta
+29320:Leineperi:Satakunta
+29330:Levanpelto:Satakunta
+29340:Kullaa:Satakunta
+29350:Palus:Satakunta
+29360:Koskenranta:Satakunta
+29570:Söörmarkku:Satakunta
+29580:Kellahti:Satakunta
+29600:Noormarkku:Satakunta
+29601:Noormarkku:Satakunta
+29630:Pomarkku:Satakunta
+29631:Pomarkku:Satakunta
+29640:Honkakoski:Satakunta
+29670:Rudanmaa:Satakunta
+29680:Lassila:Satakunta
+29700:Ahlainen:Satakunta
+29720:Lamppi:Satakunta
+29740:Etelämaa:Satakunta
+29750:Pohjansaha:Satakunta
+29760:Köörtilä:Satakunta
+29790:Tuorila:Satakunta
+29810:Siikainen:Satakunta
+29811:Siikainen:Satakunta
+29830:Sammi:Satakunta
+29850:Hirvivuori:Satakunta
+29860:Otamo:Satakunta
+29870:Keskukylä:Satakunta
+29880:Leväsjoki:Satakunta
+29890:Saarineva:Satakunta
+29900:Merikarvia:Satakunta
+29901:Merikarvia:Satakunta
+29910:Trolssi:Satakunta
+29920:Riispyy:Satakunta
+29930:Kasala:Satakunta
+29940:Kuvaskangas:Satakunta
+29960:Koittankoski:Satakunta
+29970:Lautjärvi:Satakunta
+29999:Pori:Satakunta
+30003:Forssa:Varsinais-Suomi
+30007:Forssa:Varsinais-Suomi
+30100:Forssa:Varsinais-Suomi
+30101:Forssa:Varsinais-Suomi
+30300:Forssa:Varsinais-Suomi
+30420:Forssa:Varsinais-Suomi
+30421:Forssa:Varsinais-Suomi
+30630:Latovainio:Varsinais-Suomi
+30740:Forssa:Varsinais-Suomi
+30760:Koijärvi:Varsinais-Suomi
+30920:Riihivalkama:Varsinais-Suomi
+30940:Letku:Varsinais-Suomi
+30980:Torro:Varsinais-Suomi
+31003:Forssa:Varsinais-Suomi
+31100:Forssa:Varsinais-Suomi
+31110:Matku:Varsinais-Suomi
+31120:Raitoo:Varsinais-Suomi
+31130:Koijärvi:Varsinais-Suomi
+31140:Menonen:Varsinais-Suomi
+31150:Hanhisuo:Varsinais-Suomi
+31160:Nuutajärvi:Varsinais-Suomi
+31170:Savijoki:Varsinais-Suomi
+31230:Susikas:Varsinais-Suomi
+31240:Lautaporras:Varsinais-Suomi
+31250:Teuro:Varsinais-Suomi
+31300:Tammela:Varsinais-Suomi
+31301:Tammela:Varsinais-Suomi
+31310:Mustiala:Varsinais-Suomi
+31320:Tammelasaari:Varsinais-Suomi
+31330:Lepistö:Varsinais-Suomi
+31340:Porras:Varsinais-Suomi
+31350:Liesjärvi:Varsinais-Suomi
+31360:Honka:Varsinais-Suomi
+31370:Eerikkilä:Varsinais-Suomi
+31380:Letku:Varsinais-Suomi
+31400:Somero:Varsinais-Suomi
+31401:Somero:Varsinais-Suomi
+31410:Ylöpirtti:Varsinais-Suomi
+31430:Kultela:Varsinais-Suomi
+31450:Häntälä:Varsinais-Suomi
+31460:Hirsjärvi:Varsinais-Suomi
+31461:Hirsjärvi:Varsinais-Suomi
+31470:Somerniemi:Varsinais-Suomi
+31480:Kaskisto:Varsinais-Suomi
+31490:Terttilä:Varsinais-Suomi
+31500:Koski Tl:Varsinais-Suomi
+31501:Koski Tl:Varsinais-Suomi
+31520:Pitkäjärvi:Varsinais-Suomi
+31530:Pyöli:Varsinais-Suomi
+31560:Ollila:Varsinais-Suomi
+31570:Koivukylä:Varsinais-Suomi
+31580:Vähä-Ollila:Varsinais-Suomi
+31600:Jokioinen:Varsinais-Suomi
+31601:Jokioinen:Varsinais-Suomi
+31610:Vaulammi:Varsinais-Suomi
+31620:Latovainio:Varsinais-Suomi
+31630:Minkiö:Varsinais-Suomi
+31640:Humppila:Varsinais-Suomi
+31641:Humppila:Varsinais-Suomi
+31650:Venäjänkangas:Varsinais-Suomi
+31660:Murto:Varsinais-Suomi
+31670:Holkeri:Varsinais-Suomi
+31700:Urjala As:Varsinais-Suomi
+31720:Urjalankylä:Varsinais-Suomi
+31730:Honkola:Varsinais-Suomi
+31750:Kehro:Varsinais-Suomi
+31760:Urjala:Varsinais-Suomi
+31761:Urjala:Varsinais-Suomi
+31810:Oriniemi:Varsinais-Suomi
+31830:Halkivaha:Varsinais-Suomi
+31850:Koskioinen:Varsinais-Suomi
+31860:Tursa:Varsinais-Suomi
+31900:Punkalaidun:Varsinais-Suomi
+31901:Punkalaidun:Varsinais-Suomi
+31910:Haviokoski:Varsinais-Suomi
+31930:Vanttila:Varsinais-Suomi
+31940:Jalasjoki:Varsinais-Suomi
+31950:Sadonmaa:Varsinais-Suomi
+31960:Orisuo:Varsinais-Suomi
+31970:Kanteenmaa:Varsinais-Suomi
+31999:Forssa:Varsinais-Suomi
+32003:Forssa:Varsinais-Suomi
+32100:Ypäjä:Varsinais-Suomi
+32101:Ypäjä:Varsinais-Suomi
+32110:Palikkala:Varsinais-Suomi
+32140:Ypäjä As:Varsinais-Suomi
+32200:Loimaa:Varsinais-Suomi
+32201:Loimaa:Varsinais-Suomi
+32210:Loimaa Kk:Varsinais-Suomi
+32211:Loimaa kk:Varsinais-Suomi
+32250:Kojonkulma:Varsinais-Suomi
+32260:Kojonperä:Varsinais-Suomi
+32270:Metsämaa:Varsinais-Suomi
+32280:Metsäkorpi:Varsinais-Suomi
+32300:Mellilä:Varsinais-Suomi
+32301:Mellilä:Varsinais-Suomi
+32320:Hyry:Varsinais-Suomi
+32410:Niinijoki:Varsinais-Suomi
+32420:Haaroinen:Varsinais-Suomi
+32430:Ylhäinen:Varsinais-Suomi
+32440:Alastaro:Varsinais-Suomi
+32441:Alastaro:Varsinais-Suomi
+32450:Tammiainen:Varsinais-Suomi
+32500:Oripää:Varsinais-Suomi
+32501:Oripää:Varsinais-Suomi
+32520:Latva:Varsinais-Suomi
+32560:Virttaa:Varsinais-Suomi
+32610:Vampula:Varsinais-Suomi
+32611:Vampula:Varsinais-Suomi
+32620:Rutava:Varsinais-Suomi
+32650:Kukonharja:Varsinais-Suomi
+32700:Huittinen:Varsinais-Suomi
+32701:Huittinen:Varsinais-Suomi
+32710:Sampu:Varsinais-Suomi
+32730:Keikyä:Varsinais-Suomi
+32740:Äetsä:Varsinais-Suomi
+32741:Äetsä:Varsinais-Suomi
+32760:Suttila:Varsinais-Suomi
+32770:Huhtamo:Varsinais-Suomi
+32800:Kokemäki:Varsinais-Suomi
+32801:Kokemäki:Varsinais-Suomi
+32810:Peipohja:Varsinais-Suomi
+32830:Riste:Varsinais-Suomi
+32860:Korkeaoja:Varsinais-Suomi
+32899:Huittinen:Varsinais-Suomi
+32910:Kauvatsa As:Varsinais-Suomi
+32920:Kauvatsa:Varsinais-Suomi
+32999:Loimaa:Varsinais-Suomi
+33002:Tampere:Pirkanmaa
+33003:Tampere:Pirkanmaa
+33007:Tampere:Pirkanmaa
+33009:Tampere:Pirkanmaa
+33014:Tampereen yliopisto:Pirkanmaa
+33100:Tampere:Pirkanmaa
+33101:Tampere:Pirkanmaa
+33180:Tampere:Pirkanmaa
+33191:Tampere:Pirkanmaa
+33200:Tampere:Pirkanmaa
+33201:Tampere:Pirkanmaa
+33210:Tampere:Pirkanmaa
+33211:Tampere:Pirkanmaa
+33230:Tampere:Pirkanmaa
+33231:Tampere:Pirkanmaa
+33240:Tampere:Pirkanmaa
+33250:Tampere:Pirkanmaa
+33251:Tampere:Pirkanmaa
+33270:Tampere:Pirkanmaa
+33271:Tampere:Pirkanmaa
+33300:Tampere:Pirkanmaa
+33310:Tampere:Pirkanmaa
+33311:Tampere:Pirkanmaa
+33330:Tampere:Pirkanmaa
+33331:Tampere:Pirkanmaa
+33340:Tampere:Pirkanmaa
+33341:Tampere:Pirkanmaa
+33380:Pitkäniemi:Pirkanmaa
+33400:Tampere:Pirkanmaa
+33401:Tampere:Pirkanmaa
+33410:Tampere:Pirkanmaa
+33411:Tampere:Pirkanmaa
+33420:Tampere:Pirkanmaa
+33430:Vuorentausta:Pirkanmaa
+33431:Vuorentausta:Pirkanmaa
+33450:Siivikkala:Pirkanmaa
+33470:Ylöjärvi:Pirkanmaa
+33471:Ylöjärvi:Pirkanmaa
+33480:Ylöjärvi:Pirkanmaa
+33481:Ylöjärvi:Pirkanmaa
+33500:Tampere:Pirkanmaa
+33501:Tampere:Pirkanmaa
+33520:Tampere:Pirkanmaa
+33521:Tampere:Pirkanmaa
+33530:Tampere:Pirkanmaa
+33531:Tampere:Pirkanmaa
+33540:Tampere:Pirkanmaa
+33541:Tampere:Pirkanmaa
+33560:Tampere:Pirkanmaa
+33561:Tampere:Pirkanmaa
+33580:Tampere:Pirkanmaa
+33581:Tampere:Pirkanmaa
+33610:Tampere:Pirkanmaa
+33611:Tampere:Pirkanmaa
+33680:Tampere:Pirkanmaa
+33700:Tampere:Pirkanmaa
+33701:Tampere:Pirkanmaa
+33710:Tampere:Pirkanmaa
+33711:Tampere:Pirkanmaa
+33720:Tampere:Pirkanmaa
+33721:Tampere:Pirkanmaa
+33730:Tampere:Pirkanmaa
+33731:Tampere:Pirkanmaa
+33800:Tampere:Pirkanmaa
+33801:Tampere:Pirkanmaa
+33820:Tampere:Pirkanmaa
+33821:Tampere:Pirkanmaa
+33840:Tampere:Pirkanmaa
+33841:Tampere:Pirkanmaa
+33850:Tampere:Pirkanmaa
+33851:Tampere:Pirkanmaa
+33880:Lempäälä:Pirkanmaa
+33881:Sääksjärvi:Pirkanmaa
+33900:Tampere:Pirkanmaa
+33901:Tampere:Pirkanmaa
+33920:Pirkkala:Pirkanmaa
+33940:Pirkkala:Pirkanmaa
+33950:Pirkkala:Pirkanmaa
+33960:Pirkkala:Pirkanmaa
+33961:Pirkkala:Pirkanmaa
+33970:Pirkkala:Pirkanmaa
+33980:Pirkkala:Pirkanmaa
+34110:Lakiala:Pirkanmaa
+34111:Lakiala:Pirkanmaa
+34120:Peräsilta:Pirkanmaa
+34130:Ylinen:Pirkanmaa
+34140:Mutala:Pirkanmaa
+34150:Kyrönlahti:Pirkanmaa
+34180:Länsi-Teisko:Pirkanmaa
+34240:Kämmenniemi:Pirkanmaa
+34260:Terälahti:Pirkanmaa
+34270:Velaatta:Pirkanmaa
+34300:Kuru:Pirkanmaa
+34301:Kuru:Pirkanmaa
+34320:Parkkuu:Pirkanmaa
+34330:Poikelus:Pirkanmaa
+34410:Murole:Pirkanmaa
+34420:Muroleen Kanava:Pirkanmaa
+34430:Kekkonen:Pirkanmaa
+34450:Jäminkipohja:Pirkanmaa
+34451:Jäminkipohja:Pirkanmaa
+34510:Luode:Pirkanmaa
+34530:Länsi-Aure:Pirkanmaa
+34550:Itä-Aure:Pirkanmaa
+34600:Ruovesi:Pirkanmaa
+34601:Ruovesi:Pirkanmaa
+34610:Ruhala:Pirkanmaa
+34620:Nenonen:Pirkanmaa
+34640:Mustajärvi:Pirkanmaa
+34710:Vaskivesi:Pirkanmaa
+34730:Vaskuu:Pirkanmaa
+34740:Koro:Pirkanmaa
+34770:Kurjenkylä:Pirkanmaa
+34800:Virrat:Pirkanmaa
+34801:Virrat:Pirkanmaa
+34850:Jäähdyspohja:Pirkanmaa
+34870:Visuvesi:Pirkanmaa
+34910:Äijänneva:Pirkanmaa
+34930:Liedenpohja:Pirkanmaa
+34950:Ohtola:Pirkanmaa
+34970:Toisvesi:Pirkanmaa
+34980:Killinkoski:Pirkanmaa
+34999:Tampere:Pirkanmaa
+35100:Orivesi As:Pirkanmaa
+35220:Eräjärvi:Pirkanmaa
+35240:Ristakallio:Pirkanmaa
+35260:Hoivamäki:Pirkanmaa
+35270:Västilä:Pirkanmaa
+35300:Orivesi:Pirkanmaa
+35301:Orivesi:Pirkanmaa
+35320:Hirsilä:Pirkanmaa
+35400:Längelmäki:Pirkanmaa
+35420:Talviainen:Pirkanmaa
+35480:Längelmäki:Pirkanmaa
+35500:Korkeakoski:Pirkanmaa
+35501:Korkeakoski:Pirkanmaa
+35520:Pirttikangas:Pirkanmaa
+35530:Lyly:Pirkanmaa
+35531:Lyly:Pirkanmaa
+35540:Juupajoki:Pirkanmaa
+35550:Salokunta:Pirkanmaa
+35600:Halli:Pirkanmaa
+35601:Halli:Pirkanmaa
+35610:Pihlaisto:Pirkanmaa
+35630:Kuorevesi:Pirkanmaa
+35700:Vilppula:Pirkanmaa
+35701:Vilppula:Pirkanmaa
+35740:Ylä-Vääri:Pirkanmaa
+35750:Väärinmaja:Pirkanmaa
+35800:Mänttä:Pirkanmaa
+35801:Mänttä:Pirkanmaa
+35807:Mänttä:Pirkanmaa
+35820:Mänttä:Pirkanmaa
+35821:Mänttä:Pirkanmaa
+35830:Mänttä:Pirkanmaa
+35850:Mustalahti:Pirkanmaa
+35860:Raja-Aho:Pirkanmaa
+35930:Tamminiemi:Pirkanmaa
+35990:Kolho:Pirkanmaa
+36100:Kangasala As:Pirkanmaa
+36110:Ruutana:Pirkanmaa
+36111:Ruutana:Pirkanmaa
+36120:Suinula:Pirkanmaa
+36160:Siitama:Pirkanmaa
+36200:Kangasala:Pirkanmaa
+36201:Kangasala:Pirkanmaa
+36220:Kangasala 2:Pirkanmaa
+36221:Kangasala 2:Pirkanmaa
+36240:Kangasala 4:Pirkanmaa
+36241:Kangasala:Pirkanmaa
+36270:Kangasala:Pirkanmaa
+36280:Pikonlinna:Pirkanmaa
+36340:Tohkala:Pirkanmaa
+36420:Sahalahti:Pirkanmaa
+36430:Sahalahti:Pirkanmaa
+36450:Salmentaka:Pirkanmaa
+36480:Pohjalahti:Pirkanmaa
+36520:Raikku:Pirkanmaa
+36570:Kaivanto:Pirkanmaa
+36600:Pälkäne:Pirkanmaa
+36601:Pälkäne:Pirkanmaa
+36640:Iltasmäki:Pirkanmaa
+36660:Laitikkala:Pirkanmaa
+36720:Aitoo:Pirkanmaa
+36760:Luopioinen:Pirkanmaa
+36761:Luopioinen:Pirkanmaa
+36810:Kuhmalahti:Pirkanmaa
+36840:Pohja:Pirkanmaa
+36880:Vehkajärvi:Pirkanmaa
+36910:Rautajärvi:Pirkanmaa
+36930:Kyynärö:Pirkanmaa
+37007:Nokia:Pirkanmaa
+37100:Nokia:Pirkanmaa
+37101:Nokia:Pirkanmaa
+37105:Nokia 10/PSP:Pirkanmaa
+37120:Nokia:Pirkanmaa
+37121:Nokia:Pirkanmaa
+37130:Nokia:Pirkanmaa
+37140:Nokia:Pirkanmaa
+37141:Nokia:Pirkanmaa
+37150:Nokia:Pirkanmaa
+37180:Sarkola:Pirkanmaa
+37200:Siuro:Pirkanmaa
+37210:Kulovesi:Pirkanmaa
+37240:Linnavuori:Pirkanmaa
+37241:Linnavuori:Pirkanmaa
+37310:Tottijärvi:Pirkanmaa
+37350:Rämsöö:Pirkanmaa
+37370:Narva:Pirkanmaa
+37380:Krääkkiö:Pirkanmaa
+37420:Valkkinen:Pirkanmaa
+37450:Onkemäki:Pirkanmaa
+37470:Vesilahti:Pirkanmaa
+37500:Lempäälä:Pirkanmaa
+37501:Lempäälä:Pirkanmaa
+37530:Lempäälä:Pirkanmaa
+37550:Lempäälä:Pirkanmaa
+37551:Moisio:Pirkanmaa
+37560:Lempäälä:Pirkanmaa
+37600:Valkeakoski:Pirkanmaa
+37601:Valkeakoski:Pirkanmaa
+37607:Valkeakoski:Pirkanmaa
+37620:Valkeakoski:Pirkanmaa
+37630:Valkeakoski:Pirkanmaa
+37631:Valkeakoski:Pirkanmaa
+37640:Valkeakoski:Pirkanmaa
+37641:Valkeakoski:Pirkanmaa
+37650:Valkeakoski:Pirkanmaa
+37680:Valkeakoski:Pirkanmaa
+37700:Sääksmäki:Pirkanmaa
+37720:Ritvala:Pirkanmaa
+37740:Haukila:Pirkanmaa
+37770:Tarttila:Pirkanmaa
+37800:Toijala:Pirkanmaa
+37801:Toijala:Pirkanmaa
+37807:Toijala:Pirkanmaa
+37820:Nahkiala:Pirkanmaa
+37830:Viiala:Pirkanmaa
+37831:Viiala:Pirkanmaa
+37850:Metsäkansa:Pirkanmaa
+37860:Kärjenniemi:Pirkanmaa
+37900:Kylmäkoski As:Pirkanmaa
+37910:Kylmäkoski:Pirkanmaa
+37911:Kylmäkoski:Pirkanmaa
+37930:Tuomala:Pirkanmaa
+37960:Sotkia:Pirkanmaa
+38100:Karkku:Pirkanmaa
+38110:Nohkua:Pirkanmaa
+38120:Kutala:Pirkanmaa
+38130:Ellivuori:Pirkanmaa
+38140:Kärppälä:Pirkanmaa
+38150:Heinoo:Pirkanmaa
+38200:Vammala:Pirkanmaa
+38201:Vammala:Pirkanmaa
+38210:Vammala:Pirkanmaa
+38211:Vammala:Pirkanmaa
+38220:Stormi:Pirkanmaa
+38230:Lantula:Pirkanmaa
+38250:Roismala:Pirkanmaa
+38270:Sammaljoki:Pirkanmaa
+38280:Illo:Pirkanmaa
+38300:Kiikka:Pirkanmaa
+38301:Kiikka:Pirkanmaa
+38320:Kiimajärvi:Pirkanmaa
+38350:Jaara:Pirkanmaa
+38360:Kiikoinen:Pirkanmaa
+38370:Tervahauta:Pirkanmaa
+38420:Häijää:Pirkanmaa
+38460:Mouhijärvi:Pirkanmaa
+38470:Hyynilä:Pirkanmaa
+38490:Haukijärvi:Pirkanmaa
+38510:Suodenniemi:Pirkanmaa
+38511:Suodenniemi:Pirkanmaa
+38540:Putaja:Pirkanmaa
+38600:Lavia:Pirkanmaa
+38601:Lavia:Pirkanmaa
+38610:Riuttala:Pirkanmaa
+38650:Yli-Putto:Pirkanmaa
+38660:Haunia:Pirkanmaa
+38670:Kalliala:Pirkanmaa
+38680:Tuunajärvi:Pirkanmaa
+38690:Tuomisaari:Pirkanmaa
+38700:Kankaanpää:Pirkanmaa
+38701:Kankaanpää:Pirkanmaa
+38707:Kankaanpää 7:Pirkanmaa
+38710:Kankaanpää:Pirkanmaa
+38711:Kankaanpää:Pirkanmaa
+38720:Vihteljärvi:Pirkanmaa
+38740:Hapuoja:Pirkanmaa
+38750:Veneskoski:Pirkanmaa
+38760:Venesjärvi:Pirkanmaa
+38770:Lohikko:Pirkanmaa
+38800:Jämijärvi:Pirkanmaa
+38801:Jämijärvi:Pirkanmaa
+38840:Niinisalo:Pirkanmaa
+38841:Niinisalo:Pirkanmaa
+38860:Suurimaa:Pirkanmaa
+38910:Ala-Honkajoki:Pirkanmaa
+38920:Vatajankoski:Pirkanmaa
+38950:Honkajoki:Pirkanmaa
+38951:Honkajoki:Pirkanmaa
+38970:Lauhala:Pirkanmaa
+39100:Hämeenkyrö:Pirkanmaa
+39101:Hämeenkyrö:Pirkanmaa
+39110:Simuna:Pirkanmaa
+39120:Mahnala:Pirkanmaa
+39130:Sasi:Pirkanmaa
+39150:Pinsiö:Pirkanmaa
+39160:Julkujärvi:Pirkanmaa
+39170:Jumesniemi:Pirkanmaa
+39180:Herttuala:Pirkanmaa
+39195:Kaipio:Pirkanmaa
+39200:Kyröskoski:Pirkanmaa
+39201:Kyröskoski:Pirkanmaa
+39220:Kostula:Pirkanmaa
+39230:Osara:Pirkanmaa
+39290:Vesajärvi:Pirkanmaa
+39310:Viljakkala:Pirkanmaa
+39340:Karhe:Pirkanmaa
+39360:Komi:Pirkanmaa
+39380:Lavajärvi:Pirkanmaa
+39410:Luhalahti:Pirkanmaa
+39420:Iso-Röyhiö:Pirkanmaa
+39430:Röyhiö:Pirkanmaa
+39450:Sisättö:Pirkanmaa
+39500:Ikaalinen:Pirkanmaa
+39501:Ikaalinen:Pirkanmaa
+39510:Ikaalinen:Pirkanmaa
+39520:Sikuri:Pirkanmaa
+39530:Kilvakkala:Pirkanmaa
+39540:Jylli:Pirkanmaa
+39550:Myllykarttu:Pirkanmaa
+39580:Riitiala:Pirkanmaa
+39590:Tevaniemi:Pirkanmaa
+39610:Kovelahti:Pirkanmaa
+39620:Kovesjoki:Pirkanmaa
+39660:Lapinneva:Pirkanmaa
+39700:Parkano:Pirkanmaa
+39701:Parkano:Pirkanmaa
+39710:Kylmäkoski:Pirkanmaa
+39750:Kuivasjärvi:Pirkanmaa
+39770:Aureskoski:Pirkanmaa
+39780:Alaskylä:Pirkanmaa
+39810:Linnankylä:Pirkanmaa
+39820:Kihniö:Pirkanmaa
+39821:Kihniö:Pirkanmaa
+39880:Kihniö As:Pirkanmaa
+39910:Tuulenkylä:Pirkanmaa
+39920:Suomijärvi:Pirkanmaa
+39930:Karvia:Pirkanmaa
+39931:Karvia:Pirkanmaa
+39940:Kantti:Pirkanmaa
+39960:Sarvela:Pirkanmaa
+39965:Karviankylä:Pirkanmaa
+39980:Sara:Pirkanmaa
+39990:Alkkia:Pirkanmaa
+40003:Jyväskylä:Central Finland
+40007:Jyväskylä:Central Finland
+40063:Laskunet:Central Finland
+40100:Jyväskylä:Central Finland
+40101:Jyväskylä:Central Finland
+40109:Jyväskylä:Central Finland
+40200:Jyväskylä:Central Finland
+40220:Keski-Palokka:Central Finland
+40250:Jyväskylä:Central Finland
+40251:Jyväskylä:Central Finland
+40270:Palokka:Central Finland
+40271:Palokka:Central Finland
+40320:Jyväskylä:Central Finland
+40321:Jyväskylä:Central Finland
+40340:Jyväskylä:Central Finland
+40341:Jyväskylä:Central Finland
+40350:Jyväskylä:Central Finland
+40351:Jyväskylä:Central Finland
+40400:Jyväskylä:Central Finland
+40401:Jyväskylä:Central Finland
+40420:Jyskä:Central Finland
+40450:Jyväskylä:Central Finland
+40500:Jyväskylä:Central Finland
+40520:Jyväskylä:Central Finland
+40521:Jyväskylä:Central Finland
+40530:Jyväskylä:Central Finland
+40531:Jyväskylä:Central Finland
+40600:Jyväskylä:Central Finland
+40620:Jyväskylä:Central Finland
+40621:Jyväskylä:Central Finland
+40630:Jyväskylä:Central Finland
+40631:Jyväskylä:Central Finland
+40640:Jyväskylä:Central Finland
+40660:Jyväskylä:Central Finland
+40700:Jyväskylä:Central Finland
+40701:Jyväskylä:Central Finland
+40720:Jyväskylä:Central Finland
+40740:Jyväskylä:Central Finland
+40800:Vaajakoski:Central Finland
+40801:Vaajakoski:Central Finland
+40820:Haapaniemi:Central Finland
+40900:Säynätsalo:Central Finland
+40930:Kinkomaa:Central Finland
+40931:Kinkomaa:Central Finland
+40950:Muurame:Central Finland
+40951:Muurame:Central Finland
+40957:Muurame 7:Central Finland
+41120:Puuppola:Central Finland
+41140:Kuikka:Central Finland
+41160:Tikkakoski:Central Finland
+41161:Tikkakoski:Central Finland
+41180:Vehniä:Central Finland
+41210:Jokihaara:Central Finland
+41220:Höytiä:Central Finland
+41230:Uurainen:Central Finland
+41231:Uurainen:Central Finland
+41240:Kyynämöinen:Central Finland
+41260:Hoikankylä:Central Finland
+41270:Lannevesi:Central Finland
+41290:Kangashäkki:Central Finland
+41310:Leppävesi:Central Finland
+41315:Tiituspohja:Central Finland
+41325:Laukkavirta:Central Finland
+41330:Vihtavuori:Central Finland
+41331:Vihtavuori:Central Finland
+41340:Laukaa:Central Finland
+41341:Laukaa:Central Finland
+41350:Laukaa As:Central Finland
+41360:Valkola:Central Finland
+41370:Kuusa:Central Finland
+41390:Äijälä:Central Finland
+41400:Lievestuore:Central Finland
+41401:Lievestuore:Central Finland
+41410:Kankainen:Central Finland
+41420:Taulu:Central Finland
+41440:Ruuhimäki:Central Finland
+41450:Leppälahti:Central Finland
+41460:Iso-Oksala:Central Finland
+41470:Saarilahti:Central Finland
+41480:Simunankoski:Central Finland
+41490:Niemisjärvi:Central Finland
+41500:Hankasalmi As:Central Finland
+41501:Hankasalmi As:Central Finland
+41520:Hankasalmi:Central Finland
+41521:Hankasalmi:Central Finland
+41530:Veneranta:Central Finland
+41540:Ristimäki:Central Finland
+41550:Hannula:Central Finland
+41560:Säkinmäki:Central Finland
+41580:Sauvamäki:Central Finland
+41585:Hanka:Central Finland
+41630:Oravasaari:Central Finland
+41660:Toivakka:Central Finland
+41661:Toivakka:Central Finland
+41680:Särkiharju:Central Finland
+41710:Rutalahti:Central Finland
+41730:Kivisuo:Central Finland
+41750:Havumäki:Central Finland
+41770:Leivonmäki:Central Finland
+41800:Korpilahti:Central Finland
+41801:Korpilahti:Central Finland
+41820:Saakoski:Central Finland
+41840:Moksi:Central Finland
+41860:Rannila:Central Finland
+41870:Putkilahti:Central Finland
+41880:Oittila:Central Finland
+41900:Petäjävesi:Central Finland
+41901:Petäjävesi:Central Finland
+41920:Kintaus:Central Finland
+41925:Ylä-Kintaus:Central Finland
+41930:Kuohu:Central Finland
+41940:Vesanka:Central Finland
+41945:Nyrölä:Central Finland
+41970:Huttula:Central Finland
+41980:Kuivasmäki:Central Finland
+41999:Jyväskylä:Central Finland
+42100:Jämsä:Central Finland
+42101:Jämsä:Central Finland
+42120:Jämsä:Central Finland
+42140:Juokslahti:Central Finland
+42220:Kaipola:Central Finland
+42250:Alhojärvi:Central Finland
+42280:Partalankoski:Central Finland
+42300:Jämsänkoski:Central Finland
+42301:Jämsänkoski:Central Finland
+42330:Haavisto:Central Finland
+42440:Koskenpää:Central Finland
+42490:Niemisjärvi:Central Finland
+42520:Asunta:Central Finland
+42540:Kaleton:Central Finland
+42541:Kaleton:Central Finland
+42560:Pohjoisjärvi:Central Finland
+42600:Multia:Central Finland
+42601:Multia:Central Finland
+42660:Sahrajärvi:Central Finland
+42700:Keuruu:Central Finland
+42701:Keuruu:Central Finland
+42720:Keuruu:Central Finland
+42721:Keuruu:Central Finland
+42730:Ketvelniemi:Central Finland
+42760:Keurusselkä:Central Finland
+42790:Liesjärvi:Central Finland
+42800:Haapamäki:Central Finland
+42801:Haapamäki:Central Finland
+42820:Riiho:Central Finland
+42830:Ylä-Kolkki:Central Finland
+42840:Kolkki:Central Finland
+42850:Pohjaslahti:Central Finland
+42870:Kotala:Central Finland
+42899:Haapamäki:Central Finland
+42910:Pihlajavesi:Central Finland
+42930:Katajamäki:Central Finland
+42999:Jämsä:Central Finland
+43100:Saarijärvi:Kymenlaakso
+43101:Saarijärvi:Kymenlaakso
+43130:Tarvaala:Kymenlaakso
+43140:Summassaari:Kymenlaakso
+43170:Häkkilä:Kymenlaakso
+43220:Mahlu:Kymenlaakso
+43240:Lehtola:Kymenlaakso
+43250:Kolkanlahti:Kymenlaakso
+43270:Kalmari:Kymenlaakso
+43300:Kannonkoski:Kymenlaakso
+43340:Kannonjärvi:Kymenlaakso
+43380:Vuoskoski:Kymenlaakso
+43390:Lokakylä:Kymenlaakso
+43410:Soidinmäki:Kymenlaakso
+43420:Kukko:Kymenlaakso
+43430:Väätäiskylä:Kymenlaakso
+43440:Pylkönmäki:Kymenlaakso
+43480:Pääjärvi:Kymenlaakso
+43490:Kangasaho:Kymenlaakso
+43500:Karstula:Kymenlaakso
+43501:Karstula:Kymenlaakso
+43520:Kiminki:Kymenlaakso
+43540:Rantakylä:Kymenlaakso
+43560:Vahanka:Kymenlaakso
+43610:Aho:Kymenlaakso
+43640:Humppi:Kymenlaakso
+43660:Vastinki:Kymenlaakso
+43680:Takkala:Kymenlaakso
+43700:Kyyjärvi:Kymenlaakso
+43701:Kyyjärvi:Kymenlaakso
+43720:Kumpulainen:Kymenlaakso
+43740:Oikari:Kymenlaakso
+43800:Kivijärvi:Kymenlaakso
+43801:Kivijärvi:Kymenlaakso
+43840:Sompala:Kymenlaakso
+43900:Kinnula:Kymenlaakso
+43901:Kinnula:Kymenlaakso
+43940:Muhola:Kymenlaakso
+43960:Saarensalmi:Kymenlaakso
+44007:Äänekoski:Kymenlaakso
+44100:Äänekoski:Kymenlaakso
+44101:Äänekoski:Kymenlaakso
+44120:Äänekoski:Kymenlaakso
+44150:Äänekoski:Kymenlaakso
+44151:Äänekoski:Kymenlaakso
+44160:Huutomäki:Kymenlaakso
+44170:Hietama:Kymenlaakso
+44190:Parantala:Kymenlaakso
+44200:Suolahti:Kymenlaakso
+44201:Suolahti:Kymenlaakso
+44220:Suolahti:Kymenlaakso
+44250:Ääne-Koivisto:Kymenlaakso
+44260:Vihijärvi:Kymenlaakso
+44280:Sumiainen:Kymenlaakso
+44300:Konnevesi:Kymenlaakso
+44320:Sirkkamäki:Kymenlaakso
+44330:Hytölä:Kymenlaakso
+44350:Istunmäki:Kymenlaakso
+44370:Mäntymäki:Kymenlaakso
+44400:Konginkangas:Kymenlaakso
+44401:Konginkangas:Kymenlaakso
+44420:Liimattala:Kymenlaakso
+44440:Räihä:Kymenlaakso
+44460:Kalaniemi:Kymenlaakso
+44480:Niinilahti:Kymenlaakso
+44500:Viitasaari:Kymenlaakso
+44501:Viitasaari:Kymenlaakso
+44520:Jurvansalo:Kymenlaakso
+44530:Ilmolahti:Kymenlaakso
+44550:Ruuponsaari:Kymenlaakso
+44580:Huopanankoski:Kymenlaakso
+44590:Vuorilahti:Kymenlaakso
+44610:Kärnä:Kymenlaakso
+44630:Kumpumäki:Kymenlaakso
+44640:Kymönkoski:Kymenlaakso
+44670:Suovanlahti:Kymenlaakso
+44680:Lahnanen:Kymenlaakso
+44690:Haarala:Kymenlaakso
+44720:Pasala:Kymenlaakso
+44730:Löytänä:Kymenlaakso
+44740:Keitelepohja:Kymenlaakso
+44760:Keihärinkoski:Kymenlaakso
+44770:Valkeisjärvi:Kymenlaakso
+44790:Kotvala:Kymenlaakso
+44800:Pihtipudas:Kymenlaakso
+44801:Pihtipudas:Kymenlaakso
+44820:Niemenharju:Kymenlaakso
+44860:Alvajärvi:Kymenlaakso
+44880:Muurasjärvi:Kymenlaakso
+44890:Kojola:Kymenlaakso
+44910:Elämäjärvi:Kymenlaakso
+44920:Peninki:Kymenlaakso
+44950:Kärväsjärvi:Kymenlaakso
+44970:Korppinen:Kymenlaakso
+45007:Kouvola:Kymenlaakso
+45100:Kouvola:Kymenlaakso
+45101:Kouvola:Kymenlaakso
+45120:Kouvola:Kymenlaakso
+45121:Kouvola:Kymenlaakso
+45130:Kouvola:Kymenlaakso
+45131:Kouvola:Kymenlaakso
+45140:Kouvola:Kymenlaakso
+45141:Kouvola:Kymenlaakso
+45150:Kouvola:Kymenlaakso
+45151:Kouvola:Kymenlaakso
+45160:Kouvola:Kymenlaakso
+45161:Kouvola:Kymenlaakso
+45200:Kouvola:Kymenlaakso
+45201:Kouvola:Kymenlaakso
+45250:Kymenlaakson lajittelukeskus:Kymenlaakso
+45251:Kouvola:Kymenlaakso
+45330:Harju:Kymenlaakso
+45360:Valkeala:Kymenlaakso
+45361:Valkeala:Kymenlaakso
+45370:Valkeala:Kymenlaakso
+45371:Valkeala:Kymenlaakso
+45410:Utti:Kymenlaakso
+45411:Utti:Kymenlaakso
+45460:Savero:Kymenlaakso
+45540:Lyöttilä:Kymenlaakso
+45610:Koria:Kymenlaakso
+45611:Koria:Kymenlaakso
+45700:Kuusankoski:Kymenlaakso
+45701:Kuusankoski:Kymenlaakso
+45720:Kuusankoski:Kymenlaakso
+45721:Kuusankoski:Kymenlaakso
+45730:Kuusankoski:Kymenlaakso
+45740:Kuusankoski:Kymenlaakso
+45741:Kuusankoski:Kymenlaakso
+45750:Sairaalamäki:Kymenlaakso
+45810:Pilkanmaa:Kymenlaakso
+45910:Voikkaa:Kymenlaakso
+45911:Voikkaa:Kymenlaakso
+45940:Oravala:Kymenlaakso
+46110:Tuohikotti:Kymenlaakso
+46140:Vekaranjärvi:Kymenlaakso
+46141:Vekaranjärvi:Kymenlaakso
+46230:Aro:Kymenlaakso
+46250:Heinistö:Kymenlaakso
+46310:Toikkala:Kymenlaakso
+46350:Inkerilä:Kymenlaakso
+46400:Kaipiainen:Kymenlaakso
+46430:Tirva:Kymenlaakso
+46450:Enäjärvi:Kymenlaakso
+46530:Kannuskoski:Kymenlaakso
+46550:Kaitjärvi:Kymenlaakso
+46570:Saaramaa:Kymenlaakso
+46610:Hirvelänkylä:Kymenlaakso
+46710:Sippola:Kymenlaakso
+46730:Ruotila:Kymenlaakso
+46750:Liikkala:Kymenlaakso
+46800:Anjalankoski:Kymenlaakso
+46801:Anjalankoski:Kymenlaakso
+46810:Anjalankoski:Kymenlaakso
+46860:Anjalankoski:Kymenlaakso
+46861:Anjalankoski:Kymenlaakso
+46900:Anjalankoski:Kymenlaakso
+46901:Anjalankoski:Kymenlaakso
+46907:Anjalankoski 7:Kymenlaakso
+46910:Anjalankoski:Kymenlaakso
+46920:Anjalankoski:Kymenlaakso
+46930:Huruksela:Kymenlaakso
+46950:Ahvio:Kymenlaakso
+46960:Muhniemi:Kymenlaakso
+46999:Kouvola:Kymenlaakso
+47110:Löytty:Kymenlaakso
+47150:Raussila:Kymenlaakso
+47200:Elimäki:Kymenlaakso
+47201:Elimäki:Kymenlaakso
+47210:Rahikkala:Kymenlaakso
+47230:Teuroinen:Kymenlaakso
+47240:Lakiasuo:Kymenlaakso
+47260:Ratula:Kymenlaakso
+47310:Haapa-Kimola:Kymenlaakso
+47350:Kimonkylä:Kymenlaakso
+47400:Kausala:Kymenlaakso
+47401:Kausala:Kymenlaakso
+47440:Valkama:Kymenlaakso
+47450:Perheniemi:Kymenlaakso
+47460:Hiisiö:Kymenlaakso
+47490:Mankala:Kymenlaakso
+47520:Iitti:Kymenlaakso
+47540:Lyöttilä:Kymenlaakso
+47610:Kymentaka:Kymenlaakso
+47650:Kimola:Kymenlaakso
+47710:Jaala:Kymenlaakso
+47760:Huhdasjärvi:Kymenlaakso
+47810:Selänpää:Kymenlaakso
+47830:Hasula:Kymenlaakso
+47850:Verla:Kymenlaakso
+47900:Vuohijärvi:Kymenlaakso
+47901:Vuohijärvi:Kymenlaakso
+47910:Hillosensalmi:Kymenlaakso
+48007:Kotka:Kymenlaakso
+48100:Kotka:Kymenlaakso
+48101:Kotka:Kymenlaakso
+48130:Kotka:Kymenlaakso
+48180:Kuutsalo:Kymenlaakso
+48200:Kotka:Kymenlaakso
+48201:Kotka:Kymenlaakso
+48210:Kotka:Kymenlaakso
+48220:Kotka:Kymenlaakso
+48221:Kotka:Kymenlaakso
+48223:Langinkosken kalastusmaja:Kymenlaakso
+48230:Kotka:Kymenlaakso
+48231:Kotka:Kymenlaakso
+48251:Kotka:Kymenlaakso
+48300:Kotka:Kymenlaakso
+48310:Kotka:Kymenlaakso
+48350:Kotka:Kymenlaakso
+48351:Kotka:Kymenlaakso
+48400:Kotka:Kymenlaakso
+48401:Kotka:Kymenlaakso
+48410:Kotka:Kymenlaakso
+48600:Karhula:Kymenlaakso
+48601:Karhula:Kymenlaakso
+48700:Kyminlinna:Kymenlaakso
+48701:Kyminlinna:Kymenlaakso
+48710:Karhula:Kymenlaakso
+48720:Kymi:Kymenlaakso
+48750:Kotka:Kymenlaakso
+48770:Karhula:Kymenlaakso
+48771:Karhula:Kymenlaakso
+48800:Karhula:Kymenlaakso
+48810:Karhula:Kymenlaakso
+48900:Sunila:Kymenlaakso
+48901:Kotka:Kymenlaakso
+48910:Kotka:Kymenlaakso
+48911:Kotka:Kymenlaakso
+48920:Halla:Kymenlaakso
+48930:Tiutinen:Kymenlaakso
+49200:Heinlahti:Kymenlaakso
+49210:Huutjärvi:Kymenlaakso
+49220:Siltakylä:Kymenlaakso
+49240:Purola:Kymenlaakso
+49270:Pyhtää:Kymenlaakso
+49290:Vastila:Kymenlaakso
+49300:Tavastila:Kymenlaakso
+49340:Juurikorpi:Kymenlaakso
+49400:Hamina:Kymenlaakso
+49401:Hamina:Kymenlaakso
+49407:Hamina:Kymenlaakso
+49410:Poitsila:Kymenlaakso
+49411:Poitsila:Kymenlaakso
+49420:Hamina:Kymenlaakso
+49460:Hamina:Kymenlaakso
+49461:Hamina:Kymenlaakso
+49470:Kivelä:Kymenlaakso
+49480:Summa:Kymenlaakso
+49490:Neuvoton:Kymenlaakso
+49510:Husula:Kymenlaakso
+49520:Reitkalli:Kymenlaakso
+49540:Metsäkylä:Kymenlaakso
+49570:Kannusjärvi:Kymenlaakso
+49610:Sivatti:Kymenlaakso
+49630:Vehkajoki:Kymenlaakso
+49640:Paijärvi:Kymenlaakso
+49660:Pyhältö:Kymenlaakso
+49700:Miehikkälä:Kymenlaakso
+49701:Miehikkälä:Kymenlaakso
+49720:Hurttala:Kymenlaakso
+49730:Muurikkala:Kymenlaakso
+49750:Kalliokoski:Kymenlaakso
+49760:Suur-Miehikkälä:Kymenlaakso
+49770:Salo-Miehikkälä:Kymenlaakso
+49780:Onkamaa:Kymenlaakso
+49818:Hamina leirintä:Kymenlaakso
+49840:Mäntlahti:Kymenlaakso
+49860:Klamila:Kymenlaakso
+49899:Hamina:Kymenlaakso
+49900:Virolahti:Kymenlaakso
+49901:Virolahti:Kymenlaakso
+49930:Vaalimaa:Kymenlaakso
+49950:Virolahti Kk:Kymenlaakso
+49960:Ala-Pihlaja:Kymenlaakso
+49980:Ravijoki:Kymenlaakso
+49999:Kotka:Kymenlaakso
+50007:Mikkeli:Kymenlaakso
+50100:Mikkeli:Kymenlaakso
+50101:Mikkeli:Kymenlaakso
+50120:Mikkeli:Kymenlaakso
+50130:Mikkeli:Kymenlaakso
+50131:Mikkeli:Kymenlaakso
+50150:Mikkeli:Kymenlaakso
+50151:Mikkeli:Kymenlaakso
+50160:Mikkeli:Kymenlaakso
+50170:Mikkeli:Kymenlaakso
+50171:Mikkeli:Kymenlaakso
+50180:Mikkeli:Kymenlaakso
+50190:Mikkeli:Kymenlaakso
+50350:Norola:Kymenlaakso
+50500:Mikkeli:Kymenlaakso
+50501:Mikkeli:Kymenlaakso
+50520:Mikkeli:Kymenlaakso
+50600:Mikkeli:Kymenlaakso
+50670:Otava:Kymenlaakso
+50770:Korpikoski:Kymenlaakso
+50970:Ihastjärvi:Kymenlaakso
+51130:Vanhamäki:Kymenlaakso
+51200:Kangasniemi:Kymenlaakso
+51201:Kangasniemi:Kymenlaakso
+51260:Tahkomäki:Kymenlaakso
+51270:Kutemajärvi:Kymenlaakso
+51310:Levä:Kymenlaakso
+51330:Kortesalmi:Kymenlaakso
+51335:Kaihlamäki:Kymenlaakso
+51340:Hännilä:Kymenlaakso
+51350:Paappala:Kymenlaakso
+51360:Koivula:Kymenlaakso
+51380:Synsiö:Kymenlaakso
+51420:Harjumaa:Kymenlaakso
+51430:Läsäkoski:Kymenlaakso
+51440:Vuojalahti:Kymenlaakso
+51450:Pajulankylä:Kymenlaakso
+51460:Luusniemi:Kymenlaakso
+51520:Hiirola:Kymenlaakso
+51540:Kalvitsa:Kymenlaakso
+51600:Haukivuori:Kymenlaakso
+51601:Haukivuori:Kymenlaakso
+51620:Pitkäaho:Kymenlaakso
+51670:Nykälä:Kymenlaakso
+51720:Rahula:Kymenlaakso
+51730:Asila:Kymenlaakso
+51740:Huuhanaho:Kymenlaakso
+51760:Nuutilanmäki:Kymenlaakso
+51770:Pekurila:Kymenlaakso
+51780:Kuosmala:Kymenlaakso
+51810:Maivala:Kymenlaakso
+51820:Hatsola:Kymenlaakso
+51830:Näärinki:Kymenlaakso
+51840:Nevaintausta:Kymenlaakso
+51850:Vuorenmaa:Kymenlaakso
+51860:Narila:Kymenlaakso
+51880:Koikkala:Kymenlaakso
+51890:Risulahti:Kymenlaakso
+51900:Juva:Kymenlaakso
+51901:Juva:Kymenlaakso
+51930:Paatela:Kymenlaakso
+51940:Härkälä:Kymenlaakso
+51960:Palokangas:Kymenlaakso
+51980:Lauteala:Kymenlaakso
+51999:Mikkeli:Kymenlaakso
+52100:Anttola:Kymenlaakso
+52110:Majavesi:Kymenlaakso
+52140:Ylivesi:Kymenlaakso
+52150:Hauhala:Kymenlaakso
+52200:Puumala:Kymenlaakso
+52201:Puumala:Kymenlaakso
+52230:Hurissalo:Kymenlaakso
+52240:Ruokotaipale:Kymenlaakso
+52270:Ryhälä:Kymenlaakso
+52300:Ristiina:Kymenlaakso
+52301:Ristiina:Kymenlaakso
+52320:Vitsiälä:Kymenlaakso
+52330:Heimari:Kymenlaakso
+52340:Hangastenmaa:Kymenlaakso
+52350:Kalmo:Kymenlaakso
+52360:Someenjärvi:Kymenlaakso
+52370:Suurlahti:Kymenlaakso
+52420:Pellosniemi:Kymenlaakso
+52510:Hietanen:Kymenlaakso
+52520:Syväsmäki:Kymenlaakso
+52550:Hirvensalmi:Kymenlaakso
+52551:Hirvensalmi:Kymenlaakso
+52580:Hämeenmäki:Kymenlaakso
+52610:Tuukkala:Kymenlaakso
+52620:Kuitula:Kymenlaakso
+52650:Pärnämäki:Kymenlaakso
+52660:Marjotaipale:Kymenlaakso
+52700:Mäntyharju:Kymenlaakso
+52701:Mäntyharju:Kymenlaakso
+52710:Mäntyharju Kk:Kymenlaakso
+52720:Karankamäki:Kymenlaakso
+52730:Koirakivi:Kymenlaakso
+52740:Tuustaipale:Kymenlaakso
+52760:Mynttilä:Kymenlaakso
+52770:Ollikkala:Kymenlaakso
+52780:Kuomiokoski:Kymenlaakso
+52810:Varpanen:Kymenlaakso
+52830:Suomenniemi:Kymenlaakso
+52850:Halmeniemi:Kymenlaakso
+52870:Kinni:Kymenlaakso
+52890:Käävänkylä:Kymenlaakso
+52920:Voikoski:Kymenlaakso
+52940:Hillosensalmi:Kymenlaakso
+52960:Nurmaa:Kymenlaakso
+52970:Pankalahti:Kymenlaakso
+52980:Ahvenainen:Kymenlaakso
+53007:Lappeenranta:South Karelia
+53100:Lappeenranta:South Karelia
+53101:Lappeenranta:South Karelia
+53130:Lappeenranta:South Karelia
+53200:Lappeenranta:South Karelia
+53300:Lappeenranta:South Karelia
+53301:Lappeenranta:South Karelia
+53400:Lappeenranta:South Karelia
+53420:Lappeenranta:South Karelia
+53440:Lappeenranta:South Karelia
+53500:Lappeenranta:South Karelia
+53501:Lappeenranta:South Karelia
+53600:Lappeenranta:South Karelia
+53601:Lappeenranta:South Karelia
+53650:Lappeenranta:South Karelia
+53800:Lappeenranta:South Karelia
+53810:Lappeenranta:South Karelia
+53830:Lappeenranta:South Karelia
+53850:Lappeenranta:South Karelia
+53851:Lappeenranta:South Karelia
+53900:Lappeenranta:South Karelia
+53901:Lappeenranta:South Karelia
+53920:Lappeenranta:South Karelia
+53950:Lappeenranta:South Karelia
+54100:Joutseno:South Karelia
+54101:Joutseno:South Karelia
+54110:Lampikangas:South Karelia
+54120:Pulp:South Karelia
+54160:Ala-Joutseno:South Karelia
+54180:Kähärilä:South Karelia
+54190:Konnunsuo:South Karelia
+54230:Nuijamaa:South Karelia
+54250:Rapattila:South Karelia
+54270:Vainikkala:South Karelia
+54310:Hytti:South Karelia
+54330:Simola:South Karelia
+54340:Raippo:South Karelia
+54380:Tani:South Karelia
+54390:Pulsa:South Karelia
+54410:Ylämaa:South Karelia
+54430:Hujakkala:South Karelia
+54440:Väkevälä:South Karelia
+54450:Nurmela:South Karelia
+54460:Ylijärvi:South Karelia
+54480:Nokkala:South Karelia
+54490:Ahomäki:South Karelia
+54500:Taavetti:South Karelia
+54501:Taavetti:South Karelia
+54510:Uro:South Karelia
+54530:Luumäki:South Karelia
+54550:Suo-Anttila:South Karelia
+54580:Somerharju:South Karelia
+54610:Ellola:South Karelia
+54620:Munteenkylä:South Karelia
+54630:Viuhkola:South Karelia
+54640:Pentti:South Karelia
+54670:Hämäläinen:South Karelia
+54710:Lemi:South Karelia
+54711:Lemi:South Karelia
+54715:Nisola:South Karelia
+54720:Laksiainen:South Karelia
+54740:Uimi:South Karelia
+54750:Välijoki:South Karelia
+54770:Heituinlahti:South Karelia
+54800:Savitaipale:South Karelia
+54801:Savitaipale:South Karelia
+54820:Kotimäki:South Karelia
+54840:Telamäki:South Karelia
+54850:Kuukanniemi:South Karelia
+54880:Partakoski:South Karelia
+54915:Saimaanharju:South Karelia
+54920:Taipalsaari:South Karelia
+54921:Taipalsaari:South Karelia
+54930:Levänen:South Karelia
+54940:Solkei:South Karelia
+54950:Pettilä:South Karelia
+54960:Vehkataipale:South Karelia
+54980:Saimaanranta:South Karelia
+54990:Suur-Saimaa:South Karelia
+54999:Lappeenranta:South Karelia
+55007:Imatra:South Karelia
+55100:Imatra:South Karelia
+55101:Imatra:South Karelia
+55120:Imatra:South Karelia
+55121:Imatra:South Karelia
+55300:Rauha:South Karelia
+55320:Rauha:South Karelia
+55330:Tiuruniemi:South Karelia
+55400:Imatra:South Karelia
+55420:Imatra:South Karelia
+55510:Imatra:South Karelia
+55610:Imatra:South Karelia
+55611:Imatra:South Karelia
+55700:Imatra:South Karelia
+55800:Imatra:South Karelia
+55801:Imatra:South Karelia
+55910:Imatra:South Karelia
+55950:Imatra:South Karelia
+56100:Ruokolahti:South Karelia
+56101:Ruokolahti:South Karelia
+56120:Salosaari:South Karelia
+56130:Savilahti:South Karelia
+56140:Äitsaari:South Karelia
+56210:Virmutjoki:South Karelia
+56250:Erä:South Karelia
+56310:Syyspohja:South Karelia
+56330:Utula:South Karelia
+56350:Kyläniemi:South Karelia
+56370:Hauklappi:South Karelia
+56410:Kaiturinpää:South Karelia
+56440:Pohja-Lankila:South Karelia
+56510:Puntala:South Karelia
+56550:Niska-Pietilä:South Karelia
+56610:Rautjärvi:South Karelia
+56620:Untamo:South Karelia
+56640:Purnujärvi:South Karelia
+56710:Miettilä:South Karelia
+56730:Laikko:South Karelia
+56800:Simpele:South Karelia
+56801:Simpele:South Karelia
+56810:Simpele As:South Karelia
+56830:Änkilä:South Karelia
+56999:Imatra:South Karelia
+57007:Savonlinna:Etelä-Savo
+57100:Savonlinna:Etelä-Savo
+57101:Savonlinna:Etelä-Savo
+57120:Savonlinna:Etelä-Savo
+57130:Savonlinna:Etelä-Savo
+57131:Savonlinna:Etelä-Savo
+57150:Olavinlinna:Etelä-Savo
+57170:Savonlinna:Etelä-Savo
+57200:Savonlinna:Etelä-Savo
+57201:Savonlinna:Etelä-Savo
+57210:Savonlinna:Etelä-Savo
+57220:Savonlinna:Etelä-Savo
+57230:Savonlinna:Etelä-Savo
+57231:Savonlinna:Etelä-Savo
+57310:Savonlinna:Etelä-Savo
+57510:Savonlinna:Etelä-Savo
+57600:Savonlinna:Etelä-Savo
+57710:Savonlinna:Etelä-Savo
+57810:Savonlinna:Etelä-Savo
+58130:Oravi:Etelä-Savo
+58140:Ahvensalmi:Etelä-Savo
+58150:Makkola:Etelä-Savo
+58160:Karvila:Etelä-Savo
+58170:Simanala:Etelä-Savo
+58175:Enonkoski:Etelä-Savo
+58180:Ihamaniemi:Etelä-Savo
+58200:Kerimäki:Etelä-Savo
+58201:Kerimäki:Etelä-Savo
+58220:Louhi:Etelä-Savo
+58240:Seikanlampi:Etelä-Savo
+58250:Hautalahti:Etelä-Savo
+58260:Kumpuranta:Etelä-Savo
+58300:Savonranta:Etelä-Savo
+58320:Raikuu:Etelä-Savo
+58350:Villala:Etelä-Savo
+58360:Säimen:Etelä-Savo
+58390:Rönkönvaara:Etelä-Savo
+58410:Haapakallio:Etelä-Savo
+58420:Silvola:Etelä-Savo
+58430:Kulennoinen:Etelä-Savo
+58440:Päivinen:Etelä-Savo
+58450:Punkaharju:Etelä-Savo
+58451:Punkuharju:Etelä-Savo
+58500:Punkaharju:Etelä-Savo
+58501:Punkaharju:Etelä-Savo
+58520:Hiukkajoki:Etelä-Savo
+58550:Putikko:Etelä-Savo
+58570:Ruhvana:Etelä-Savo
+58580:Vuoriniemi:Etelä-Savo
+58610:Telakanava:Etelä-Savo
+58620:Lohilahti:Etelä-Savo
+58630:Lohikoski:Etelä-Savo
+58640:Lieviskä:Etelä-Savo
+58650:Kiviapaja:Etelä-Savo
+58680:Piojärvi:Etelä-Savo
+58690:Ala-Särkilahti:Etelä-Savo
+58700:Sulkava:Etelä-Savo
+58701:Sulkava:Etelä-Savo
+58720:Kaartilankoski:Etelä-Savo
+58740:Kyrsyä:Etelä-Savo
+58770:Pihlajalahti:Etelä-Savo
+58810:Kallislahti:Etelä-Savo
+58830:Parkumäki:Etelä-Savo
+58840:Päiviälä:Etelä-Savo
+58850:Hiltula:Etelä-Savo
+58900:Rantasalmi:Etelä-Savo
+58901:Rantasalmi:Etelä-Savo
+58910:Rantasalmi As:Etelä-Savo
+58920:Kolkontaipale:Etelä-Savo
+58940:Tuusmäki:Etelä-Savo
+58999:Savonlinna:Etelä-Savo
+59100:Parikkala:Etelä-Savo
+59101:Parikkala:Etelä-Savo
+59110:Tiviä:Etelä-Savo
+59130:Koitsanlahti:Etelä-Savo
+59210:Melkoniemi:Etelä-Savo
+59220:Peruspohja:Etelä-Savo
+59310:Särkisalmi:Etelä-Savo
+59320:Haapaoja:Etelä-Savo
+59410:Kirjavala:Etelä-Savo
+59420:Kesusmaa:Etelä-Savo
+59510:Saari:Etelä-Savo
+59511:Saari:Etelä-Savo
+59520:Saari:Etelä-Savo
+59530:Mikkolanniemi:Etelä-Savo
+59610:Tarnala:Etelä-Savo
+59620:Rajavaara:Etelä-Savo
+59710:Kummunkylä:Etelä-Savo
+59720:Niukkala:Etelä-Savo
+59730:Uukuniemi:Etelä-Savo
+59800:Kesälahti:Etelä-Savo
+59801:Kesälahti:Etelä-Savo
+59810:Suurikylä:Etelä-Savo
+59820:Purujärvi:Etelä-Savo
+59830:Totkiniemi:Etelä-Savo
+59910:Luostarinen:Etelä-Savo
+59999:Parikkala:Etelä-Savo
+60007:Seinäjoki:South Ostrobothnia
+60100:Seinäjoki:South Ostrobothnia
+60101:Seinäjoki:South Ostrobothnia
+60110:Seinäjoki:South Ostrobothnia
+60120:Seinäjoki:South Ostrobothnia
+60150:Seinäjoki:South Ostrobothnia
+60200:Seinäjoki:South Ostrobothnia
+60201:Seinäjoki:South Ostrobothnia
+60220:Seinäjoki:South Ostrobothnia
+60280:Seinäjoki:South Ostrobothnia
+60320:Seinäjoki:South Ostrobothnia
+60420:Seinäjoki:South Ostrobothnia
+60450:Munakka:South Ostrobothnia
+60510:Hyllykallio:South Ostrobothnia
+60511:Hyllykallio:South Ostrobothnia
+60530:Kivisaari:South Ostrobothnia
+60550:Nurmo:South Ostrobothnia
+60551:Nurmo:South Ostrobothnia
+60560:Halkosaari:South Ostrobothnia
+60601:Jalasjärvi:South Ostrobothnia
+60640:Isokoski:South Ostrobothnia
+60720:Tuomikylä:South Ostrobothnia
+60760:Pojanluoma:South Ostrobothnia
+60800:Ilmajoki:South Ostrobothnia
+60801:Ilmajoki:South Ostrobothnia
+61100:Peräseinäjoki:South Ostrobothnia
+61101:Peräseinäjoki:South Ostrobothnia
+61110:Vuolle:South Ostrobothnia
+61120:Louko:South Ostrobothnia
+61140:Pasto:South Ostrobothnia
+61150:Sydänmaa:South Ostrobothnia
+61160:Koura:South Ostrobothnia
+61170:Sääskiniemi:South Ostrobothnia
+61180:Haapaluoma:South Ostrobothnia
+61220:Myllysalo:South Ostrobothnia
+61230:Luopa:South Ostrobothnia
+61240:Opas:South Ostrobothnia
+61250:Jalasto:South Ostrobothnia
+61270:Luopajärvi:South Ostrobothnia
+61280:Jokipii:South Ostrobothnia
+61290:Taivalmaa:South Ostrobothnia
+61300:Kurikka:South Ostrobothnia
+61301:Kurikka:South Ostrobothnia
+61310:Panttila:South Ostrobothnia
+61330:Koskenkorva:South Ostrobothnia
+61331:Koskenkorva:South Ostrobothnia
+61340:Nopankylä:South Ostrobothnia
+61350:Huissi:South Ostrobothnia
+61360:Mieto:South Ostrobothnia
+61370:Lohiluoma:South Ostrobothnia
+61380:Polvenkylä:South Ostrobothnia
+61400:Ylistaro:South Ostrobothnia
+61401:Ylistaro:South Ostrobothnia
+61410:Ylistaro As:South Ostrobothnia
+61430:Isorehto:South Ostrobothnia
+61440:Untamala:South Ostrobothnia
+61450:Kylänpää:South Ostrobothnia
+61460:Hanhikoski:South Ostrobothnia
+61470:Kitinoja:South Ostrobothnia
+61480:Tenkkula:South Ostrobothnia
+61500:Isokyrö:South Ostrobothnia
+61501:Isokyrö:South Ostrobothnia
+61510:Ruusupuro:South Ostrobothnia
+61520:Lehmäjoki:South Ostrobothnia
+61540:Akkaansilta:South Ostrobothnia
+61550:Orismala:South Ostrobothnia
+61560:Orisberg:South Ostrobothnia
+61600:Jalasjärvi:South Ostrobothnia
+61601:Jalasjärvi:South Ostrobothnia
+61620:Komsi:South Ostrobothnia
+61630:Hirvijärvi:South Ostrobothnia
+61640:Ala-Valli:South Ostrobothnia
+61650:Kalakoski:South Ostrobothnia
+61660:Kantola:South Ostrobothnia
+61670:Kulma:South Ostrobothnia
+61680:Mantila:South Ostrobothnia
+61710:Pentinmäki:South Ostrobothnia
+61720:Koskue:South Ostrobothnia
+61730:Yli-Valli:South Ostrobothnia
+61760:Ilvesjoki:South Ostrobothnia
+61800:Kauhajoki:South Ostrobothnia
+61801:Kauhajoki:South Ostrobothnia
+61810:Luomankylä:South Ostrobothnia
+61820:Kainasto:South Ostrobothnia
+61840:Norinkylä:South Ostrobothnia
+61850:Kauhajoki As:South Ostrobothnia
+61851:Kauhajoki as:South Ostrobothnia
+61860:Harja:South Ostrobothnia
+61880:Ikkeläjärvi:South Ostrobothnia
+61910:Nummijärvi:South Ostrobothnia
+61920:Nummikoski:South Ostrobothnia
+61940:Hyyppä:South Ostrobothnia
+61950:Juonikylä:South Ostrobothnia
+61960:Kyrönlatva:South Ostrobothnia
+61980:Päntäne:South Ostrobothnia
+61999:Seinäjoki:South Ostrobothnia
+62100:Lapua:South Ostrobothnia
+62101:Lapua:South Ostrobothnia
+62110:Yli-Hella:South Ostrobothnia
+62130:Hellanmaa:South Ostrobothnia
+62140:Ala-Hella:South Ostrobothnia
+62150:Rintakangas:South Ostrobothnia
+62160:Karhunkylä:South Ostrobothnia
+62165:Tiistenjoki:South Ostrobothnia
+62170:Lakaluoma:South Ostrobothnia
+62175:Ylikylä:South Ostrobothnia
+62185:Mäki-Paavola:South Ostrobothnia
+62190:Ruha:South Ostrobothnia
+62195:Karhunmäki:South Ostrobothnia
+62200:Kauhava:South Ostrobothnia
+62201:Kauhava:South Ostrobothnia
+62210:Kauhava Kk:South Ostrobothnia
+62220:Pernaa:South Ostrobothnia
+62230:Jylhä:South Ostrobothnia
+62240:Huhmarkoski:South Ostrobothnia
+62260:Hirvijoki:South Ostrobothnia
+62270:Halmesmäki:South Ostrobothnia
+62280:Mustamaa:South Ostrobothnia
+62290:Hirvikylä:South Ostrobothnia
+62295:Kauhajärvi:South Ostrobothnia
+62300:Härmä:South Ostrobothnia
+62301:Härmä:South Ostrobothnia
+62310:Voltti:South Ostrobothnia
+62320:Huhtamäki:South Ostrobothnia
+62330:Vakkuri:South Ostrobothnia
+62340:Kuoppa:South Ostrobothnia
+62350:Ekola:South Ostrobothnia
+62360:Kivihuhta:South Ostrobothnia
+62370:Kangasto:South Ostrobothnia
+62375:Ylihärmä:South Ostrobothnia
+62380:Kosolankylä:South Ostrobothnia
+62390:Vesiluoma:South Ostrobothnia
+62395:Petterinmäki:South Ostrobothnia
+62410:Rintala:South Ostrobothnia
+62420:Kortesjärvi:South Ostrobothnia
+62421:Kortesjärvi:South Ostrobothnia
+62430:Peltotupa:South Ostrobothnia
+62435:Pirttinen:South Ostrobothnia
+62440:Perkiömäki:South Ostrobothnia
+62470:Purmojärvi:South Ostrobothnia
+62500:Evijärvi:South Ostrobothnia
+62501:Evijärvi:South Ostrobothnia
+62510:Kuoppa-Aho:South Ostrobothnia
+62520:Kautiainen:South Ostrobothnia
+62530:Lepistönmäki:South Ostrobothnia
+62540:Vasikka-Aho:South Ostrobothnia
+62570:Särkilä:South Ostrobothnia
+62600:Lappajärvi:South Ostrobothnia
+62601:Lappajärvi:South Ostrobothnia
+62610:Tarvola:South Ostrobothnia
+62620:Ala-Seppä:South Ostrobothnia
+62630:Karvala:South Ostrobothnia
+62640:Savonkylä:South Ostrobothnia
+62660:Itäkylä:South Ostrobothnia
+62710:Kurejoki:South Ostrobothnia
+62720:Sissala:South Ostrobothnia
+62730:Haukkala:South Ostrobothnia
+62740:Koskenvarsi:South Ostrobothnia
+62750:Saukonkylä:South Ostrobothnia
+62760:Menkijärvi:South Ostrobothnia
+62800:Vimpeli:South Ostrobothnia
+62801:Vimpeli:South Ostrobothnia
+62810:Savonjoki:South Ostrobothnia
+62820:Teerineva:South Ostrobothnia
+62830:Luoma-Aho:South Ostrobothnia
+62840:Lakaniemi:South Ostrobothnia
+62850:Pokela:South Ostrobothnia
+62860:Sahi:South Ostrobothnia
+62870:Vinni:South Ostrobothnia
+62880:Sääksvesi:South Ostrobothnia
+62900:Alajärvi:South Ostrobothnia
+62901:Alajärvi:South Ostrobothnia
+62920:Levijoki:South Ostrobothnia
+62940:Hoisko:South Ostrobothnia
+62950:Paalijärvi:South Ostrobothnia
+62990:Möksy:South Ostrobothnia
+63100:Kuortane:South Ostrobothnia
+63101:Kuortane:South Ostrobothnia
+63120:Leppälänkylä:South Ostrobothnia
+63130:Mäyry:South Ostrobothnia
+63140:Länsiranta:South Ostrobothnia
+63150:Ruona:South Ostrobothnia
+63160:Salmi:South Ostrobothnia
+63170:Kuortaneen Urheiluopisto:South Ostrobothnia
+63210:Niinimaa:South Ostrobothnia
+63230:Lentilä:South Ostrobothnia
+63250:Rantala:South Ostrobothnia
+63300:Alavus:South Ostrobothnia
+63301:Alavus:South Ostrobothnia
+63320:Kattelus:South Ostrobothnia
+63330:Pahajoki:South Ostrobothnia
+63340:Sapsalampi:South Ostrobothnia
+63350:Sulkavankylä:South Ostrobothnia
+63355:Seinäjärvi:South Ostrobothnia
+63360:Kuivaskylä:South Ostrobothnia
+63370:Taipalus:South Ostrobothnia
+63400:Alavus As:South Ostrobothnia
+63401:Alavus As:South Ostrobothnia
+63410:Rantatöysä:South Ostrobothnia
+63430:Kätkänjoki:South Ostrobothnia
+63450:Löyä:South Ostrobothnia
+63500:Lehtimäki:South Ostrobothnia
+63501:Lehtimäki:South Ostrobothnia
+63510:Lehtimäki Kk:South Ostrobothnia
+63530:Länsikylä:South Ostrobothnia
+63540:Hernesmaa:South Ostrobothnia
+63550:Suninsalmi:South Ostrobothnia
+63600:Töysä:South Ostrobothnia
+63601:Töysä:South Ostrobothnia
+63610:Tuuri:South Ostrobothnia
+63630:Kitula:South Ostrobothnia
+63640:Ritola:South Ostrobothnia
+63660:Ähtärinranta:South Ostrobothnia
+63680:Hakojärvi:South Ostrobothnia
+63700:Ähtäri:South Ostrobothnia
+63701:Ähtäri:South Ostrobothnia
+63706:Ähtärin eläinpuisto:South Ostrobothnia
+63760:Vääräkoski:South Ostrobothnia
+63770:Peränne:South Ostrobothnia
+63780:Alastaipale:South Ostrobothnia
+63800:Soini:South Ostrobothnia
+63801:Soini:South Ostrobothnia
+63810:Laasalanmäki:South Ostrobothnia
+63830:Keisala:South Ostrobothnia
+63880:Kukonkylä:South Ostrobothnia
+63890:Hautakylä:South Ostrobothnia
+63900:Myllymäki:South Ostrobothnia
+63910:Inhan Tehtaat:South Ostrobothnia
+63920:Inha:South Ostrobothnia
+63921:Inha:South Ostrobothnia
+63950:Vehunkylä:South Ostrobothnia
+64100:Kristiinankaupunki:South Ostrobothnia
+64101:Kristiinankaupunki:South Ostrobothnia
+64120:Kristiinankaupunki:South Ostrobothnia
+64140:Tiukka:South Ostrobothnia
+64170:Lålby:South Ostrobothnia
+64200:Närpes:South Ostrobothnia
+64201:Närpes:South Ostrobothnia
+64210:Kalax:South Ostrobothnia
+64220:Yttermark:South Ostrobothnia
+64230:Närpes St:South Ostrobothnia
+64240:Böle:South Ostrobothnia
+64250:Pjelax:South Ostrobothnia
+64260:Kaskinen:South Ostrobothnia
+64261:Kaskinen:South Ostrobothnia
+64300:Lapväärtti:South Ostrobothnia
+64301:Lappfjärd:South Ostrobothnia
+64310:Perus:South Ostrobothnia
+64320:Dagsmark:South Ostrobothnia
+64330:Ohriluoma:South Ostrobothnia
+64340:Karikannas:South Ostrobothnia
+64350:Karijoki:South Ostrobothnia
+64351:Karijoki:South Ostrobothnia
+64360:Ylimaa:South Ostrobothnia
+64370:Myrkky:South Ostrobothnia
+64420:Uttermossa:South Ostrobothnia
+64430:Pakankylä:South Ostrobothnia
+64440:Metsälä:South Ostrobothnia
+64450:Kallträsk:South Ostrobothnia
+64460:Härkmeri:South Ostrobothnia
+64470:Dalen:South Ostrobothnia
+64480:Skaftung:South Ostrobothnia
+64490:Siipyy:South Ostrobothnia
+64510:Nämpnäs:South Ostrobothnia
+64530:Norrnäs:South Ostrobothnia
+64550:Rangsby:South Ostrobothnia
+64610:Övermark:South Ostrobothnia
+64611:Övermark:South Ostrobothnia
+64700:Teuva:South Ostrobothnia
+64701:Teuva:South Ostrobothnia
+64720:Perälä:South Ostrobothnia
+64740:Horo:South Ostrobothnia
+64750:Kauppila:South Ostrobothnia
+64760:Peltola:South Ostrobothnia
+64770:Äystö:South Ostrobothnia
+64810:Vanhakylä:South Ostrobothnia
+64820:Kärjenkoski:South Ostrobothnia
+64830:Villamo:South Ostrobothnia
+64840:Heikkilänjoki:South Ostrobothnia
+64850:Möykky:South Ostrobothnia
+64900:Isojoki:South Ostrobothnia
+64901:Isojoki:South Ostrobothnia
+64920:Polvi:South Ostrobothnia
+64930:Kodesjärvi:South Ostrobothnia
+64960:Kaukoranta:South Ostrobothnia
+64999:Kristiinankaupunki:South Ostrobothnia
+65001:Vaasa:Ostrobothnia
+65007:Vaasa:Ostrobothnia
+65100:Vaasa:Ostrobothnia
+65101:Vaasa:Ostrobothnia
+65120:Vaasa:Ostrobothnia
+65130:Vaasa:Ostrobothnia
+65140:Vaasa:Ostrobothnia
+65170:Vaasa:Ostrobothnia
+65200:Vaasa:Ostrobothnia
+65201:Vaasa:Ostrobothnia
+65210:Vaasa:Ostrobothnia
+65230:Vaasa:Ostrobothnia
+65231:Vaasa:Ostrobothnia
+65240:Vasa:Ostrobothnia
+65250:Vaasa:Ostrobothnia
+65280:Vaasa:Ostrobothnia
+65290:Vaasa:Ostrobothnia
+65300:Vaasa:Ostrobothnia
+65301:Vaasa:Ostrobothnia
+65320:Vaasa:Ostrobothnia
+65321:Vaasa:Ostrobothnia
+65350:Vaasa:Ostrobothnia
+65351:Vaasa:Ostrobothnia
+65370:Vaasa:Ostrobothnia
+65380:Vaasa:Ostrobothnia
+65381:Vaasa:Ostrobothnia
+65410:Sundom:Ostrobothnia
+65430:Kronvik:Ostrobothnia
+65450:Sulva:Ostrobothnia
+65451:Sulva:Ostrobothnia
+65460:Tölby:Ostrobothnia
+65470:Rimal:Ostrobothnia
+65480:Vikby:Ostrobothnia
+65520:Helsingby:Ostrobothnia
+65540:Tuovila:Ostrobothnia
+65610:Mustasaari:Ostrobothnia
+65611:Mustasaari:Ostrobothnia
+65630:Karperö:Ostrobothnia
+65650:Koskö:Ostrobothnia
+65710:Singsby:Ostrobothnia
+65730:Jungsund:Ostrobothnia
+65760:Iskmo:Ostrobothnia
+65800:Raippaluoto:Ostrobothnia
+65801:Raippaluoto:Ostrobothnia
+65870:Björköby:Ostrobothnia
+65920:Norra Vallgrund:Ostrobothnia
+65930:Södra Vallgrund:Ostrobothnia
+65970:Söderudden:Ostrobothnia
+66100:Malax:Ostrobothnia
+66101:Malax:Ostrobothnia
+66140:Övermalax:Ostrobothnia
+66141:Övermalax:Ostrobothnia
+66160:Långåminne:Ostrobothnia
+66200:Korsnäs:Ostrobothnia
+66201:Korsnäs:Ostrobothnia
+66210:Molpe:Ostrobothnia
+66220:Bergö:Ostrobothnia
+66230:Korsbäck:Ostrobothnia
+66240:Petalax:Ostrobothnia
+66241:Petalax:Ostrobothnia
+66250:Nyby:Ostrobothnia
+66260:Svarvar:Ostrobothnia
+66270:Pörtom:Ostrobothnia
+66271:Pörtom:Ostrobothnia
+66275:Sidbäck:Ostrobothnia
+66280:Taklax:Ostrobothnia
+66290:Harrström:Ostrobothnia
+66295:Töjby:Ostrobothnia
+66300:Jurva:Ostrobothnia
+66301:Jurva:Ostrobothnia
+66320:Niemenkylä:Ostrobothnia
+66330:Hakko:Ostrobothnia
+66340:Sarvijoki:Ostrobothnia
+66350:Tainus:Ostrobothnia
+66360:Kesti:Ostrobothnia
+66370:Närvijoki:Ostrobothnia
+66400:Laihia:Ostrobothnia
+66401:Laihia:Ostrobothnia
+66410:Laihia As:Ostrobothnia
+66420:Ruto:Ostrobothnia
+66430:Vedenoja:Ostrobothnia
+66440:Tervajoki:Ostrobothnia
+66441:Tervajoki:Ostrobothnia
+66450:Jakkula:Ostrobothnia
+66460:Haapala:Ostrobothnia
+66470:Jukaja:Ostrobothnia
+66490:Jokisalo:Ostrobothnia
+66500:Vähäkyrö:Ostrobothnia
+66501:Vähäkyrö:Ostrobothnia
+66510:Merikaarto:Ostrobothnia
+66520:Veikkaala:Ostrobothnia
+66530:Koivulahti:Ostrobothnia
+66531:Kvevlax:Ostrobothnia
+66540:Petsmo:Ostrobothnia
+66550:Västerhankmo:Ostrobothnia
+66560:Österhankmo:Ostrobothnia
+66580:Kuni:Ostrobothnia
+66590:Vassor:Ostrobothnia
+66600:Vöyri:Ostrobothnia
+66601:Vöyri:Ostrobothnia
+66610:Rökiö:Ostrobothnia
+66620:Lotlax:Ostrobothnia
+66630:Kärklax:Ostrobothnia
+66640:Maxmo:Ostrobothnia
+66641:Maksamaa:Ostrobothnia
+66650:Tottesund:Ostrobothnia
+66660:Bertby:Ostrobothnia
+66670:Tuckur:Ostrobothnia
+66680:Kaurajärvi:Ostrobothnia
+66690:Rekipelto:Ostrobothnia
+66710:Kaitsor:Ostrobothnia
+66720:Karvat:Ostrobothnia
+66730:Oxkangar:Ostrobothnia
+66760:Särkimo:Ostrobothnia
+66800:Oravainen:Ostrobothnia
+66801:Oravais:Ostrobothnia
+66810:Kimo:Ostrobothnia
+66820:Komossa:Ostrobothnia
+66830:Oravaisten Tehdas:Ostrobothnia
+66831:Oravainen:Ostrobothnia
+66840:Pensala:Ostrobothnia
+66850:Jepua:Ostrobothnia
+66860:Kujala:Ostrobothnia
+66880:Åvist:Ostrobothnia
+66900:Uusikaarlepyy:Ostrobothnia
+66901:Uusikaarlepyy:Ostrobothnia
+66910:Soklot:Ostrobothnia
+66930:Kovjoki:Ostrobothnia
+66950:Munsala:Ostrobothnia
+66970:Hirvlax:Ostrobothnia
+66980:Monå:Ostrobothnia
+66999:Vaasa:Ostrobothnia
+67007:Kokkola:Central Ostrobothnia
+67100:Kokkola:Central Ostrobothnia
+67101:Kokkola:Central Ostrobothnia
+67200:Kokkola:Central Ostrobothnia
+67300:Kokkola:Central Ostrobothnia
+67400:Kokkola:Central Ostrobothnia
+67401:Kokkola:Central Ostrobothnia
+67410:Kokkola:Central Ostrobothnia
+67500:Rimmi:Central Ostrobothnia
+67600:Kokkola:Central Ostrobothnia
+67601:Kokkola:Central Ostrobothnia
+67700:Kokkola:Central Ostrobothnia
+67701:Kokkola:Central Ostrobothnia
+67800:Kokkola:Central Ostrobothnia
+67801:Kokkola:Central Ostrobothnia
+67900:Kokkola:Central Ostrobothnia
+67901:Kokkola:Central Ostrobothnia
+68100:Himanka:Central Ostrobothnia
+68101:Himanka:Central Ostrobothnia
+68150:Hillilä:Central Ostrobothnia
+68210:Marinkainen:Central Ostrobothnia
+68220:Karhi:Central Ostrobothnia
+68230:Lohtaja:Central Ostrobothnia
+68231:Lohtaja:Central Ostrobothnia
+68240:Ala-Viirre:Central Ostrobothnia
+68300:Kälviä:Central Ostrobothnia
+68301:Kälviä:Central Ostrobothnia
+68310:Suonperä:Central Ostrobothnia
+68320:Ruotsalo:Central Ostrobothnia
+68340:Joki-Vuolle:Central Ostrobothnia
+68370:Ullava:Central Ostrobothnia
+68380:Yli-Ullava:Central Ostrobothnia
+68390:Rahkonen:Central Ostrobothnia
+68410:Ala-Veteli:Central Ostrobothnia
+68420:Tast:Central Ostrobothnia
+68500:Kruunupyy:Central Ostrobothnia
+68501:Kruunupyy:Central Ostrobothnia
+68530:Lepplax:Central Ostrobothnia
+68550:Öja:Central Ostrobothnia
+68551:Öja:Central Ostrobothnia
+68555:Bosund:Central Ostrobothnia
+68560:Eugmo:Central Ostrobothnia
+68570:Larsmo:Central Ostrobothnia
+68571:Luoto:Central Ostrobothnia
+68580:Furuholmen:Central Ostrobothnia
+68600:Pietarsaari:Central Ostrobothnia
+68601:Pietarsaari:Central Ostrobothnia
+68607:Pietarsaari:Central Ostrobothnia
+68620:Pietarsaari:Central Ostrobothnia
+68630:Pietarsaari:Central Ostrobothnia
+68660:Pietarsaari:Central Ostrobothnia
+68690:Sundby:Central Ostrobothnia
+68700:Teerijärvi:Central Ostrobothnia
+68701:Teerijärvi:Central Ostrobothnia
+68710:Hästbacka:Central Ostrobothnia
+68730:Kortjärvi:Central Ostrobothnia
+68740:Högnabba:Central Ostrobothnia
+68750:Småbönders:Central Ostrobothnia
+68800:Kolppi:Central Ostrobothnia
+68801:Kolppi:Central Ostrobothnia
+68810:Ytteresse:Central Ostrobothnia
+68820:Ähtävä:Central Ostrobothnia
+68830:Bäckby:Central Ostrobothnia
+68840:Nederlappfors:Central Ostrobothnia
+68850:Jeppo:Central Ostrobothnia
+68870:Edsevö:Central Ostrobothnia
+68910:Pännäinen:Central Ostrobothnia
+68911:Pännäinen:Central Ostrobothnia
+68920:Forsby:Central Ostrobothnia
+68930:Purmo:Central Ostrobothnia
+68940:Lillby:Central Ostrobothnia
+68970:Överpurmo:Central Ostrobothnia
+68999:Kokkola:Central Ostrobothnia
+69100:Kannus:Central Ostrobothnia
+69101:Kannus:Central Ostrobothnia
+69150:Eskola:Central Ostrobothnia
+69170:Yli-Kannus:Central Ostrobothnia
+69199:Kannus:Central Ostrobothnia
+69210:Roikola:Central Ostrobothnia
+69240:Väliviirre:Central Ostrobothnia
+69300:Toholampi:Central Ostrobothnia
+69301:Toholampi:Central Ostrobothnia
+69310:Laitala:Central Ostrobothnia
+69330:Määttälä:Central Ostrobothnia
+69340:Purontaka:Central Ostrobothnia
+69410:Sykäräinen:Central Ostrobothnia
+69420:Syri:Central Ostrobothnia
+69440:Lestijärvi:Central Ostrobothnia
+69450:Yli-Lesti:Central Ostrobothnia
+69510:Halsua:Central Ostrobothnia
+69540:Marjusaari:Central Ostrobothnia
+69550:Kanala:Central Ostrobothnia
+69570:Karvonen:Central Ostrobothnia
+69600:Kaustinen:Central Ostrobothnia
+69601:Kaustinen:Central Ostrobothnia
+69610:Nikula:Central Ostrobothnia
+69620:Salonkylä:Central Ostrobothnia
+69660:Köyhäjoki:Central Ostrobothnia
+69700:Veteli:Central Ostrobothnia
+69701:Veteli:Central Ostrobothnia
+69720:Torppa:Central Ostrobothnia
+69730:Tunkkari:Central Ostrobothnia
+69750:Sillanpää:Central Ostrobothnia
+69810:Isoharju:Central Ostrobothnia
+69820:Räyrinki:Central Ostrobothnia
+69830:Pulkkinen:Central Ostrobothnia
+69850:Patana:Central Ostrobothnia
+69910:Kivikangas:Central Ostrobothnia
+69920:Oksakoski:Central Ostrobothnia
+69950:Perho:Central Ostrobothnia
+69951:Perho:Central Ostrobothnia
+69970:Salamajärvi:Central Ostrobothnia
+69980:Möttönen:Central Ostrobothnia
+69999:Kannus:Central Ostrobothnia
+70007:Kuopio:Pohjois-Savo
+70009:Kuopio:Pohjois-Savo
+70100:Kuopio:Pohjois-Savo
+70101:Kuopio:Pohjois-Savo
+70110:Kuopio:Pohjois-Savo
+70111:Kuopio:Pohjois-Savo
+70150:Kuopio:Pohjois-Savo
+70151:Kuopio:Pohjois-Savo
+70200:Kuopio:Pohjois-Savo
+70201:Kuopio:Pohjois-Savo
+70210:Kuopio:Pohjois-Savo
+70211:Kuopio:Pohjois-Savo
+70240:Kuopio:Pohjois-Savo
+70260:Kuopio:Pohjois-Savo
+70280:Kuopio:Pohjois-Savo
+70300:Kuopio:Pohjois-Savo
+70301:Kuopio:Pohjois-Savo
+70340:Kuopio:Pohjois-Savo
+70341:Kuopio:Pohjois-Savo
+70400:Kuopio:Pohjois-Savo
+70408:Kuopio leirintä:Pohjois-Savo
+70420:Kuopio:Pohjois-Savo
+70421:Kuopio:Pohjois-Savo
+70460:Kuopio:Pohjois-Savo
+70461:Kuopio:Pohjois-Savo
+70500:Kuopio:Pohjois-Savo
+70501:Kuopio:Pohjois-Savo
+70600:Kuopio:Pohjois-Savo
+70601:Kuopio:Pohjois-Savo
+70620:Kuopio:Pohjois-Savo
+70621:Kuopio:Pohjois-Savo
+70700:Kuopio:Pohjois-Savo
+70701:Kuopio:Pohjois-Savo
+70750:Kuopio:Pohjois-Savo
+70780:Kuopio:Pohjois-Savo
+70781:Kuopio:Pohjois-Savo
+70800:Kuopio:Pohjois-Savo
+70801:Siilinjärvi:Pohjois-Savo
+70820:Kuopio:Pohjois-Savo
+70821:Kuopio:Pohjois-Savo
+70870:Hiltulanlahti:Pohjois-Savo
+70871:Hiltulanlahti:Pohjois-Savo
+70900:Toivala:Pohjois-Savo
+70901:Toivala:Pohjois-Savo
+70910:Vuorela:Pohjois-Savo
+70911:Vuorela:Pohjois-Savo
+70940:Jännevirta:Pohjois-Savo
+70941:Jännevirta:Pohjois-Savo
+71130:Kortejoki:Pohjois-Savo
+71150:Vartiala:Pohjois-Savo
+71160:Riistavesi:Pohjois-Savo
+71161:Riistavesi:Pohjois-Savo
+71170:Laukka-Aho:Pohjois-Savo
+71200:Tuusniemi:Pohjois-Savo
+71201:Tuusniemi:Pohjois-Savo
+71210:Tuusjärvi:Pohjois-Savo
+71240:Paakkila:Pohjois-Savo
+71260:Juurikkamäki:Pohjois-Savo
+71270:Ruskila:Pohjois-Savo
+71280:Kosula:Pohjois-Savo
+71310:Vehmersalmi:Pohjois-Savo
+71320:Enonlahti:Pohjois-Savo
+71330:Räsälä:Pohjois-Savo
+71360:Litmaniemi:Pohjois-Savo
+71380:Mustinlahti:Pohjois-Savo
+71460:Paukarlahti:Pohjois-Savo
+71470:Oravikoski:Pohjois-Savo
+71480:Kurkimäki:Pohjois-Savo
+71490:Airaksela:Pohjois-Savo
+71520:Kaislastenlahti:Pohjois-Savo
+71570:Syvänniemi:Pohjois-Savo
+71580:Koskislahti:Pohjois-Savo
+71590:Punnonmäki:Pohjois-Savo
+71610:Salonkulma:Pohjois-Savo
+71630:Riuttasenpää:Pohjois-Savo
+71640:Talluskylä:Pohjois-Savo
+71650:Hirvilahti:Pohjois-Savo
+71660:Leinolanlahti:Pohjois-Savo
+71670:Kurolanlahti:Pohjois-Savo
+71680:Pulkonkoski:Pohjois-Savo
+71690:Varpasmaa:Pohjois-Savo
+71695:Jylänki:Pohjois-Savo
+71720:Käärmelahti:Pohjois-Savo
+71730:Kinnulanlahti:Pohjois-Savo
+71740:Tavinsalmi:Pohjois-Savo
+71745:Haatala:Pohjois-Savo
+71750:Maaninka:Pohjois-Savo
+71760:Ahkionlahti:Pohjois-Savo
+71770:Vianta:Pohjois-Savo
+71775:Tuovilanlahti:Pohjois-Savo
+71780:Hovinmäki:Pohjois-Savo
+71790:Leppäjoki:Pohjois-Savo
+71800:Siilinjärvi:Pohjois-Savo
+71801:Siilinjärvi:Pohjois-Savo
+71807:Siilinjärvi:Pohjois-Savo
+71810:Aappola:Pohjois-Savo
+71820:Pöljä:Pohjois-Savo
+71840:Kuuslahti:Pohjois-Savo
+71850:Leppäkaarre:Pohjois-Savo
+71860:Jälä:Pohjois-Savo
+71870:Harjamäki:Pohjois-Savo
+71880:Tarinaharju:Pohjois-Savo
+71890:Hamula:Pohjois-Savo
+71910:Alapitkä:Pohjois-Savo
+71920:Pajujärvi:Pohjois-Savo
+71930:Karvasalmi:Pohjois-Savo
+71950:Lammasaho:Pohjois-Savo
+71960:Lukkarila:Pohjois-Savo
+71999:Kuopio:Pohjois-Savo
+72100:Karttula:Pohjois-Savo
+72101:Karttula:Pohjois-Savo
+72140:Itä-Karttula:Pohjois-Savo
+72210:Tervo:Pohjois-Savo
+72211:Tervo:Pohjois-Savo
+72220:Eliaksela:Pohjois-Savo
+72300:Vesanto:Pohjois-Savo
+72301:Vesanto:Pohjois-Savo
+72310:Niinivesi:Pohjois-Savo
+72330:Tiitilänkylä:Pohjois-Savo
+72350:Pienola:Pohjois-Savo
+72360:Närhilä:Pohjois-Savo
+72380:Horontaipale:Pohjois-Savo
+72400:Pielavesi:Pohjois-Savo
+72401:Pielavesi:Pohjois-Savo
+72430:Kumpula:Pohjois-Savo
+72480:Panka:Pohjois-Savo
+72490:Saarinen:Pohjois-Savo
+72510:Jokijärvi:Pohjois-Savo
+72530:Säviäntaipale:Pohjois-Savo
+72550:Säviä:Pohjois-Savo
+72570:Mäntylä:Pohjois-Savo
+72600:Keitele:Pohjois-Savo
+72601:Keitele:Pohjois-Savo
+72630:Kuusela:Pohjois-Savo
+72650:Rajala:Pohjois-Savo
+72710:Vaaraslahti:Pohjois-Savo
+72740:Laukkala:Pohjois-Savo
+72810:Jylhänkylä:Pohjois-Savo
+72840:Saarela:Pohjois-Savo
+72880:Koivujoki:Pohjois-Savo
+72930:Tossavanlahti:Pohjois-Savo
+72950:Porttila:Pohjois-Savo
+72980:Petäjäkylä:Pohjois-Savo
+73100:Lapinlahti:Pohjois-Savo
+73101:Lapinlahti:Pohjois-Savo
+73110:Mäntylahti:Pohjois-Savo
+73120:Nerkoo:Pohjois-Savo
+73130:Taipale:Pohjois-Savo
+73140:Onkilahti:Pohjois-Savo
+73160:Horsmanmäki:Pohjois-Savo
+73200:Varpaisjärvi:Pohjois-Savo
+73201:Varpaisjärvi:Pohjois-Savo
+73230:Syvärinpää:Pohjois-Savo
+73250:Korpijärvi:Pohjois-Savo
+73270:Karsanlahti:Pohjois-Savo
+73300:Nilsiä:Pohjois-Savo
+73301:Nilsiä:Pohjois-Savo
+73310:Tahkovuori:Pohjois-Savo
+73350:Haluna:Pohjois-Savo
+73360:Pajulahti:Pohjois-Savo
+73410:Pieksänkoski:Pohjois-Savo
+73420:Tihvonjärvi:Pohjois-Savo
+73460:Muuruvesi:Pohjois-Savo
+73470:Västinniemi:Pohjois-Savo
+73500:Juankoski:Pohjois-Savo
+73501:Juankoski:Pohjois-Savo
+73600:Kaavi:Pohjois-Savo
+73601:Kaavi:Pohjois-Savo
+73610:Rasilampi:Pohjois-Savo
+73620:Kortteinen:Pohjois-Savo
+73630:Kortteiskylä:Pohjois-Savo
+73640:Sivakkavaara:Pohjois-Savo
+73645:Niinivaara:Pohjois-Savo
+73655:Onnivaara:Pohjois-Savo
+73670:Luikonlahti:Pohjois-Savo
+73710:Viitaniemi:Pohjois-Savo
+73730:Losomäki:Pohjois-Savo
+73750:Pisankoski:Pohjois-Savo
+73770:Säyneinen:Pohjois-Savo
+73810:Palonurmi:Pohjois-Savo
+73820:Raatti:Pohjois-Savo
+73830:Siikajärvi:Pohjois-Savo
+73850:Ala-Luosta:Pohjois-Savo
+73860:Pykälikkö:Pohjois-Savo
+73880:Ala-Siikajärvi:Pohjois-Savo
+73890:Aholansaari:Pohjois-Savo
+73900:Rautavaara:Pohjois-Savo
+73901:Rautavaara:Pohjois-Savo
+73970:Riitasalo:Pohjois-Savo
+73990:Kangaslahti:Pohjois-Savo
+74007:Iisalmi:Pohjois-Savo
+74100:Iisalmi:Pohjois-Savo
+74101:Iisalmi:Pohjois-Savo
+74120:Iisalmi:Pohjois-Savo
+74121:Iisalmi:Pohjois-Savo
+74130:Iisalmi:Pohjois-Savo
+74131:Iisalmi:Pohjois-Savo
+74160:Koljonvirta:Pohjois-Savo
+74170:Soinlahti:Pohjois-Savo
+74200:Vieremä:Pohjois-Savo
+74210:Valkeiskylä:Pohjois-Savo
+74230:Salahmi:Pohjois-Savo
+74240:Marttisenjärvi:Pohjois-Savo
+74250:Nissilä:Pohjois-Savo
+74270:Kauppilanmäki:Pohjois-Savo
+74285:Kainuunmäki:Pohjois-Savo
+74300:Sonkajärvi:Pohjois-Savo
+74301:Sonkajärvi:Pohjois-Savo
+74340:Sukeva:Pohjois-Savo
+74341:Sukeva:Pohjois-Savo
+74345:Kalliosuo:Pohjois-Savo
+74360:Sonkakoski:Pohjois-Savo
+74380:Jyrkkä:Pohjois-Savo
+74390:Laakajärvi:Pohjois-Savo
+74420:Hernejärvi:Pohjois-Savo
+74470:Paloinen:Pohjois-Savo
+74490:Koirakoski:Pohjois-Savo
+74510:Peltosalmi:Pohjois-Savo
+74530:Nerohvirta:Pohjois-Savo
+74540:Kotikylä:Pohjois-Savo
+74550:Pörsänmäki:Pohjois-Savo
+74560:Sourunsalo:Pohjois-Savo
+74590:Kurenpolvi:Pohjois-Savo
+74595:Runni:Pohjois-Savo
+74610:Honkaranta:Pohjois-Savo
+74620:Ryönänjoki:Pohjois-Savo
+74630:Heinäkylä:Pohjois-Savo
+74640:Sulkavanjärvi:Pohjois-Savo
+74670:Rapakkojoki:Pohjois-Savo
+74680:Myllyniemi:Pohjois-Savo
+74700:Kiuruvesi:Pohjois-Savo
+74701:Kiuruvesi:Pohjois-Savo
+74720:Niemiskylä:Pohjois-Savo
+74740:Aittojärvi:Pohjois-Savo
+74770:Kalliokylä:Pohjois-Savo
+74790:Paloharju:Pohjois-Savo
+74840:Koppeloharju:Pohjois-Savo
+74860:Turhala:Pohjois-Savo
+74899:Kiuruvesi:Pohjois-Savo
+74940:Remeskylä:Pohjois-Savo
+74980:Tihilänkangas:Pohjois-Savo
+74999:Iisalmi:Pohjois-Savo
+75500:Nurmes:Pohjois-Savo
+75501:Nurmes:Pohjois-Savo
+75507:Nurmes 7:Pohjois-Savo
+75520:Nurmes:Pohjois-Savo
+75530:Nurmes 3:Pohjois-Savo
+75531:Nurmes 3:Pohjois-Savo
+75550:Bomba:Pohjois-Savo
+75570:Paljakka:Pohjois-Savo
+75650:Savikylä:Pohjois-Savo
+75680:Ylä-Luosta:Pohjois-Savo
+75690:Luostanlinna:Pohjois-Savo
+75700:Valtimo:Pohjois-Savo
+75701:Valtimo:Pohjois-Savo
+75710:Karhunpää:Pohjois-Savo
+75740:Pajukoski:Pohjois-Savo
+75770:Puukari:Pohjois-Savo
+75790:Rumo:Pohjois-Savo
+75810:Hirvikoski:Pohjois-Savo
+75840:Ylä-Valtimo:Pohjois-Savo
+75850:Merilä:Pohjois-Savo
+75860:Sivakka:Pohjois-Savo
+75890:Saramo:Pohjois-Savo
+75910:Imanne:Pohjois-Savo
+75920:Ronkeli:Pohjois-Savo
+75930:Petäiskylä:Pohjois-Savo
+75940:Mujejärvi:Pohjois-Savo
+75960:Kuokanvaara:Pohjois-Savo
+75970:Kohtavaara:Pohjois-Savo
+75990:Höljäkkä:Pohjois-Savo
+76007:Pieksämäki:Pohjois-Savo
+76100:Pieksämäki:Pohjois-Savo
+76101:Pieksämäki:Pohjois-Savo
+76120:Pieksämäki:Pohjois-Savo
+76130:Pieksämäki:Pohjois-Savo
+76131:Pieksämäki:Pohjois-Savo
+76140:Pieksämäki:Pohjois-Savo
+76150:Pieksämäki:Pohjois-Savo
+76151:Pieksämäki:Pohjois-Savo
+76280:Partaharju:Pohjois-Savo
+76620:Pyhitty:Pohjois-Savo
+76720:Meijerhovi:Pohjois-Savo
+76780:Lamminmäki:Pohjois-Savo
+76850:Naarajärvi:Pohjois-Savo
+76851:Naarajärvi:Pohjois-Savo
+76940:Nenonpelto:Pohjois-Savo
+77110:Paltanen:Pohjois-Savo
+77120:Venetmäki:Pohjois-Savo
+77140:Huumala:Pohjois-Savo
+77160:Ilmakka:Pohjois-Savo
+77210:Niskamäki:Pohjois-Savo
+77220:Neuvola:Pohjois-Savo
+77240:Halkokumpu:Pohjois-Savo
+77320:Hurskaala:Pohjois-Savo
+77330:Virtasalmi:Pohjois-Savo
+77340:Hällinmäki:Pohjois-Savo
+77350:Montola:Pohjois-Savo
+77360:Väisälä:Pohjois-Savo
+77380:Kantala:Pohjois-Savo
+77430:Siikamäki:Pohjois-Savo
+77460:Maavesi:Pohjois-Savo
+77480:Savuniemi:Pohjois-Savo
+77520:Haapakoski:Pohjois-Savo
+77540:Kotamäki:Pohjois-Savo
+77570:Jäppilä:Pohjois-Savo
+77580:Tihusniemi:Pohjois-Savo
+77600:Suonenjoki:Pohjois-Savo
+77601:Suonenjoki:Pohjois-Savo
+77630:Lempyy:Pohjois-Savo
+77690:Suontee:Pohjois-Savo
+77700:Rautalampi:Pohjois-Savo
+77701:Rautalampi:Pohjois-Savo
+77760:Sulasalmi:Pohjois-Savo
+77770:Myhinpää:Pohjois-Savo
+77777:Korvatunturi:Pohjois-Savo
+77800:Iisvesi:Pohjois-Savo
+77899:Suonenjoki:Pohjois-Savo
+77910:Vaajasalmi:Pohjois-Savo
+77930:Kerkonjoensuu:Pohjois-Savo
+77960:Pakarila:Pohjois-Savo
+77980:Istunmäki:Pohjois-Savo
+77999:Pieksämäki:Pohjois-Savo
+78007:Varkaus:Pohjois-Savo
+78200:Varkaus:Pohjois-Savo
+78201:Varkaus:Pohjois-Savo
+78210:Varkaus:Pohjois-Savo
+78211:Varkaus:Pohjois-Savo
+78250:Varkaus:Pohjois-Savo
+78251:Varkaus:Pohjois-Savo
+78300:Varkaus:Pohjois-Savo
+78310:Varkaus:Pohjois-Savo
+78400:Varkaus:Pohjois-Savo
+78480:Timola:Pohjois-Savo
+78500:Varkaus:Pohjois-Savo
+78610:Varkaus:Pohjois-Savo
+78710:Varkaus:Pohjois-Savo
+78850:Varkaus:Pohjois-Savo
+78870:Varkaus:Pohjois-Savo
+78880:Kuvansi:Pohjois-Savo
+78890:Akonlahti:Pohjois-Savo
+78900:Varkaus:Pohjois-Savo
+79100:Leppävirta:Pohjois-Savo
+79101:Leppävirta:Pohjois-Savo
+79130:Sorsakoski:Pohjois-Savo
+79140:Kotalahti:Pohjois-Savo
+79150:Konnuslahti:Pohjois-Savo
+79160:Saamaiskylä:Pohjois-Savo
+79180:Tuppurinmäki:Pohjois-Savo
+79190:Valkeamäki:Pohjois-Savo
+79230:Moninmäki:Pohjois-Savo
+79255:Kurjala:Pohjois-Savo
+79265:Puponmäki:Pohjois-Savo
+79290:Leppämäki:Pohjois-Savo
+79330:Näädänmaa:Pohjois-Savo
+79340:Huovilansalmi:Pohjois-Savo
+79350:Itä-Soisalo:Pohjois-Savo
+79400:Kuopio:Pohjois-Savo
+79410:Niinimäki:Pohjois-Savo
+79480:Kangaslampi:Pohjois-Savo
+79510:Kurenlahti:Pohjois-Savo
+79520:Viljolahti:Pohjois-Savo
+79530:Hevonlahti:Pohjois-Savo
+79600:Joroinen:Pohjois-Savo
+79601:Joroinen:Pohjois-Savo
+79620:Huutokoski:Pohjois-Savo
+79630:Kolma:Pohjois-Savo
+79650:Kerisalonsaari:Pohjois-Savo
+79660:Kerisalo:Pohjois-Savo
+79680:Lahnalahti:Pohjois-Savo
+79690:Kaitainen:Pohjois-Savo
+79700:Heinävesi:Pohjois-Savo
+79701:Heinävesi:Pohjois-Savo
+79710:Heinävesi As:Pohjois-Savo
+79720:Säynetkoski:Pohjois-Savo
+79750:Koivumäki:Pohjois-Savo
+79770:Rummukkala:Pohjois-Savo
+79780:Malkkila:Pohjois-Savo
+79810:Karvion Kanava:Pohjois-Savo
+79820:Varistaival:Pohjois-Savo
+79830:Palokki:Pohjois-Savo
+79850:Uusi-Valamo:Pohjois-Savo
+79860:Suuraho:Pohjois-Savo
+79870:Juojärvi:Pohjois-Savo
+79880:Lepikkomäki:Pohjois-Savo
+79885:Eteläpetruma:Pohjois-Savo
+79895:Sarvikumpu:Pohjois-Savo
+79899:Leppävirta:Pohjois-Savo
+79910:Kerma:Pohjois-Savo
+79940:Vihtari:Pohjois-Savo
+79970:Poikiinaho:Pohjois-Savo
+79999:Varkaus:Pohjois-Savo
+80007:Joensuu:North Karelia
+80100:Joensuu:North Karelia
+80101:Joensuu:North Karelia
+80110:Joensuu:North Karelia
+80120:Joensuu:North Karelia
+80130:Joensuu:North Karelia
+80131:Joensuu:North Karelia
+80140:Joensuu:North Karelia
+80141:Joensuu:North Karelia
+80150:Joensuu:North Karelia
+80160:Joensuu:North Karelia
+80161:Joensuu:North Karelia
+80170:Joensuu:North Karelia
+80200:Joensuu:North Karelia
+80201:Joensuu:North Karelia
+80210:Joensuu:North Karelia
+80220:Joensuu:North Karelia
+80230:Joensuu:North Karelia
+80260:Joensuu:North Karelia
+80261:Joensuu:North Karelia
+80330:Reijola:North Karelia
+80400:Ylämylly:North Karelia
+80401:Ylämylly:North Karelia
+80410:Jyri:North Karelia
+80411:Jyri:North Karelia
+80420:Honkalampi:North Karelia
+80510:Onttola:North Karelia
+80511:Onttola:North Karelia
+80580:Kunnasniemi:North Karelia
+80710:Lehmo:North Karelia
+80770:Kontiolahti:North Karelia
+80780:Kontioniemi:North Karelia
+80790:Kontioranta:North Karelia
+80791:Kontioranta:North Karelia
+80850:Paihola:North Karelia
+80910:Kulho:North Karelia
+81100:Kontiolahti:North Karelia
+81101:Kontiolahti:North Karelia
+81120:Katajaranta:North Karelia
+81130:Riihiaho:North Karelia
+81140:Hovi:North Karelia
+81150:Riihikangas:North Karelia
+81160:Romppala:North Karelia
+81190:Heraniemi:North Karelia
+81200:Eno:North Karelia
+81201:Eno:North Karelia
+81210:Louhioja:North Karelia
+81220:Jakokoski:North Karelia
+81230:Mönni:North Karelia
+81235:Lehtoi:North Karelia
+81260:Ahveninen:North Karelia
+81270:Paukkaja:North Karelia
+81280:Uimaharju:North Karelia
+81281:Uimaharju:North Karelia
+81290:Ukkola:North Karelia
+81295:Haapalahti:North Karelia
+81320:Kuismavaara:North Karelia
+81330:Luhtapohja:North Karelia
+81350:Tokrajärvi:North Karelia
+81360:Sarvinki:North Karelia
+81390:Revonkylä:North Karelia
+81420:Tyrjänsaari:North Karelia
+81430:Kivilahti:North Karelia
+81450:Huhus:North Karelia
+81460:Käenkoski:North Karelia
+81470:Naarva:North Karelia
+81560:Vuonisjärvi:North Karelia
+81570:Kelvä:North Karelia
+81580:Lapalie:North Karelia
+81590:Vuonislahti:North Karelia
+81640:Sikovaara:North Karelia
+81650:Hattuvaara:North Karelia
+81660:Lehmikylä:North Karelia
+81700:Lieksa:North Karelia
+81701:Lieksa:North Karelia
+81707:Lieksa:North Karelia
+81720:Lieksa:North Karelia
+81730:Lieksa:North Karelia
+81750:Pankakoski:North Karelia
+81770:Tiensuu:North Karelia
+81810:Jamali:North Karelia
+81820:Kylänlahti:North Karelia
+81840:Viekki:North Karelia
+81850:Mätäsvaara:North Karelia
+81860:Viekijärvi:North Karelia
+81899:Lieksa:North Karelia
+81950:Pankajärvi:North Karelia
+81970:Jongunjoki:North Karelia
+81999:Joensuu:North Karelia
+82110:Heinävaara:North Karelia
+82120:Keskijärvi:North Karelia
+82140:Kiihtelysvaara:North Karelia
+82150:Palo:North Karelia
+82160:Oskola:North Karelia
+82165:Oskolankoski:North Karelia
+82170:Uskali:North Karelia
+82180:Huhtilampi:North Karelia
+82190:Viesimo:North Karelia
+82200:Hammaslahti:North Karelia
+82201:Hammaslahti:North Karelia
+82210:Suhmura:North Karelia
+82220:Niittylahti:North Karelia
+82250:Repola:North Karelia
+82255:Kuusvaara:North Karelia
+82270:Karjakumpu:North Karelia
+82290:Nieminen:North Karelia
+82300:Rääkkylä:North Karelia
+82301:Rääkkylä:North Karelia
+82310:Oravisalo:North Karelia
+82315:Varpasalo:North Karelia
+82320:Hypönniemi:North Karelia
+82335:Rasivaara:North Karelia
+82350:Tikkala:North Karelia
+82360:Onkamo:North Karelia
+82361:Onkamo:North Karelia
+82380:Tolosenmäki:North Karelia
+82395:Haarajärvi:North Karelia
+82430:Puhos:North Karelia
+82435:Kokkoaho:North Karelia
+82440:Puhossalo:North Karelia
+82450:Kontiovaara:North Karelia
+82460:Hummovaara:North Karelia
+82470:Leinovaara:North Karelia
+82490:Heinoniemi:North Karelia
+82500:Kitee:North Karelia
+82501:Kitee:North Karelia
+82510:Kiteenlahti:North Karelia
+82530:Ruunamäki:North Karelia
+82580:Juurikka:North Karelia
+82590:Närsäkkälä:North Karelia
+82600:Tohmajärvi:North Karelia
+82601:Tohmajärvi:North Karelia
+82610:Tohmajärvi As:North Karelia
+82650:Patsola:North Karelia
+82655:Värtsilä:North Karelia
+82660:Uusi-Värtsilä:North Karelia
+82670:Kaurila:North Karelia
+82675:Niirala:North Karelia
+82685:Littilä:North Karelia
+82710:Kovero:North Karelia
+82720:Huosiovaara:North Karelia
+82725:Konnunniemi:North Karelia
+82730:Tuupovaara:North Karelia
+82731:Tuupovaara:North Karelia
+82750:Öllölä:North Karelia
+82760:Hoilola:North Karelia
+82780:Saarilampi:North Karelia
+82810:Heinäaho:North Karelia
+82815:Marjovaara:North Karelia
+82820:Maukkula:North Karelia
+82830:Haukivaara:North Karelia
+82840:Pirttiaho:North Karelia
+82850:Kinnasniemi:North Karelia
+82855:Kinnas:North Karelia
+82865:Kokinvaara:North Karelia
+82870:Luutalahti:North Karelia
+82880:Mannervaara:North Karelia
+82900:Ilomantsi:North Karelia
+82901:Ilomantsi:North Karelia
+82915:Sonkaja:North Karelia
+82950:Kuikkalampi:North Karelia
+82960:Lehtovaara:North Karelia
+82967:Hattu:North Karelia
+82980:Möhkö:North Karelia
+82995:Nehvonniemi:North Karelia
+82997:Mutalahti:North Karelia
+83100:Liperi:North Karelia
+83101:Liperi:North Karelia
+83130:Salokylä:North Karelia
+83140:Puromäki:North Karelia
+83150:Roukalahti:North Karelia
+83160:Tutjunniemi:North Karelia
+83250:Rinteelä:North Karelia
+83320:Risti:North Karelia
+83330:Kaatamo:North Karelia
+83340:Kaarnalampi:North Karelia
+83350:Ristinpohja:North Karelia
+83400:Viinijärvi:North Karelia
+83430:Käsämä:North Karelia
+83450:Vaivio:North Karelia
+83460:Harinjärvi:North Karelia
+83480:Ahonkylä:North Karelia
+83500:Outokumpu:North Karelia
+83501:Outokumpu:North Karelia
+83510:Sievi as.:North Karelia
+83520:Outokumpu:North Karelia
+83540:Maarianvaara:North Karelia
+83550:Kokonvaara:North Karelia
+83620:Viuruniemi:North Karelia
+83630:Kuusjärvi:North Karelia
+83660:Varislahti:North Karelia
+83700:Polvijärvi:North Karelia
+83701:Polvijärvi:North Karelia
+83710:Suojapuro:North Karelia
+83720:Kuorevaara:North Karelia
+83750:Sotkuma:North Karelia
+83760:Sola:North Karelia
+83780:Horsmanaho:North Karelia
+83815:Haaralanniemi:North Karelia
+83820:Mutkanvaara:North Karelia
+83825:Kinahmo:North Karelia
+83830:Hukkala:North Karelia
+83835:Ruvaslahti:North Karelia
+83840:Saarivaara:North Karelia
+83845:Sammakkovaara:North Karelia
+83855:Martonvaara:North Karelia
+83865:Timovaara:North Karelia
+83870:Polvela:North Karelia
+83875:Petrovaara:North Karelia
+83880:Kajoo:North Karelia
+83900:Juuka:North Karelia
+83901:Juuka:North Karelia
+83907:Juuka 7:North Karelia
+83910:Paalasmaa:North Karelia
+83915:Vihtasuo:North Karelia
+83940:Nunnanlahti:North Karelia
+83950:Ahmovaara:North Karelia
+83955:Kopravaara:North Karelia
+83960:Koli:North Karelia
+83965:Loma-Koli:North Karelia
+83970:Ylä-Koli:North Karelia
+83980:Kuhnusta:North Karelia
+83985:Tuopanjoki:North Karelia
+84007:Ylivieska:Varsinais-Suomi
+84100:Ylivieska:Varsinais-Suomi
+84101:Ylivieska:Varsinais-Suomi
+84320:Ylivieska:Varsinais-Suomi
+84330:Ylivieska:Varsinais-Suomi
+84460:Ylivieska:Varsinais-Suomi
+84540:Ylivieska:Varsinais-Suomi
+84650:Ylivieska:Varsinais-Suomi
+84770:Ylivieska:Varsinais-Suomi
+84880:Ylivieska:Varsinais-Suomi
+85100:Kalajoki:Varsinais-Suomi
+85101:Kalajoki:Varsinais-Suomi
+85106:Kalajoen hiekkasärkät:Varsinais-Suomi
+85110:Vasankari:Varsinais-Suomi
+85120:Metsä:Varsinais-Suomi
+85140:Tynkä:Varsinais-Suomi
+85150:Typpö:Varsinais-Suomi
+85160:Rautio:Varsinais-Suomi
+85180:Rahja:Varsinais-Suomi
+85200:Alavieska:Varsinais-Suomi
+85201:Alavieska:Varsinais-Suomi
+85210:Kähtävä:Varsinais-Suomi
+85230:Talus:Varsinais-Suomi
+85240:Somerkylä:Varsinais-Suomi
+85310:Sievi As:Varsinais-Suomi
+85320:Markkula:Varsinais-Suomi
+85340:Jyrinki:Varsinais-Suomi
+85410:Sievi:Varsinais-Suomi
+85411:Sievi:Varsinais-Suomi
+85430:Koivisto:Varsinais-Suomi
+85450:Joenkylä:Varsinais-Suomi
+85470:Kiiskilampi:Varsinais-Suomi
+85500:Nivala:Varsinais-Suomi
+85501:Nivala:Varsinais-Suomi
+85520:Korpiranta:Varsinais-Suomi
+85530:Haikara:Varsinais-Suomi
+85540:Mönkö:Varsinais-Suomi
+85560:Ainastalo:Varsinais-Suomi
+85580:Karvoskylä:Varsinais-Suomi
+85620:Sarja:Varsinais-Suomi
+85630:Sarjanahde:Varsinais-Suomi
+85640:Maliskylä:Varsinais-Suomi
+85660:Ruuskankylä:Varsinais-Suomi
+85710:Parkkila:Varsinais-Suomi
+85730:Tulppo:Varsinais-Suomi
+85800:Haapajärvi:Varsinais-Suomi
+85801:Haapajärvi:Varsinais-Suomi
+85820:Oksava:Varsinais-Suomi
+85840:Kuona:Varsinais-Suomi
+85860:Kumiseva:Varsinais-Suomi
+85880:Kalakangas:Varsinais-Suomi
+85900:Reisjärvi:Varsinais-Suomi
+85901:Reisjärvi:Varsinais-Suomi
+85920:Tolpankangas:Varsinais-Suomi
+85930:Kangaskylä:Varsinais-Suomi
+85940:Räisälänmäki:Varsinais-Suomi
+85980:Köyhänperä:Varsinais-Suomi
+85999:Ylivieska:Varsinais-Suomi
+86100:Pyhäjoki:Varsinais-Suomi
+86101:Pyhäjoki:Varsinais-Suomi
+86110:Parhalahti:Varsinais-Suomi
+86160:Pirttikoski:Varsinais-Suomi
+86170:Yppäri:Varsinais-Suomi
+86210:Petäjäskoski:Varsinais-Suomi
+86220:Merijärvi:Varsinais-Suomi
+86230:Ylipää:Varsinais-Suomi
+86240:Pyhänkoski:Varsinais-Suomi
+86300:Oulainen:Varsinais-Suomi
+86301:Oulainen:Varsinais-Suomi
+86310:Oulaskangas:Varsinais-Suomi
+86350:Kilpua:Varsinais-Suomi
+86360:Ilveskorpi:Varsinais-Suomi
+86400:Vihanti:Varsinais-Suomi
+86401:Vihanti:Varsinais-Suomi
+86440:Lampinsaari:Varsinais-Suomi
+86460:Alpua:Varsinais-Suomi
+86470:Lumimetsä:Varsinais-Suomi
+86480:Karhukangas:Varsinais-Suomi
+86510:Matkaniva:Varsinais-Suomi
+86530:Annonen:Varsinais-Suomi
+86550:Mieluskylä:Varsinais-Suomi
+86600:Haapavesi:Varsinais-Suomi
+86601:Haapavesi:Varsinais-Suomi
+86610:Humaloja:Varsinais-Suomi
+86630:Ainali:Varsinais-Suomi
+86650:Kytökylä:Varsinais-Suomi
+86660:Joutenniva:Varsinais-Suomi
+86680:Vatjusjärvi:Varsinais-Suomi
+86690:Karsikas:Varsinais-Suomi
+86710:Kärsämäki:Varsinais-Suomi
+86711:Kärsämäki:Varsinais-Suomi
+86750:Saviselkä:Varsinais-Suomi
+86760:Miiluranta:Varsinais-Suomi
+86770:Luomajoki:Varsinais-Suomi
+86790:Venetpalo:Varsinais-Suomi
+86800:Pyhäsalmi:Varsinais-Suomi
+86801:Pyhäsalmi:Varsinais-Suomi
+86810:Pyhäjärvi:Varsinais-Suomi
+86820:Lamminaho:Varsinais-Suomi
+86840:Kätkytniemi:Varsinais-Suomi
+86850:Hiidenniemi:Varsinais-Suomi
+86870:Vesikoski:Varsinais-Suomi
+86900:Pyhäkumpu:Varsinais-Suomi
+86920:Kuusenmäki:Varsinais-Suomi
+86980:Väliaho:Varsinais-Suomi
+86999:Oulainen:Varsinais-Suomi
+87007:Kajaani:Kainuu
+87100:Kajaani:Kainuu
+87101:Kajaani:Kainuu
+87140:Kajaani:Kainuu
+87150:Kajaani:Kainuu
+87200:Kajaani:Kainuu
+87250:Kajaani:Kainuu
+87300:Kajaani:Kainuu
+87400:Kajaani:Kainuu
+87401:Kajaani:Kainuu
+87500:Kajaani:Kainuu
+87600:Kajaani:Kainuu
+87601:Kajaani:Kainuu
+87700:Kajaani:Kainuu
+87701:Kajaani:Kainuu
+87750:Kajaani:Kainuu
+87830:Nakertaja:Kainuu
+87850:Paltaniemi:Kainuu
+87910:Linnantaus:Kainuu
+87930:Salmijärvi:Kainuu
+87950:Kuluntalahti:Kainuu
+87970:Jormua:Kainuu
+88110:Korholanmäki:Kainuu
+88120:Tuhkakylä:Kainuu
+88200:Otanmäki:Kainuu
+88201:Otanmäki:Kainuu
+88210:Vuottolahti:Kainuu
+88250:Kytökoski:Kainuu
+88260:Saaresmäki:Kainuu
+88270:Vuolijoki:Kainuu
+88300:Paltamo:Kainuu
+88301:Paltamo:Kainuu
+88310:Melalahti:Kainuu
+88320:Hakasuo:Kainuu
+88340:Manamansalo:Kainuu
+88350:Kivesjärvi:Kainuu
+88380:Mieslahti:Kainuu
+88400:Ristijärvi:Kainuu
+88401:Ristijärvi:Kainuu
+88420:Uva:Kainuu
+88440:Jokikylä:Kainuu
+88460:Hiisijärvi:Kainuu
+88470:Kontiomäki:Kainuu
+88490:Pohjavaara:Kainuu
+88530:Paakki:Kainuu
+88600:Sotkamo:Kainuu
+88601:Sotkamo:Kainuu
+88607:Sotkamo:Kainuu
+88610:Vuokatti:Kainuu
+88615:Vuokatin Urheiluopisto:Kainuu
+88620:Korholanmäki:Kainuu
+88640:Ontojoki:Kainuu
+88670:Juurikkalahti:Kainuu
+88690:Maanselkä:Kainuu
+88730:Yli-Vieksi:Kainuu
+88740:Härmänkylä:Kainuu
+88760:Iivantiira:Kainuu
+88820:Katerma:Kainuu
+88899:Kuhmo:Kainuu
+88900:Kuhmo:Kainuu
+88901:Kuhmo:Kainuu
+88910:Pajakkakylä:Kainuu
+88920:Vartius:Kainuu
+88925:Kostamus:Kainuu
+88930:Lentiira:Kainuu
+88940:Kuumu:Kainuu
+88950:Kalliojoki:Kainuu
+88999:Kajaani:Kainuu
+89110:Törmämäki:Kainuu
+89140:Kotila:Kainuu
+89200:Puolanka:Kainuu
+89201:Puolanka:Kainuu
+89210:Puokiovaara:Kainuu
+89320:Joukokylä:Kainuu
+89330:Suolijärvi:Kainuu
+89350:Lylykylä:Kainuu
+89400:Hyrynsalmi:Kainuu
+89401:Hyrynsalmi:Kainuu
+89430:Hoikka:Kainuu
+89440:Sakara:Kainuu
+89540:Moisiovaara:Kainuu
+89560:Karhuvaara:Kainuu
+89600:Suomussalmi:Kainuu
+89601:Ämmänsaari:Kainuu
+89605:Siikaranta:Kainuu
+89607:Ämmänsaari:Kainuu
+89610:Jumaliskylä:Kainuu
+89620:Pitämä:Kainuu
+89640:Pesiökylä:Kainuu
+89660:Takalo:Kainuu
+89670:Näljänkä:Kainuu
+89680:Vaaranniva:Kainuu
+89730:Ahjola:Kainuu
+89740:Kianta:Kainuu
+89750:Haapovaara:Kainuu
+89760:Piispajärvi:Kainuu
+89770:Peranka:Kainuu
+89780:Kaikkonen:Kainuu
+89800:Suomussalmi kk:Kainuu
+89830:Ala-Vuokki:Kainuu
+89840:Yli-Vuokki:Kainuu
+89920:Ruhtinansalmi:Kainuu
+89999:Suomussalmi:Kainuu
+90003:Oulu:Varsinais-Suomi
+90007:Oulu:Varsinais-Suomi
+90009:Oulu:Varsinais-Suomi
+90014:Oulun yliopisto:Varsinais-Suomi
+90015:Oulun kaupunki:Varsinais-Suomi
+90029:Oys:Varsinais-Suomi
+90100:Oulu:Varsinais-Suomi
+90101:Oulu:Varsinais-Suomi
+90120:Oulu:Varsinais-Suomi
+90121:Oulu:Varsinais-Suomi
+90140:Oulu:Varsinais-Suomi
+90141:Oulu:Varsinais-Suomi
+90150:Oulu:Varsinais-Suomi
+90151:Oulu:Varsinais-Suomi
+90160:Oulu:Varsinais-Suomi
+90210:Oulu:Varsinais-Suomi
+90220:Oulu:Varsinais-Suomi
+90221:Oulu:Varsinais-Suomi
+90230:Oulu:Varsinais-Suomi
+90231:Oulu:Varsinais-Suomi
+90240:Oulu:Varsinais-Suomi
+90241:Oulu:Varsinais-Suomi
+90250:Oulu:Varsinais-Suomi
+90251:Oulu:Varsinais-Suomi
+90310:Oulu:Varsinais-Suomi
+90360:Oulu:Varsinais-Suomi
+90400:Oulu:Varsinais-Suomi
+90401:Oulu:Varsinais-Suomi
+90420:Oulu:Varsinais-Suomi
+90440:Kempele:Varsinais-Suomi
+90441:Kempele:Varsinais-Suomi
+90450:Kempele:Varsinais-Suomi
+90451:Kempele:Varsinais-Suomi
+90460:Oulunsalo:Varsinais-Suomi
+90461:Oulunsalo:Varsinais-Suomi
+90470:Varjakka:Varsinais-Suomi
+90480:Hailuoto:Varsinais-Suomi
+90500:Oulu:Varsinais-Suomi
+90501:Oulu:Varsinais-Suomi
+90508:Oulu leirintä:Varsinais-Suomi
+90520:Oulu:Varsinais-Suomi
+90521:Oulu:Varsinais-Suomi
+90530:Oulu:Varsinais-Suomi
+90540:Oulu:Varsinais-Suomi
+90550:Oulu:Varsinais-Suomi
+90551:Oulu:Varsinais-Suomi
+90560:Oulu:Varsinais-Suomi
+90570:Oulu:Varsinais-Suomi
+90571:Oulu:Varsinais-Suomi
+90580:Oulu:Varsinais-Suomi
+90581:Oulu:Varsinais-Suomi
+90600:Oulu:Varsinais-Suomi
+90630:Oulu:Varsinais-Suomi
+90631:Oulu:Varsinais-Suomi
+90650:Oulu:Varsinais-Suomi
+90651:Oulu:Varsinais-Suomi
+90740:Lapinkangas:Varsinais-Suomi
+90800:Oulu:Varsinais-Suomi
+90810:Kiviniemi:Varsinais-Suomi
+90820:Kello:Varsinais-Suomi
+90821:Kello:Varsinais-Suomi
+90830:Haukipudas:Varsinais-Suomi
+90831:Haukipudas:Varsinais-Suomi
+90840:Haukipudas:Varsinais-Suomi
+90850:Martinniemi:Varsinais-Suomi
+90860:Halosenniemi:Varsinais-Suomi
+90900:Kiiminki:Varsinais-Suomi
+90901:Kiiminki:Varsinais-Suomi
+90910:Kontio:Varsinais-Suomi
+90940:Jääli:Varsinais-Suomi
+90941:Jääli:Varsinais-Suomi
+91100:Ii:Varsinais-Suomi
+91101:Ii:Varsinais-Suomi
+91108:Ii leirintä:Varsinais-Suomi
+91110:Ii As:Varsinais-Suomi
+91140:Olhava:Varsinais-Suomi
+91150:Yli-Olhava:Varsinais-Suomi
+91200:Yli-Ii:Varsinais-Suomi
+91201:Yli-ii:Varsinais-Suomi
+91210:Jakkukylä:Varsinais-Suomi
+91240:Tannila:Varsinais-Suomi
+91260:Pahkakoski:Varsinais-Suomi
+91270:Räinä:Varsinais-Suomi
+91300:Ylikiiminki:Varsinais-Suomi
+91310:Arkala:Varsinais-Suomi
+91370:Vepsänkylä:Varsinais-Suomi
+91410:Jokirinne:Varsinais-Suomi
+91430:Leppiniemi:Varsinais-Suomi
+91500:Muhos:Varsinais-Suomi
+91501:Muhos:Varsinais-Suomi
+91510:Rova:Varsinais-Suomi
+91560:Kylmälänkylä:Varsinais-Suomi
+91600:Utajärvi:Varsinais-Suomi
+91601:Utajärvi:Varsinais-Suomi
+91620:Sanginkylä:Varsinais-Suomi
+91630:Juorkuna:Varsinais-Suomi
+91640:Särkijärvi:Varsinais-Suomi
+91660:Ahmas:Varsinais-Suomi
+91670:Rokua:Varsinais-Suomi
+91700:Vaala:Varsinais-Suomi
+91701:Vaala:Varsinais-Suomi
+91710:Jylhämä:Varsinais-Suomi
+91720:Oterma:Varsinais-Suomi
+91730:Kankari:Varsinais-Suomi
+91740:Jaalanka:Varsinais-Suomi
+91750:Liminpuro:Varsinais-Suomi
+91760:Säräisniemi:Varsinais-Suomi
+91780:Neittävä:Varsinais-Suomi
+91790:Nuojua:Varsinais-Suomi
+91800:Tyrnävä:Varsinais-Suomi
+91801:Tyrnävä:Varsinais-Suomi
+91810:Ängeslevä:Varsinais-Suomi
+91900:Liminka:Varsinais-Suomi
+91901:Liminka:Varsinais-Suomi
+91910:Tupos:Varsinais-Suomi
+91930:Ala-Temmes:Varsinais-Suomi
+91950:Temmes:Varsinais-Suomi
+91980:Lumijoki:Varsinais-Suomi
+91981:Lumijoki:Varsinais-Suomi
+91999:Oulu:Varsinais-Suomi
+92007:Raahe:Varsinais-Suomi
+92100:Raahe:Varsinais-Suomi
+92101:Raahe:Varsinais-Suomi
+92120:Raahe:Varsinais-Suomi
+92130:Raahe:Varsinais-Suomi
+92140:Pattijoki:Varsinais-Suomi
+92150:Raahe:Varsinais-Suomi
+92160:Saloinen:Varsinais-Suomi
+92170:Raahensalo:Varsinais-Suomi
+92180:Lapaluoto:Varsinais-Suomi
+92210:Arkkukari:Varsinais-Suomi
+92220:Piehinki:Varsinais-Suomi
+92230:Mattilanperä:Varsinais-Suomi
+92240:Lasikangas:Varsinais-Suomi
+92250:Äyrinmäki:Varsinais-Suomi
+92260:Kopsa:Varsinais-Suomi
+92320:Siikajoki:Varsinais-Suomi
+92330:Karinkanta:Varsinais-Suomi
+92350:Revonlahti:Varsinais-Suomi
+92400:Ruukki:Varsinais-Suomi
+92401:Ruukki:Varsinais-Suomi
+92430:Paavola:Varsinais-Suomi
+92440:Saarikoski:Varsinais-Suomi
+92450:Luohua:Varsinais-Suomi
+92470:Tuomioja:Varsinais-Suomi
+92500:Rantsila:Varsinais-Suomi
+92501:Rantsila:Varsinais-Suomi
+92520:Sipola:Varsinais-Suomi
+92530:Mankila:Varsinais-Suomi
+92600:Pulkkila:Varsinais-Suomi
+92601:Pulkkila:Varsinais-Suomi
+92610:Vorna:Varsinais-Suomi
+92620:Piippola:Varsinais-Suomi
+92640:Leskelä:Varsinais-Suomi
+92650:Laakkola:Varsinais-Suomi
+92700:Kestilä:Varsinais-Suomi
+92701:Kestilä:Varsinais-Suomi
+92710:Kestilä:Varsinais-Suomi
+92810:Pelsonsuo:Varsinais-Suomi
+92830:Veneheitto:Varsinais-Suomi
+92910:Tavastkenkä:Varsinais-Suomi
+92920:Ahokylä:Varsinais-Suomi
+92930:Pyhäntä:Varsinais-Suomi
+92931:Pyhäntä:Varsinais-Suomi
+93100:Pudasjärvi:Varsinais-Suomi
+93101:Pudasjärvi:Varsinais-Suomi
+93117:Pudasjärvi:Varsinais-Suomi
+93140:Kipinä:Varsinais-Suomi
+93145:Kollaja:Varsinais-Suomi
+93150:Uutela:Varsinais-Suomi
+93160:Hetejärvi:Varsinais-Suomi
+93170:Yli-Kollaja:Varsinais-Suomi
+93180:Ikosenniemi:Varsinais-Suomi
+93187:Ala-Siurua:Varsinais-Suomi
+93190:Yli-Siurua:Varsinais-Suomi
+93195:Kokkokylä:Varsinais-Suomi
+93220:Livo:Varsinais-Suomi
+93225:Pärjänsuo:Varsinais-Suomi
+93240:Rytinki:Varsinais-Suomi
+93250:Sarajärvi:Varsinais-Suomi
+93270:Sotkajärvi:Varsinais-Suomi
+93277:Iinattijärvi:Varsinais-Suomi
+93280:Syöte:Varsinais-Suomi
+93290:Pintamo:Varsinais-Suomi
+93320:Ervasti:Varsinais-Suomi
+93340:Siivikko:Varsinais-Suomi
+93350:Jaurakkajärvi:Varsinais-Suomi
+93390:Puhoskylä:Varsinais-Suomi
+93400:Taivalkoski:Varsinais-Suomi
+93401:Taivalkoski:Varsinais-Suomi
+93420:Jurmu:Varsinais-Suomi
+93440:Loukusa:Varsinais-Suomi
+93470:Inget:Varsinais-Suomi
+93540:Tyrövaara:Varsinais-Suomi
+93590:Vanhala:Varsinais-Suomi
+93600:Kuusamo:Varsinais-Suomi
+93601:Kuusamo:Varsinais-Suomi
+93607:Kuusamo:Varsinais-Suomi
+93608:Kuusamo leirintä:Varsinais-Suomi
+93620:Kuusamo:Varsinais-Suomi
+93630:Kuoliovaara:Varsinais-Suomi
+93640:Penttilänvaara:Varsinais-Suomi
+93650:Purnuvaara:Varsinais-Suomi
+93670:Haataja:Varsinais-Suomi
+93680:Vasaraperä:Varsinais-Suomi
+93690:Rönni:Varsinais-Suomi
+93695:Mustosenvaara:Varsinais-Suomi
+93720:Kemilä:Varsinais-Suomi
+93730:Poussu:Varsinais-Suomi
+93760:Murtovaara:Varsinais-Suomi
+93770:Kurvisenkylä:Varsinais-Suomi
+93780:Teeriranta:Varsinais-Suomi
+93790:Irni:Varsinais-Suomi
+93820:Aikkila:Varsinais-Suomi
+93825:Rukatunturi:Varsinais-Suomi
+93830:Kitka:Varsinais-Suomi
+93840:Patoniemi:Varsinais-Suomi
+93850:Käylä:Varsinais-Suomi
+93855:Liikasenvaara:Varsinais-Suomi
+93860:Ruvanaho:Varsinais-Suomi
+93875:Jyrävä:Varsinais-Suomi
+93880:Takkusalmi:Varsinais-Suomi
+93899:Pudasjärvi:Varsinais-Suomi
+93920:Määttälänvaara:Varsinais-Suomi
+93940:Vuotunki:Varsinais-Suomi
+93980:Heikkilänniemi:Varsinais-Suomi
+93990:Kärpänkylä:Varsinais-Suomi
+93999:Kuusamo:Varsinais-Suomi
+94007:Kemi:Lapland
+94100:Kemi:Lapland
+94101:Kemi:Lapland
+94130:Kemi:Lapland
+94200:Kemi:Lapland
+94300:Kemi:Lapland
+94400:Keminmaa:Lapland
+94401:Keminmaa:Lapland
+94430:Kaakamo:Lapland
+94450:Keminmaa 2:Lapland
+94451:Keminmaa 2:Lapland
+94500:Lautiosaari:Lapland
+94600:Kemi:Lapland
+94601:Kemi:Lapland
+94700:Kemi:Lapland
+94701:Kemi:Lapland
+94720:Kemi:Lapland
+94800:Kemi:Lapland
+94830:Kemi:Lapland
+94831:Kemi:Lapland
+94900:Kemi:Lapland
+95100:Kuivaniemi:Lapland
+95101:Kuivaniemi:Lapland
+95110:Kuivaniemi Kk:Lapland
+95120:Myllykangas:Lapland
+95130:Hyryoja:Lapland
+95140:Luola-Aapa:Lapland
+95160:Oijärvi:Lapland
+95170:Lamminperä:Lapland
+95180:Ruohola:Lapland
+95200:Simo:Lapland
+95201:Simo:Lapland
+95210:Filpus:Lapland
+95220:Simoniemi:Lapland
+95225:Viantie:Lapland
+95230:Maksniemi:Lapland
+95240:Vilmi:Lapland
+95250:Soikko:Lapland
+95255:Alaniemi:Lapland
+95260:Tainionjoki:Lapland
+95270:Yli-Kärppä:Lapland
+95280:Näverrys:Lapland
+95285:Yli-Hosio:Lapland
+95290:Leppiaho:Lapland
+95295:Rovastinaho:Lapland
+95300:Tervola:Lapland
+95301:Tervola:Lapland
+95310:Liedakkala:Lapland
+95315:Törmä:Lapland
+95325:Paakkola:Lapland
+95330:Kaisajoki:Lapland
+95335:Varejoki:Lapland
+95340:Loue:Lapland
+95350:Peura:Lapland
+95355:Koivu:Lapland
+95360:Ilmola:Lapland
+95365:Maula:Lapland
+95370:Itäkoski:Lapland
+95375:Yli-Paakkola:Lapland
+95400:Tornio:Lapland
+95401:Tornio:Lapland
+95407:Tornio:Lapland
+95410:Kiviranta:Lapland
+95420:Tornio:Lapland
+95421:Tornio:Lapland
+95430:Tornio:Lapland
+95440:Kyläjoki:Lapland
+95450:Tornio:Lapland
+95470:Pirkkiö:Lapland
+95490:Röyttä:Lapland
+95500:Vojakkala:Lapland
+95520:Kukkola:Lapland
+95530:Karunki:Lapland
+95540:Korpikylä:Lapland
+95560:Aapajoki:Lapland
+95565:Kourilehto:Lapland
+95580:Apt 4:Lapland
+95590:Arpela:Lapland
+95600:Ylitornio:Lapland
+95601:Ylitornio:Lapland
+95610:Kainuunkylä:Lapland
+95615:Pekanpää:Lapland
+95620:Aavasaksa:Lapland
+95630:Kuivakangas:Lapland
+95635:Kaulinranta:Lapland
+95640:Juoksenki:Lapland
+95645:Turtola:Lapland
+95655:Etelä-Portimojärvi:Lapland
+95660:Kantomaanpää:Lapland
+95670:Pessalompolo:Lapland
+95675:Meltosjärvi:Lapland
+95680:Lohijärvi:Lapland
+95690:Mellakoski:Lapland
+95700:Pello:Lapland
+95701:Pello:Lapland
+95710:Naamijoki:Lapland
+95720:Jarhoinen:Lapland
+95730:Väylänpää:Lapland
+95750:Orajärvi:Lapland
+95760:Konttajärvi:Lapland
+95770:Lankojärvi:Lapland
+95780:Sirkkakoski:Lapland
+95790:Lampsijärvi:Lapland
+95793:Pello:Lapland
+95800:Sieppijärvi:Lapland
+95810:Sammalvaara:Lapland
+95830:Vaattojärvi:Lapland
+95840:Venejärvenkylä:Lapland
+95850:Ruokojärvi:Lapland
+95860:Pasmajärvi:Lapland
+95900:Kolari:Lapland
+95901:Kolari:Lapland
+95910:Lappea:Lapland
+95920:Saaripudas:Lapland
+95930:Äkäsjoensuu:Lapland
+95940:Tapojärvi:Lapland
+95950:Kihlanki:Lapland
+95970:Äkäslompolo:Lapland
+95971:Äkäslompolo:Lapland
+95980:Ylläsjärvi:Lapland
+95990:Kurtakko:Lapland
+95999:Kemi:Lapland
+96007:Rovaniemi:Lapland
+96100:Rovaniemi:Lapland
+96101:Rovaniemi:Lapland
+96190:Rovaniemi:Lapland
+96200:Rovaniemi:Lapland
+96201:Rovaniemi:Lapland
+96300:Rovaniemi:Lapland
+96301:Rovaniemi:Lapland
+96320:Rovaniemi:Lapland
+96400:Rovaniemi:Lapland
+96420:Rovaniemi:Lapland
+96440:Rovaniemi:Lapland
+96441:Rovaniemi:Lapland
+96460:Rovaniemi:Lapland
+96500:Rovaniemi:Lapland
+96580:Rovaniemi:Lapland
+96600:Rovaniemi:Lapland
+96700:Rovaniemi:Lapland
+96800:Rovaniemi:Lapland
+96900:Saarenkylä:Lapland
+96910:Rovaniemi:Lapland
+96911:Rovaniemi:Lapland
+96930:Napapiiri Rovaniemi:Lapland
+96960:Rovaniemi:Lapland
+96961:Rovaniemi:Lapland
+97110:Rautionsaari:Lapland
+97130:Hirvas:Lapland
+97140:Muurola:Lapland
+97145:Totonvaara:Lapland
+97160:Petäjäinen:Lapland
+97170:Jaatila:Lapland
+97190:Pisa:Lapland
+97220:Sinettä:Lapland
+97240:Sonka:Lapland
+97250:Raanujärvi:Lapland
+97270:Romakkaniemi:Lapland
+97280:Tapio:Lapland
+97290:Marraskoski:Lapland
+97310:Patokoski:Lapland
+97320:Marrasjärvi:Lapland
+97330:Rattosjärvi:Lapland
+97335:Ruuhivaara:Lapland
+97340:Meltaus:Lapland
+97350:Jääskö:Lapland
+97360:Perttaus:Lapland
+97370:Unarin-Luusua:Lapland
+97380:Kukasranta:Lapland
+97390:Kierinki:Lapland
+97420:Lohiniva:Lapland
+97430:Taapajärvi:Lapland
+97440:Helppi:Lapland
+97450:Tuuliharju:Lapland
+97460:Paloselkä:Lapland
+97470:Alakylä:Lapland
+97510:Vikajärvi:Lapland
+97520:Nampa:Lapland
+97530:Yli-Nampa:Lapland
+97540:Tiainen:Lapland
+97560:Käyrämö:Lapland
+97580:Misi:Lapland
+97590:Raajärvi:Lapland
+97610:Oikarainen:Lapland
+97615:Tennirova:Lapland
+97620:Viiri:Lapland
+97625:Vanttauskoski:Lapland
+97630:Pekkala:Lapland
+97635:Juuniemi:Lapland
+97645:Juujärvi:Lapland
+97650:Juotas:Lapland
+97655:Autti:Lapland
+97660:Piittisjärvi:Lapland
+97665:Pohjasperä:Lapland
+97667:Putkimäki:Lapland
+97670:Kivitaipale:Lapland
+97675:Narkaus:Lapland
+97680:Saari-Kämä:Lapland
+97685:Siika-Kämä:Lapland
+97690:Sulaoja:Lapland
+97700:Ranua:Lapland
+97701:Ranua:Lapland
+97715:Raiskio:Lapland
+97720:Yli-Simo:Lapland
+97740:Aitakumpu:Lapland
+97745:Rousamo:Lapland
+97750:Kuha:Lapland
+97755:Sääskilahti:Lapland
+97760:Saariharju:Lapland
+97765:Impiö:Lapland
+97770:Petäjäjärvi:Lapland
+97780:Kuukasjärvi:Lapland
+97785:Kelankylä:Lapland
+97810:Suorsa:Lapland
+97815:Pernu:Lapland
+97820:Perä-Posio:Lapland
+97840:Lehtiniemi:Lapland
+97850:Ristilä:Lapland
+97860:Aittaniemi:Lapland
+97870:Jumisko:Lapland
+97880:Nolimo:Lapland
+97890:Karjalaisenniemi:Lapland
+97895:Mourujärvi:Lapland
+97900:Posio:Lapland
+97901:Posio:Lapland
+97920:Suonnankylä:Lapland
+97925:Tolva:Lapland
+97940:Lohiranta:Lapland
+97950:Säikkä:Lapland
+97960:Kuloharju:Lapland
+97965:Kynsilä:Lapland
+97970:Sirniö:Lapland
+97980:Anetjärvi:Lapland
+97999:Rovaniemi:Lapland
+98007:Kemijärvi:Lapland
+98100:Kemijärvi:Lapland
+98101:Kemijärvi:Lapland
+98120:Kemijärvi:Lapland
+98121:Kemijärvi:Lapland
+98220:Karsimus:Lapland
+98230:Luusua:Lapland
+98260:Kuusivaara:Lapland
+98280:Sammale:Lapland
+98310:Kemijärvi:Lapland
+98330:Javarus:Lapland
+98350:Tapionniemi:Lapland
+98360:Vuostimo:Lapland
+98370:Vuostimojärvi:Lapland
+98390:Autioniemi:Lapland
+98400:Isokylä:Lapland
+98420:Ryti-Lehtola:Lapland
+98440:Kallaanvaara:Lapland
+98450:Kostamo:Lapland
+98470:Oinaankylä:Lapland
+98500:Pelkosenniemi:Lapland
+98510:Saunavaara:Lapland
+98520:Saukkoaapa:Lapland
+98530:Pyhätunturi:Lapland
+98540:Kultakero:Lapland
+98550:Suvanto:Lapland
+98560:Kairala:Lapland
+98570:Aapajärvi:Lapland
+98580:Luiro:Lapland
+98600:Kursu:Lapland
+98620:Pahkakumpu:Lapland
+98630:Ahvenselkä:Lapland
+98660:Salmivaara:Lapland
+98710:Joutsijärvi:Lapland
+98720:Suomulahti:Lapland
+98730:Tonkopuro:Lapland
+98740:Morottaja:Lapland
+98760:Hirvasvaara:Lapland
+98770:Aholanvaara:Lapland
+98780:Maaninkavaara:Lapland
+98790:Paloperä:Lapland
+98800:Savukoski:Lapland
+98810:Lunkkaus:Lapland
+98820:Värriö:Lapland
+98830:Martti:Lapland
+98840:Ruuvaoja:Lapland
+98850:Kuosku:Lapland
+98860:Nousu:Lapland
+98900:Salla:Lapland
+98901:Salla:Lapland
+98920:Kelloselkä:Lapland
+98930:Kotalankylä:Lapland
+98950:Saija:Lapland
+98960:Naruska:Lapland
+98970:Onkamojärvi:Lapland
+98980:Kallunki:Lapland
+98995:Hautajärvi:Lapland
+98999:Kemijärvi:Lapland
+99100:Kittilä:Lapland
+99101:Kittilä:Lapland
+99110:Kaukonen:Lapland
+99120:Kallo:Lapland
+99130:Sirkka:Lapland
+99131:Sirkka:Lapland
+99135:Rauhala:Lapland
+99140:Köngäs:Lapland
+99150:Tepasto:Lapland
+99160:Lompolo:Lapland
+99170:Pulju:Lapland
+99180:Rautusjärvi:Lapland
+99190:Hanhimaa:Lapland
+99195:Pokka:Lapland
+99210:Pitkäkumpu:Lapland
+99220:Vittakumpu:Lapland
+99230:Jeesiöjärvi:Lapland
+99240:Kuivasalmi:Lapland
+99250:Kiistala:Lapland
+99270:Hormakumpu:Lapland
+99280:Tepsa:Lapland
+99290:Kelontekemä:Lapland
+99300:Muonio:Lapland
+99301:Muonio:Lapland
+99310:Yli-Muonio:Lapland
+99320:Kätkäsuvanto:Lapland
+99330:Pallastunturi:Lapland
+99340:Raattama:Lapland
+99360:Kangosjärvi:Lapland
+99380:Jerisjärvi:Lapland
+99400:Enontekiö:Lapland
+99401:Enontekiö:Lapland
+99410:Vuontisjärvi:Lapland
+99420:Peltovuoma:Lapland
+99430:Nunnanen:Lapland
+99440:Leppäjärvi:Lapland
+99450:Palojoensuu:Lapland
+99460:Kuttanen:Lapland
+99470:Karesuvanto:Lapland
+99490:Kilpisjärvi:Lapland
+99510:Raudanjoki:Lapland
+99520:Seipäjärvi:Lapland
+99530:Vuojärvi:Lapland
+99540:Torvinen:Lapland
+99550:Aska:Lapland
+99555:Luosto:Lapland
+99560:Orakylä:Lapland
+99600:Sodankylä:Lapland
+99601:Sodankylä:Lapland
+99607:Sodankylä:Lapland
+99610:Siurunmaa:Lapland
+99620:Kelujärvi:Lapland
+99640:Tanhua:Lapland
+99645:Lokka:Lapland
+99650:Sattanen:Lapland
+99655:Sattasvaara:Lapland
+99660:Kersilö:Lapland
+99665:Moskuvaara:Lapland
+99670:Petkula:Lapland
+99680:Yli-kitinen:Lapland
+99690:Vuotso:Lapland
+99695:Tankavaara:Lapland
+99710:Vaalajärvi:Lapland
+99720:Riipi:Lapland
+99740:Syväjärvi:Lapland
+99750:Sassali:Lapland
+99760:Uimaniemi:Lapland
+99770:Jeesiö:Lapland
+99790:Jääkärinkangas:Lapland
+99800:Ivalo:Lapland
+99801:Ivalo:Lapland
+99820:Kaunispää:Lapland
+99830:Saariselkä:Lapland
+99831:Saariselkä:Lapland
+99835:Laanila:Lapland
+99860:Nellim:Lapland
+99870:Inari:Lapland
+99871:Inari:Lapland
+99880:Menesjärvi:Lapland
+99885:Lemmenjoki:Lapland
+99890:Lisma:Lapland
+99910:Kaamanen:Lapland
+99920:Partakko:Lapland
+99930:Sevettijärvi:Lapland
+99940:Näätämö:Lapland
+99941:Näätämö:Lapland
+99950:Karigasniemi:Lapland
+99951:Karigasniemi:Lapland
+99960:Outakoski:Lapland
+99970:Nuvvus:Lapland
+99980:Utsjoki:Lapland
+99981:Utsjoki:Lapland
+99990:Nuorgam:Lapland
+99999:Korvatunturi:Lapland

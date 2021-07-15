@@ -1,0 +1,16 @@
+N
+S
+E
+W
+North
+South
+East
+West
+NE
+NW
+SE
+SW
+Northeast
+Northwest
+Southeast
+Southwest

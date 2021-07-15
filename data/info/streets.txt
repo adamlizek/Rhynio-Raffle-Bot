@@ -1,0 +1,12 @@
+Circle
+Lane
+Boulevard
+Cir
+Ln
+Blvd
+Place
+Street
+St
+Str.
+St.
+Court
