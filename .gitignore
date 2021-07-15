@@ -3,10 +3,8 @@
 *.pyc
 build
 dist
-output/
 data/user
 venv
-icon.ico
 data/driver/chromedriver.exe
 data/driver/proxy_auth_plugin.zip
 *.exe
