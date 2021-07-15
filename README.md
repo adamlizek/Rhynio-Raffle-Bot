@@ -3,12 +3,21 @@
 
 My old code written with a friend for RhynioBot - A Sneaker Raffle Bot
 
+- Automated email forwarding and account registration on various websites using HTTP requests (and the occasional Selenium Webdriver)
+- Handled captchas via an external API (Supports 2Captcha, Anticaptcha, and Capmonster)
+- Authenticated users via MongoDB IP/Key pairings
+- Ported the terminal-based version of the application to a Qt user interface
+
+TL;DR: Software to mass-enter raffles for Sneakers on a bunch of different websites, with unique IPs/Names/Addresses/Emails etc.
+
 https://twitter.com/RhynioBot
 
 https://www.rhyn.io/
 
 Code will not run in its current state as I removed private URIs to my Mongo DB, as well as the endpoints to my Address / Authentication server.
 Was a fun project that I worked on during college with a friend and eventually monetized. Helped me learn Python and Requests throughout the year. In addition, utilized the Cloudscraper (Helheim) API which is currently closed-source and unavailable to the public.
+
+The address API server has been turned off as well, but would take in a request and return a real US Address (From a Mongo Database we set up with 9 Million real addresses from https://openaddresses.io/)
 
 The code is sloppy and hasn't been updated in the last 6 months, but uploading regardless.
 
